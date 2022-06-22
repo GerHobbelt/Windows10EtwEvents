@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  - run:
+  job_build:
     name: Build
     runs-on: windows-2019
     steps:
@@ -31,7 +31,7 @@ jobs:
             _src\bin\Release\DumpRegisteredEtwProviders.exe
             _src\bin\Release\*.dll
 
-  - run:
+  job_run:
     name: Run
     runs-on: windows-latest
     steps:
