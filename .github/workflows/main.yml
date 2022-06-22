@@ -16,18 +16,31 @@ jobs:
         with:
           submodules: recursive
 
+      - name: Install msbuild
+        uses: microsoft/setup-msbuild@v1.1
+
       - name: Set WINDOWS_VERSION env variable
         run: Echo ("WINDOWS_VERSION="+([System.Environment]::OSVersion.Version).ToString()) | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
         shell: powershell
 
+      - name: Build src
+        run: msbuild -restore _src\DumpRegisteredEtwProviders.sln -verbosity:diag -property:RestorePackagesConfig=true -property:Configuration=Release
+
       - name: Generate List
         run: logman query providers | Out-File -FilePath .\list\logman_providers.txt -Encoding ascii
+        shell: powershell
+      - name: Generate Details
+        run: |
+          Copy-Item .\_src\bin\Release\DumpRegisteredEtwProviders.exe .
+          Copy-Item .\_src\bin\Release\*.dll .
+          .\DumpRegisteredEtwProviders.exe
+          Copy-Item -Recurse -Force .\output\* .
         shell: powershell
 
       - name: Add new commit if needed
         uses: EndBug/add-and-commit@v5
         with:
-          add: "manifest mof unknown list --force"
+          add: "manifest mof unknown list version.txt --force"
           message: "Updated to ${{ env.WINDOWS_VERSION }}"
           tag: "${{ env.WINDOWS_VERSION }} --force"
         env:

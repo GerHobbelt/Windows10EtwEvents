@@ -1,0 +1,12 @@
+# From Visual studio
+_src/bin
+_src/obj
+_src/packages
+_src/*/obj
+_src/*/bin
+_src/*/packages
+
+# Possibly in root dir from GitHub action
+DumpRegisteredEtwProviders.exe
+*.dll
+output
