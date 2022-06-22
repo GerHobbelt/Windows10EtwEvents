@@ -1,0 +1,66 @@
+provider	category	event_id	version	event(fields)	event_type	description
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	1	0	AspNetStart(UInt64 ConnID, Object ContextId, String Method, String Path, String QueryString)	Start	Start
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	2	0	AspNetStop(UInt64 ConnID, Object ContextId)	End	End
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	3	0	AspNetRequestQueued(UInt64 ConnID, Object ContextId)	RequestQueued	RequestQueued
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	4	0	AspNetRequestDequeued(UInt64 ConnID, Object ContextId)	RequestDequeued	RequestDequeued
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	5	0	AspNetGetAppDomainEnter(UInt64 ConnID, Object ContextId)	GetAppDomainEnter	GetAppDomainEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	6	0	AspNetGetAppDomainLeave(UInt64 ConnID, Object ContextId)	GetAppDomainLeave	GetAppDomainLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	7	0	AspNetAppDomainEnter(UInt64 ConnID, Object ContextId, String DomainId)	AppDomainEnter	AppDomainEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	8	0	AspNetStartHandler(UInt64 ConnID, Object ContextId, String HandlerName, String EventName)	StartHandler	StartHandler
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	9	0	AspNetEndHandler(UInt64 ConnID, Object ContextId)	EndHandler	EndHandler
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	10	0	AspNetPipelineModuleEnter(UInt64 ConnID, Object ContextId, String ModuleName)	PipelineModuleEnter	PipelineModuleEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	11	0	AspNetPipelineModuleLeave(UInt64 ConnID, Object ContextId, String ModuleName)	PipelineModuleLeave	PipelineModuleLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	12	0	AspNetMapHandlerEnter(UInt64 ConnID, Object ContextId)	MapHandlerEnter	MapHandlerEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	13	0	AspNetMapHandlerLeave(UInt64 ConnID, Object ContextId)	MapHandlerLeave	MapHandlerLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	14	0	AspNetParseEnter(UInt64 ConnID, Object ContextId)	ParseEnter	ParseEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	15	0	AspNetParseLeave(UInt64 ConnID, Object ContextId)	ParseLeave	ParseLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	16	0	AspNetCompileEnter(UInt64 ConnID, Object ContextId)	CompileEnter	CompileEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	17	0	AspNetCompileLeave(UInt64 ConnID, Object ContextId, String Files, String Status)	CompileLeave	CompileLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	18	0	AspNetHttpHandlerEnter(UInt64 ConnID, Object ContextId)	HttpHandlerEnter	HttpHandlerEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	19	0	AspNetHttpHandlerLeave(UInt64 ConnID, Object ContextId)	HttpHandlerLeave	HttpHandlerLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	20	0	AspNetSessionStatePartitionStart(UInt64 ConnID, Object ContextId, String ResolverType, String SessionId)	SessionStatePartitionStart	SessionStatePartitionStart
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	21	0	AspNetSessionStatePartitionEnd(UInt64 ConnID, Object ContextId, String ResolverResult)	SessionStatePartitionEnd	SessionStatePartitionEnd
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	22	0	AspNetPagePreInitEnter(UInt64 ConnID, Object ContextId)	PagePreInitEnter	PagePreInitEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	23	0	AspNetPagePreInitLeave(UInt64 ConnID, Object ContextId)	PagePreInitLeave	PagePreInitLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	24	0	AspNetPageInitEnter(UInt64 ConnID, Object ContextId)	PageInitEnter	PageInitEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	25	0	AspNetPageInitLeave(UInt64 ConnID, Object ContextId)	PageInitLeave	PageInitLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	26	0	AspNetPageLoadViewstateEnter(UInt64 ConnID, Object ContextId)	PageLoadViewstateEnter	PageLoadViewstateEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	27	0	AspNetPageLoadViewstateLeave(UInt64 ConnID, Object ContextId)	PageLoadViewstateLeave	PageLoadViewstateLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	28	0	AspNetPageLoadPostDataEnter(UInt64 ConnID, Object ContextId)	PageLoadPostDataEnter	PageLoadPostDataEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	29	0	AspNetPageLoadPostDataLeave(UInt64 ConnID, Object ContextId)	PageLoadPostDataLeave	PageLoadPostDataLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	30	0	AspNetPageLoadEnter(UInt64 ConnID, Object ContextId)	PageLoadEnter	PageLoadEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	31	0	AspNetPageLoadLeave(UInt64 ConnID, Object ContextId)	PageLoadLeave	PageLoadLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	32	0	AspNetPagePostDataChangedEnter(UInt64 ConnID, Object ContextId)	PagePostDataChangedEnter	PagePostDataChangedEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	33	0	AspNetPagePostDataChangedLeave(UInt64 ConnID, Object ContextId)	PagePostDataChangedLeave	PagePostDataChangedLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	34	0	AspNetPageRaisePostbackEnter(UInt64 ConnID, Object ContextId)	PageRaisePostbackEnter	PageRaisePostbackEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	35	0	AspNetPageRaisePostbackLeave(UInt64 ConnID, Object ContextId)	PageRaisePostbackLeave	PageRaisePostbackLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	36	0	AspNetPagePreRenderEnter(UInt64 ConnID, Object ContextId)	PagePreRenderEnter	PagePreRenderEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	37	0	AspNetPagePreRenderLeave(UInt64 ConnID, Object ContextId)	PagePreRenderLeave	PagePreRenderLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	38	0	AspNetPageSaveViewstateEnter(UInt64 ConnID, Object ContextId)	PageSaveViewstateEnter	PageSaveViewstateEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	39	0	AspNetPageSaveViewstateLeave(UInt64 ConnID, Object ContextId)	PageSaveViewstateLeave	PageSaveViewstateLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	40	0	AspNetPageRenderEnter(UInt64 ConnID, Object ContextId)	PageRenderEnter	PageRenderEnter
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	41	0	AspNetPageRenderLeave(UInt64 ConnID, Object ContextId)	PageRenderLeave	PageRenderLeave
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	42	0	AspNetAcquireSessionBegin(UInt64 ConnID, Object ContextId)	SessionDataBegin	SessionDataBegin
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	43	0	AspNetAcquireSessionEnd(UInt64 ConnID, Object ContextId)	SessionDataEnd	SessionDataEnd
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	44	0	AspNetProfileBegin(UInt64 ConnID, Object ContextId)	ProfileBegin	ProfileBegin
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	45	0	AspNetProfileEnd(UInt64 ConnID, Object ContextId, String User)	ProfileEnd	ProfileEnd
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	46	0	AspNetRoleManagerIsUserInRole(UInt64 ConnID, Object ContextId, String provider, String User, String Role, String Status)	RoleManagerIsUserInRole	RoleManagerIsUserInRole
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	47	0	AspNetRoleManagerGetUserRoles(UInt64 ConnID, Object ContextId, String provider, String User, String Roles)	RoleManagerGetUserRoles	RoleManagerGetUserRoles
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	48	0	AspNetRoleManagerBegin(UInt64 ConnID, Object ContextId)	RoleManagerBegin	RoleManagerBegin
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	49	0	AspNetRoleManagerEnd(UInt64 ConnID, Object ContextId, String provider, String User)	RoleManagerEnd	RoleManagerEnd
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	50	0	AspNetWebEventRaiseStart(UInt64 ConnID, Object ContextId, String EventClassName, String EventCode, String EventDetailCode)	WebEventRaiseStart	WebEventRaiseStart
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	51	0	AspNetWebEventRaiseEnd(UInt64 ConnID, Object ContextId)	WebEventRaiseEnd	WebEventRaiseEnd
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	52	0	AspNetWebEventDeliverStart(UInt64 ConnID, Object ContextId, String ProviderName, String RuleName, String EventGroupName)	WebEventDeliverStart	WebEventDeliverStart
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	53	0	AspNetWebEventDeliverEnd(UInt64 ConnID, Object ContextId)	WebEventDeliverEnd	WebEventDeliverEnd
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	59	0	AspNetPageTraceWarnEvent(Object ContextId, String Uri, String TraceWarningMsg)	TraceContextWarning	TraceContext Warning Trace
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	60	0	AspNetPageTraceWriteEvent(Object ContextId, String Uri, String TraceWriteMsg)	TraceContextWrite	TraceContext Write Trace
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	61	0	AspNetModuleDiagCriticalEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceCritical	Diagnostic Trace Critical
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	62	0	AspNetModuleDiagErrorEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceError	Diagnostic Trace Error
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	63	0	AspNetModuleDiagWarningEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceWarning	Diagnostic Trace Warning
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	64	0	AspNetModuleDiagInfoEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceInfo	Diagnostic Trace Info
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	65	0	AspNetModuleDiagVerboseEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceVerbose	Diagnostic Trace Verbose
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	66	0	AspNetModuleDiagStartEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceStart	Diagnostic Trace Start
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	67	0	AspNetModuleDiagStopEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceStop	Diagnostic Trace Stop
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	68	0	AspNetModuleDiagSuspendEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceSuspend	Diagnostic Trace Suspend
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	69	0	AspNetModuleDiagResumeEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceResume	Diagnostic Trace Resume
+ASP.NET Events	{06A01367-79D3-4594-8EB3-C721603C4679}	70	0	AspNetModuleDiagTransferEvent(Object ContextId, String Uri, String TraceWriteMsg)	DiagnosticTraceTransfer	Diagnostic Trace Transfer

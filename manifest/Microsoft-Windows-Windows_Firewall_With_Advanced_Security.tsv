@@ -50,4 +50,3 @@ Microsoft-Windows-Windows Firewall With Advanced Security	2047	0	task_02047(UInt
 Microsoft-Windows-Windows Firewall With Advanced Security	2048	0	task_02048(UInt32 ErrorCode, GUID Id, UnicodeString Keyword, UnicodeString Addresses, UInt16 AutoResolve)			task_0	Informational		
 Microsoft-Windows-Windows Firewall With Advanced Security	2049	0	task_02049(UInt32 ErrorCode, GUID Id)			task_0	Informational		
 Microsoft-Windows-Windows Firewall With Advanced Security	2050	0	task_02050(UInt32 ErrorCode, GUID Id, UInt16 Append, UnicodeString PreviousAddresses, UnicodeString AddressesToUpdate, UnicodeString UpdatedAddresses)			task_0	Informational		
-Microsoft-Windows-Windows Firewall With Advanced Security	2051	0	task_02051(UInt32 ErrorCode, UInt32 PolicyChange)			task_0	Informational		

@@ -1,0 +1,127 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-MSMQ	1	0	task_0(GUID MessageIDGUID, UInt32 MessageIDIdentity, UnicodeString QueueName)		msmqe2emessage	task_0	Informational		
+Microsoft-Windows-MSMQ	2	0	task_02()		msmqe2emessage	task_0	Informational		
+Microsoft-Windows-MSMQ	3	0	task_03()		msmqe2emessage	task_0	Informational		
+Microsoft-Windows-MSMQ	4	0	task_04()		msmqe2emessage	task_0	Informational		
+Microsoft-Windows-MSMQ	5	0	task_05(GUID MessageIDGUID, UInt32 MessageIDIdentity, UnicodeString QueueName)		msmqe2emessage	task_0	Informational		
+Microsoft-Windows-MSMQ	2000	0	task_0PCODE_192pcode_192(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2001	0	task_0PCODE_192pcode_1922001(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2015	0	task_0PCODE_192pcode_1922015(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2016	0	task_0PCODE_192pcode_1922016(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2020	0	task_0PCODE_192pcode_1922020(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2023	0	task_0PCODE_192pcode_1922023(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2024	0	task_0PCODE_64pcode_64(UnicodeString param1, UnicodeString param2)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2028	0	task_0PCODE_64pcode_642028()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2035	0	task_0PCODE_192pcode_1922035(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2043	0	task_0PCODE_128pcode_128(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2044	0	task_0PCODE_128pcode_1282044()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2045	0	task_0PCODE_128pcode_1282045()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2047	0	task_0PCODE_192pcode_1922047(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2048	0	task_0PCODE_192pcode_1922048()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2053	0	task_0PCODE_192pcode_1922053(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2059	0	task_0PCODE_128pcode_1282059(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2060	0	task_0PCODE_64pcode_642060()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2061	0	task_0PCODE_192pcode_1922061(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2064	0	task_0PCODE_192pcode_1922064(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2068	0	task_0PCODE_192pcode_1922068()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2076	0	task_0PCODE_192pcode_1922076(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2078	0	task_0PCODE_192pcode_1922078(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2079	0	task_0PCODE_192pcode_1922079(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2083	0	task_0PCODE_192pcode_1922083(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2084	0	task_0PCODE_192pcode_1922084()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2085	0	task_0PCODE_192pcode_1922085(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2086	0	task_0PCODE_64pcode_642086(UnicodeString param1)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2087	0	task_0PCODE_128pcode_1282087(UnicodeString param1)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2095	0	task_0PCODE_192pcode_1922095()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2096	0	task_0PCODE_192pcode_1922096()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2097	0	task_0PCODE_192pcode_1922097()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2116	0	task_0PCODE_192pcode_1922116(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2117	0	task_0PCODE_192pcode_1922117(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2118	0	task_0PCODE_192pcode_1922118(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2119	0	task_0PCODE_192pcode_1922119()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2120	0	task_0PCODE_192pcode_1922120(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2122	0	task_0PCODE_192pcode_1922122()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2123	0	task_0PCODE_128pcode_1282123()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2124	0	task_0PCODE_192pcode_1922124(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2125	0	task_0PCODE_64pcode_642125(UnicodeString param1)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2126	0	task_0PCODE_64pcode_642126()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2127	0	task_0PCODE_192pcode_1922127(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2134	0	task_0PCODE_64pcode_642134(UnicodeString param1)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2135	0	task_0PCODE_64pcode_642135(UnicodeString param1, UnicodeString param2)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2139	0	task_0PCODE_128pcode_1282139()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2140	0	task_0PCODE_128pcode_1282140()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2141	0	task_0PCODE_192pcode_1922141(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4, UnicodeString param5)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2142	0	task_0PCODE_192pcode_1922142(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4, UnicodeString param5)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2143	0	task_0PCODE_192pcode_1922143()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2144	0	task_0PCODE_128pcode_1282144()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2145	0	task_0PCODE_192pcode_1922145()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2147	0	task_0PCODE_192pcode_1922147()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2148	0	task_0PCODE_192pcode_1922148()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2149	0	task_0PCODE_192pcode_1922149()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2150	0	task_0PCODE_192pcode_1922150()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2151	0	task_0PCODE_192pcode_1922151()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2152	0	task_0PCODE_128pcode_1282152()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2153	0	task_0PCODE_128pcode_1282153()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2154	0	task_0PCODE_192pcode_1922154(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2155	0	task_0PCODE_192pcode_1922155(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2156	0	task_0PCODE_192pcode_1922156(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2157	0	task_0PCODE_128pcode_1282157(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2158	0	task_0PCODE_192pcode_1922158(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2159	0	task_0PCODE_64pcode_642159()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2160	0	task_0PCODE_192pcode_1922160(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2161	0	task_0PCODE_128pcode_1282161(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2162	0	task_0PCODE_128pcode_1282162(UnicodeString param1)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2163	0	task_0PCODE_64pcode_642163()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2164	0	task_0PCODE_192pcode_1922164(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2165	0	task_0PCODE_128pcode_1282165()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2166	0	task_0PCODE_192pcode_1922166(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2167	0	task_0PCODE_64pcode_642167()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2168	0	task_0PCODE_192pcode_1922168(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2169	0	task_0PCODE_192pcode_1922169(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2170	0	task_0PCODE_192pcode_1922170()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2171	0	task_0PCODE_128pcode_1282171()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2172	0	task_0PCODE_64pcode_642172()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2173	0	task_0PCODE_64pcode_642173()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2174	0	task_0PCODE_192pcode_1922174()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2175	0	task_0PCODE_128pcode_1282175()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2176	0	task_0PCODE_64pcode_642176(UnicodeString param1, UnicodeString param2)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2177	0	task_0PCODE_192pcode_1922177(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2181	0	task_0PCODE_128pcode_1282181(UnicodeString param1)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2182	0	task_0PCODE_128pcode_1282182(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2183	0	task_0PCODE_128pcode_1282183(UnicodeString param1)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2184	0	task_0PCODE_128pcode_1282184(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2185	0	task_0PCODE_128pcode_1282185(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2186	0	task_0PCODE_128pcode_1282186(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2187	0	task_0PCODE_128pcode_1282187(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2188	0	task_0PCODE_128pcode_1282188(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2189	0	task_0PCODE_128pcode_1282189(UnicodeString param1)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2190	0	task_0PCODE_128pcode_1282190(UnicodeString param1)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2191	0	task_0PCODE_128pcode_1282191(UnicodeString param1)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2192	0	task_0PCODE_128pcode_1282192(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2193	0	task_0PCODE_128pcode_1282193(UnicodeString param1)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2194	0	task_0PCODE_192pcode_1922194(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2195	0	task_0PCODE_128pcode_1282195(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2196	0	task_0PCODE_128pcode_1282196(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2197	0	task_0PCODE_128pcode_1282197(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2198	0	task_0PCODE_128pcode_1282198(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2199	0	task_0PCODE_192pcode_1922199()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2220	0	task_0PCODE_192pcode_1922220(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2221	0	task_0PCODE_64pcode_642221(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2224	0	task_0PCODE_128pcode_1282224(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2225	0	task_0PCODE_128pcode_1282225(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2226	0	task_0PCODE_192pcode_1922226(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2227	0	task_0PCODE_192pcode_1922227(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2228	0	task_0PCODE_192pcode_1922228(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2229	0	task_0PCODE_192pcode_1922229(UnicodeString param1, UnicodeString param2, UnicodeString param3)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2230	0	task_0PCODE_64pcode_642230(UnicodeString param1)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2231	0	task_0PCODE_64pcode_642231()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2232	0	task_0PCODE_64pcode_642232(UnicodeString param1, UnicodeString param2)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2233	0	task_0PCODE_64pcode_642233()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2234	0	task_0PCODE_192pcode_1922234(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQ	2250	0	task_0PCODE_128pcode_1282250()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2251	0	task_0PCODE_128pcode_1282251()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2252	0	task_0PCODE_64pcode_642252()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQ	2253	0	task_0PCODE_128pcode_1282253(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2254	0	task_0PCODE_128pcode_1282254(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2255	0	task_0PCODE_128pcode_1282255(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQ	2256	0	task_0PCODE_128pcode_1282256(UnicodeString param1, UnicodeString param2)	opcode_128		task_0	Always		

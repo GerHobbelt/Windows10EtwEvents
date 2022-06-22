@@ -1,0 +1,13 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Hyper-V-StorageVSP	3	0	task_0(UnicodeString AdapterName, UnicodeString AdapterId, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		
+Microsoft-Windows-Hyper-V-StorageVSP	4	0	task_04(UnicodeString DeviceName, UInt32 DeviceState, UInt32 LastStatus, UInt32 NewStatus)			task_0	Informational		
+Microsoft-Windows-Hyper-V-StorageVSP	5	0	task_05(UnicodeString DeviceName, UInt32 CurrentState, UInt32 NewState)			task_0	Informational		
+Microsoft-Windows-Hyper-V-StorageVSP	6	0	task_06(UnicodeString DeviceName, UInt32 Status, UInt32 CurrentState, UInt32 NewState, UInt32 CurrentStatus)			task_0	Informational		
+Microsoft-Windows-Hyper-V-StorageVSP	7	0	task_07(UnicodeString DeviceName, UInt32 Status)			task_0	Error		
+Microsoft-Windows-Hyper-V-StorageVSP	8	0	task_08(UnicodeString DeviceName, UInt32 Status)			task_0	Error		
+Microsoft-Windows-Hyper-V-StorageVSP	9	0	task_09(UnicodeString DeviceName, UInt32 Command, UInt32 DataTransferLength, UInt32 Status, UInt32 Duration)			task_0	Warning		
+Microsoft-Windows-Hyper-V-StorageVSP	1001	0	StorVSPSCSIoperationtrace.SCSIoperationcompleted.(UnicodeString DeviceName, UInt32 Command, UInt32 DataTransferSize, UInt32 Status, UInt64 QueueTimeUSec, UInt64 ServiceTimeUSec, GUID ChannelUniqueId, UInt32 LunSrbQueueTag)	SCSIoperationcompleted.	SCSI_OP_COMPLETED	StorVSPSCSIoperationtrace.	Verbose		
+Microsoft-Windows-Hyper-V-StorageVSP	1002	0	StorVSPSCSIoperationtrace.QoSlimithit.(UnicodeString DeviceName)	QoSlimithit.	QOS_LIMIT_HIT	StorVSPSCSIoperationtrace.	Verbose		
+Microsoft-Windows-Hyper-V-StorageVSP	1010	0	task_01010(AnsiString Source, UInt32 Line, AnsiString Message)		MULTICAST_TRACE	task_0	Informational		
+Microsoft-Windows-Hyper-V-StorageVSP	1011	0	task_01011(AnsiString Source, UInt32 Line, AnsiString Message)		MULTICAST_TRACE	task_0	Warning		
+Microsoft-Windows-Hyper-V-StorageVSP	1012	0	task_01012(AnsiString Source, UInt32 Line, AnsiString Message)		MULTICAST_TRACE	task_0	Error		

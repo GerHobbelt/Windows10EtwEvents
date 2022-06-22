@@ -1,0 +1,6 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Telemetry	1	0	task_0(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+Telemetry	2	0	task_02(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Warning		
+Telemetry	3	0	task_03(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+Telemetry	4	0	task_04(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Critical		
+Telemetry	5	0	task_05(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Verbose		

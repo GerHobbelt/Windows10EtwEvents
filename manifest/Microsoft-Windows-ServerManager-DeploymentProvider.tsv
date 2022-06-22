@@ -1,0 +1,159 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-ServerManager-DeploymentProvider	100	0	GetServerComponentAsyncmethodcall.(GUID requestGuid)			GetServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	101	0	GetServerComponentAsyncmethodcall.101(Boolean restartRequired, GUID requestGuid)			GetServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	102	0	GetServerComponentAsyncmethodcall.102(UInt32 ticks, UInt32 totalTicks, GUID requestGuid)			GetServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	103	0	GetServerComponentAsyncmethodcall.103(UnicodeString message, GUID requestGuid)			GetServerComponentAsyncmethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	104	0	GetEnumerationStatemethodcall.(GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	105	0	GetEnumerationStatemethodcall.105(Boolean restartRequired, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	106	0	GetEnumerationStatemethodcall.106(UInt32 ticks, UInt32 totalTicks, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	107	0	GetEnumerationStatemethodcall.107(UnicodeString message, GUID requestGuid)			GetEnumerationStatemethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	108	0	GetServerComponentrequestonaseparatethread.(GUID requestGuid)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	109	0	GetServerComponentrequestonaseparatethread.109(GUID requestGuid)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	110	0	GetEnumerationStatemethodcall.110(UnicodeString message)			GetEnumerationStatemethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	111	0	GetServerComponentrequestonaseparatethread.111(GUID requestGuid)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	112	0	GetServerComponentrequestonaseparatethread.112(Boolean restartRequired, GUID requestGuid)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	113	0	GetServerComponentrequestonaseparatethread.113(UnicodeString message, GUID requestGuid)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	114	0	GetServerComponentrequestonaseparatethread.114(UnicodeString message, UnicodeString message2, Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	115	0	GetServerComponentrequestonaseparatethread.115(UnicodeString ptzMessage, UInt32 value)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	200	0	AddServerComponentAsyncmethodcall.(UnicodeString serverComponentNames, GUID requestGuid)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	201	0	AddServerComponentAsyncmethodcall.201(UInt32 ticks, UInt32 totalTicks, GUID requestGuid)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	202	0	AddServerComponentAsyncmethodcall.202(UnicodeString message, GUID requestGuid)			AddServerComponentAsyncmethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	203	0	AddServerComponentAsyncmethodcall.203(UnicodeString serverComponentNames, GUID requestGuid)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	204	0	AddServerComponentAsyncmethodcall.204(UnicodeString serverComponentNames, GUID requestGuid)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	300	0	RemoveServerComponentAsyncmethodcall.(UnicodeString serverComponentNames, GUID requestGuid)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	301	0	RemoveServerComponentAsyncmethodcall.301(UInt32 ticks, UInt32 totalTicks, GUID requestGuid)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	302	0	RemoveServerComponentAsyncmethodcall.302(UnicodeString message, GUID requestGuid)			RemoveServerComponentAsyncmethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	303	0	RemoveServerComponentAsyncmethodcall.303(UnicodeString serverComponentNames, GUID requestGuid)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	304	0	RemoveServerComponentAsyncmethodcall.304(UnicodeString serverComponentNames, GUID requestGuid)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	400	0	GetAlterationStatemethodcall.(GUID requestGuid)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	401	0	GetAlterationStatemethodcall.401(Boolean restartRequired, GUID requestGuid)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	402	0	GetAlterationStatemethodcall.402(UInt32 ticks, UInt32 totalTicks, GUID requestGuid)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	403	0	GetAlterationStatemethodcall.403(UnicodeString message, GUID requestGuid)			GetAlterationStatemethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	450	0	KeepAliveMechanismactions.(UInt32 MI_ResultCode)			KeepAliveMechanismactions.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	451	0	KeepAliveMechanismactions.451(UInt32 MI_ResultCode)			KeepAliveMechanismactions.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	452	0	task_0(UInt32 win32ErrorCode, UnicodeString errorMessage)			task_0	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	453	0	task_0453(UInt32 win32ErrorCode, UnicodeString errorMessage)			task_0	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	454	0	task_0454(UInt32 MI_ResultCode, UnicodeString errorMessage)			task_0	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	455	0	task_0455(UInt32 MI_ResultCode, UnicodeString errorMessage)			task_0	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	456	0	task_0456(UInt32 MI_ResultCode, UnicodeString errorMessage)			task_0	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	457	0	task_0457(UInt32 MI_ResultCode, UnicodeString errorMessage)			task_0	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	458	0	task_0458(UInt32 MI_ResultCode, UnicodeString errorMessage)			task_0	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	459	0	KeepAliveMechanismactions.459(UnicodeString message)			KeepAliveMechanismactions.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	460	0	KeepAliveMechanismactions.460(GUID requestGuid)			KeepAliveMechanismactions.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	461	0	KeepAliveMechanismactions.461(GUID requestGuid)			KeepAliveMechanismactions.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	462	0	KeepAliveMechanismactions.462()			KeepAliveMechanismactions.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	463	0	ProviderLifecycleactions.()			ProviderLifecycleactions.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	464	0	ProviderLifecycleactions.464()			ProviderLifecycleactions.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	465	0	GetServerComponentAsyncmethodcall.465(UnicodeString ptzMessage)			GetServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	466	0	GetServerComponentAsyncmethodcall.466(UnicodeString message, UInt32 value)			GetServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	467	0	ProviderLifecycleactions.467(AnsiString ptzMessage)			ProviderLifecycleactions.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	500	0	GetEnumerationStatemethodcall.500(UnicodeString serverComponentNames, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	501	0	GetEnumerationStatemethodcall.501(UnicodeString serverComponentNames, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	502	0	GetEnumerationStatemethodcall.502(UnicodeString serverComponentNames, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	503	0	GetEnumerationStatemethodcall.503(UnicodeString serverComponentNames, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	504	0	GetEnumerationStatemethodcall.504(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	505	0	GetEnumerationStatemethodcall.505(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	506	0	GetEnumerationStatemethodcall.506(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	507	0	GetEnumerationStatemethodcall.507(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	508	0	GetEnumerationStatemethodcall.508(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	509	0	GetEnumerationStatemethodcall.509(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	510	0	GetEnumerationStatemethodcall.510(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	511	0	GetEnumerationStatemethodcall.511(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	512	0	GetEnumerationStatemethodcall.512(UnicodeString serverComponentNames)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	513	0	GetEnumerationStatemethodcall.513(UnicodeString serverComponentNames, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	514	0	GetEnumerationStatemethodcall.514(UnicodeString serverComponentNames, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	515	0	GetEnumerationStatemethodcall.515(UnicodeString serverComponentNames, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	516	0	GetEnumerationStatemethodcall.516(UnicodeString serverComponentNames, GUID requestGuid)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	517	0	GetEnumerationStatemethodcall.517(UnicodeString StartStop, UnicodeString requestGUID)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	518	0	GetEnumerationStatemethodcall.518(UnicodeString StartStop, UnicodeString requestGUID)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	519	0	GetEnumerationStatemethodcall.519(UnicodeString StartStop, UnicodeString requestGUID)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	520	0	GetEnumerationStatemethodcall.520(UnicodeString StartStop, UnicodeString requestGUID)			GetEnumerationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	521	0	AddServerComponentAsyncmethodcall.521(UnicodeString serverComponentNames, GUID requestGuid)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	522	0	AddServerComponentAsyncmethodcall.522(UnicodeString serverComponentNames, GUID requestGuid)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	523	0	AddServerComponentAsyncmethodcall.523(UnicodeString serverComponentNames)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	524	0	AddServerComponentAsyncmethodcall.524(UnicodeString serverComponentNames)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	525	0	AddServerComponentAsyncmethodcall.525(UnicodeString serverComponentNames)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	526	0	AddServerComponentAsyncmethodcall.526(UnicodeString serverComponentNames)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	527	0	AddServerComponentAsyncmethodcall.527(UnicodeString serverComponentNames)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	528	0	AddServerComponentAsyncmethodcall.528(UnicodeString serverComponentNames)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	529	0	AddServerComponentAsyncmethodcall.529(UnicodeString serverComponentNames)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	530	0	AddServerComponentAsyncmethodcall.530(UnicodeString serverComponentNames)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	531	0	RemoveServerComponentAsyncmethodcall.531(UnicodeString serverComponentNames, GUID requestGuid)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	532	0	RemoveServerComponentAsyncmethodcall.532(UnicodeString serverComponentNames, GUID requestGuid)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	533	0	RemoveServerComponentAsyncmethodcall.533(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	534	0	RemoveServerComponentAsyncmethodcall.534(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	535	0	RemoveServerComponentAsyncmethodcall.535(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	536	0	RemoveServerComponentAsyncmethodcall.536(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	537	0	RemoveServerComponentAsyncmethodcall.537(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	538	0	RemoveServerComponentAsyncmethodcall.538(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	539	0	RemoveServerComponentAsyncmethodcall.539(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	540	0	RemoveServerComponentAsyncmethodcall.540(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	541	0	RemoveServerComponentAsyncmethodcall.541(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	542	0	RemoveServerComponentAsyncmethodcall.542(UnicodeString serverComponentNames)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	543	0	GetAlterationStatemethodcall.543(UnicodeString serverComponentNames, GUID requestGuid)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	544	0	GetAlterationStatemethodcall.544(UnicodeString serverComponentNames, GUID requestGuid)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	545	0	GetAlterationStatemethodcall.545(UnicodeString serverComponentNames, GUID requestGuid)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	546	0	GetAlterationStatemethodcall.546(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	547	0	GetAlterationStatemethodcall.547(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	548	0	GetAlterationStatemethodcall.548(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	549	0	GetAlterationStatemethodcall.549(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	550	0	GetAlterationStatemethodcall.550(UnicodeString ptzMessage)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1281	0	GetServerComponentrequestonaseparatethread.1281(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1282	0	GetServerComponentrequestonaseparatethread.1282(UnicodeString ptzMessage1, UnicodeString ptzMessage2, UnicodeString ptzMessage3)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1283	0	GetServerComponentrequestonaseparatethread.1283(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1284	0	GetServerComponentrequestonaseparatethread.1284(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1285	0	GetServerComponentrequestonaseparatethread.1285(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1286	0	GetServerComponentrequestonaseparatethread.1286(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1287	0	GetServerComponentrequestonaseparatethread.1287(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1288	0	GetServerComponentrequestonaseparatethread.1288(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1289	0	GetServerComponentrequestonaseparatethread.1289(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1290	0	GetServerComponentrequestonaseparatethread.1290(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1291	0	GetServerComponentrequestonaseparatethread.1291(UnicodeString message, Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1292	0	GetServerComponentrequestonaseparatethread.1292(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1293	0	GetServerComponentrequestonaseparatethread.1293(Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1294	0	GetServerComponentrequestonaseparatethread.1294(UnicodeString message, Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1295	0	GetAlterationStatemethodcall.1295(UnicodeString message, UnicodeString message2, Int32 ErrorCode)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1296	0	GetAlterationStatemethodcall.1296(UnicodeString ptzMessage)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1297	0	GetAlterationStatemethodcall.1297(UnicodeString ptzMessage)			GetAlterationStatemethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1298	0	GetServerComponentrequestonaseparatethread.1298(UnicodeString ptzMessage1, UnicodeString ptzMessage2, UnicodeString ptzMessage3)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1299	0	GetServerComponentrequestonaseparatethread.1299(UInt32 value)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1300	0	GetServerComponentrequestonaseparatethread.1300(UInt32 value)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1301	0	GetServerComponentrequestonaseparatethread.1301(UInt32 value)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1302	0	GetServerComponentrequestonaseparatethread.1302(UnicodeString ptzMessage1, UnicodeString ptzMessage2, UnicodeString ptzMessage3)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1303	0	GetServerComponentrequestonaseparatethread.1303(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1304	0	GetServerComponentrequestonaseparatethread.1304(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1305	0	GetServerComponentrequestonaseparatethread.1305(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1306	0	GetServerComponentrequestonaseparatethread.1306(UnicodeString message, UInt32 value)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1307	0	GetServerComponentrequestonaseparatethread.1307(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1308	0	GetServerComponentrequestonaseparatethread.1308(UnicodeString message, Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1309	0	GetServerComponentrequestonaseparatethread.1309(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1310	0	GetServerComponentrequestonaseparatethread.1310(UnicodeString ptzMessage)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1311	0	GetServerComponentrequestonaseparatethread.1311()			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1312	0	GetServerComponentrequestonaseparatethread.1312(Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1313	0	GetServerComponentrequestonaseparatethread.1313(Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1314	0	GetServerComponentrequestonaseparatethread.1314(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1315	0	GetServerComponentrequestonaseparatethread.1315(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1316	0	GetServerComponentrequestonaseparatethread.1316(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1317	0	GetServerComponentrequestonaseparatethread.1317(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1318	0	GetServerComponentrequestonaseparatethread.1318(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1319	0	GetServerComponentrequestonaseparatethread.1319(UnicodeString message, UInt32 value)			GetServerComponentrequestonaseparatethread.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1537	0	Deploymentproviderinitialization.(Int32 ErrorCode)			Deploymentproviderinitialization.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1538	0	Deploymentproviderinitialization.1538(Int32 ErrorCode)			Deploymentproviderinitialization.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1539	0	Deploymentproviderinitialization.1539(Int32 ErrorCode)			Deploymentproviderinitialization.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1540	0	Deploymentproviderinitialization.1540(UnicodeString message, UnicodeString message2, Int32 ErrorCode)			Deploymentproviderinitialization.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1541	0	GetServerComponentrequestonaseparatethread.1541(Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1542	0	GetServerComponentrequestonaseparatethread.1542(UnicodeString message, Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1543	0	GetAlterationStatemethodcall.1543(Int32 ErrorCode)			GetAlterationStatemethodcall.	Warning		
+Microsoft-Windows-ServerManager-DeploymentProvider	1544	0	GetAlterationStatemethodcall.1544(UnicodeString message, Int32 ErrorCode)			GetAlterationStatemethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1545	0	Deploymentprovidershutdown.(UnicodeString message, UnicodeString message2, Int32 ErrorCode)			Deploymentprovidershutdown.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1546	0	Deploymentproviderinitialization.1546(UnicodeString message, UnicodeString message2, Int32 ErrorCode)			Deploymentproviderinitialization.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1547	0	AddServerComponentAsyncmethodcall.1547(UnicodeString message, Int32 ErrorCode)			AddServerComponentAsyncmethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1548	0	RemoveServerComponentAsyncmethodcall.1548(UnicodeString message, Int32 ErrorCode)			RemoveServerComponentAsyncmethodcall.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1549	0	Deploymentproviderinitialization.1549(UInt32 value)			Deploymentproviderinitialization.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1550	0	AddServerComponentAsyncmethodcall.1550(UnicodeString ptzMessage)			AddServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1551	0	RemoveServerComponentAsyncmethodcall.1551(UnicodeString ptzMessage)			RemoveServerComponentAsyncmethodcall.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1552	0	Deploymentproviderinitialization.1552(UInt32 value)			Deploymentproviderinitialization.	Informational		
+Microsoft-Windows-ServerManager-DeploymentProvider	1553	0	GetServerComponentrequestonaseparatethread.1553(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1554	0	GetServerComponentrequestonaseparatethread.1554(UnicodeString message, Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1555	0	GetServerComponentrequestonaseparatethread.1555(UnicodeString message, Int32 ErrorCode)			GetServerComponentrequestonaseparatethread.	Error		
+Microsoft-Windows-ServerManager-DeploymentProvider	1556	0	GetServerComponentrequestonaseparatethread.1556(UnicodeString message, UInt32 value)			GetServerComponentrequestonaseparatethread.	Error		

@@ -1,0 +1,10 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Containers-CCG	1	0	PluginSuccess(UnicodeString First)	Success		Plugin	Informational		
+Microsoft-Windows-Containers-CCG	2	0	CCGSuccess(UnicodeString First, UnicodeString Second)	Success		CCG	Informational		
+Microsoft-Windows-Containers-CCG	3	0	CCGFailed(UInt32 error)	Failed		CCG	Error		
+Microsoft-Windows-Containers-CCG	4	0	PluginFailed(UnicodeString First, Int32 Second)	Failed		Plugin	Error		
+Microsoft-Windows-Containers-CCG	5	0	PluginFailed5(UnicodeString First, Int32 Second)	Failed		Plugin	Error		
+Microsoft-Windows-Containers-CCG	6	0	PluginFailed6(UnicodeString First, Int32 Second)	Failed		Plugin	Error		
+Microsoft-Windows-Containers-CCG	7	0	PluginSuccess7(UnicodeString First)	Success		Plugin	Informational		
+Microsoft-Windows-Containers-CCG	8	0	CCGFailed8(UnicodeString First, UnicodeString Second, UnicodeString Third)	Failed		CCG	Error		
+Microsoft-Windows-Containers-CCG	9	0	CCGFailed9(Int32 First)	Failed		CCG	Error		

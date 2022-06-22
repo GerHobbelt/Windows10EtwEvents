@@ -1,0 +1,33 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Hyper-V-DynMem	1500	0	task_0(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-DynMem	1510	0	task_01510(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-DynMem	1520	0	task_01520(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-DynMem	1530	0	task_01530(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-DynMem	12540	0	task_012540(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-DynMem	12541	0	task_012541(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-DynMem	12542	0	task_012542(UnicodeString VmName, UnicodeString VmId, UInt64 InaccessiblePages)			task_0	Warning		
+Microsoft-Windows-Hyper-V-DynMem	12543	0	task_012543(UnicodeString VmName, UnicodeString VmId, UInt64 InaccessiblePages)			task_0	Warning		
+Microsoft-Windows-Hyper-V-DynMem	12544	0	task_012544(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-DynMem	12545	0	task_012545(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-DynMem	12546	0	task_012546(UnicodeString VmName, UnicodeString VmId)			task_0	Warning		
+Microsoft-Windows-Hyper-V-DynMem	12547	0	task_012547(UnicodeString VmName, UnicodeString VmId)			task_0	Warning		
+Microsoft-Windows-Hyper-V-DynMem	25001	0	Dynamicmemory_reservememoryStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_reservememory	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25002	0	Dynamicmemory_reservememoryStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_reservememory	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25003	0	Dynamicmemory_commitmemoryStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_commitmemory	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25004	0	Dynamicmemory_commitmemoryStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_commitmemory	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25005	0	Dynamicmemory_de_commitmemoryStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_de_commitmemory	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25006	0	Dynamicmemory_de_commitmemoryStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_de_commitmemory	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25007	0	Dynamicmemory_hotaddStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_hotadd	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25008	0	Dynamicmemory_hotaddStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_hotadd	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25009	0	Dynamicmemory_un_balloonStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_un_balloon	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25010	0	Dynamicmemory_un_balloonStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_un_balloon	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25011	0	Dynamicmemory_balloonStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_balloon	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25012	0	Dynamicmemory_balloonStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_balloon	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25013	0	Dynamicmemory_hotaddundoStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_hotaddundo	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25014	0	Dynamicmemory_hotaddundoStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_hotaddundo	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25015	0	Dynamicmemory_releaseStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_release	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25016	0	Dynamicmemory_releaseStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_release	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25017	0	Dynamicmemory_backpagesStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_backpages	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25018	0	Dynamicmemory_backpagesStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_backpages	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25019	0	Dynamicmemory_greedyballoooningStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_greedyballoooning	Informational		
+Microsoft-Windows-Hyper-V-DynMem	25020	0	Dynamicmemory_greedyballoooningStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF_INNER VMK_HYPERV_PERF	Dynamicmemory_greedyballoooning	Informational		

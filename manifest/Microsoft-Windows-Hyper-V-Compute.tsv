@@ -1,0 +1,146 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Hyper-V-Compute	100	0	task_0(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	101	0	task_0101(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	102	0	task_0102(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	103	0	task_0103(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Compute	500	0	Dynamicmemory_addmemoryStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	Dynamicmemory_addmemory	Informational		
+Microsoft-Windows-Hyper-V-Compute	501	0	Dynamicmemory_addmemoryStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	Dynamicmemory_addmemory	Informational		
+Microsoft-Windows-Hyper-V-Compute	502	0	Dynamicmemory_removememoryStart(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	Dynamicmemory_removememory	Informational		
+Microsoft-Windows-Hyper-V-Compute	503	0	Dynamicmemory_removememoryStop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	Dynamicmemory_removememory	Informational		
+Microsoft-Windows-Hyper-V-Compute	504	0	Dynamicmemory_addmemory(SLP)Start(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	Dynamicmemory_addmemory(SLP)	Informational		
+Microsoft-Windows-Hyper-V-Compute	505	0	Dynamicmemory_addmemory(SLP)Stop(UnicodeString VmId, UnicodeString Time, UInt64 Parameter0)	Stop	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	Dynamicmemory_addmemory(SLP)	Informational		
+Microsoft-Windows-Hyper-V-Compute	506	0	task_0Start(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	507	0	task_0Start507(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	508	0	task_0Start508(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	509	0	task_0Start509(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	510	0	task_0Start510(UnicodeString VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	511	0	task_0Start511(UInt64 VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	512	0	task_0Start512(UInt64 VmId, UInt64 Parameter0)	Start	VMK_HYPERV_PERF VMK_HYPERV_PERF_OUTER	task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	1000	0	task_01000()			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	1001	0	task_01001()			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	1002	0	task_01002()			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	1003	0	task_01003()			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2000	0	task_02000(UnicodeString SystemId, UnicodeString Result)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2001	0	task_02001(UnicodeString SystemId, UnicodeString Result)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2002	0	task_02002(UnicodeString SystemId, UnicodeString Result)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2003	0	task_02003(UnicodeString SystemId, UnicodeString Result)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2004	0	task_02004(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2005	0	task_02005(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2006	0	task_02006(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2007	0	task_02007(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2008	0	task_02008(UnicodeString SystemId, UnicodeString Result, UInt32 Parameter0, UnicodeString Parameter1)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2009	0	task_02009(UnicodeString SystemId, UInt32 Parameter0, UnicodeString Parameter1)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2010	0	task_02010(UnicodeString SystemId, UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2011	0	task_02011(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2012	0	task_02012(UnicodeString SystemId, UInt32 Parameter0, UInt32 Parameter1, UnicodeString Parameter2)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2013	0	task_02013(UnicodeString SystemId, UnicodeString Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2014	0	task_02014(UnicodeString SystemId)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2015	0	task_02015(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2016	0	task_02016(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2017	0	task_02017(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2018	0	task_02018(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2019	0	task_02019(UnicodeString SystemId, UnicodeString Result, UnicodeString Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2500	0	task_02500(UnicodeString SystemId, UnicodeString Result, UInt32 Parameter0, UnicodeString Parameter1)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2501	0	task_02501(UnicodeString SystemId, UnicodeString Result, UInt32 Parameter0)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2502	0	task_02502(UnicodeString SystemId, UnicodeString Result, UInt32 Parameter0, UInt32 Parameter1, UnicodeString Parameter2)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2503	0	task_02503(UnicodeString SystemId, UInt32 Parameter0, UInt32 Parameter1, UnicodeString Parameter2)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	2504	0	task_02504()			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	10000	0	task_010000(UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10001	0	task_010001()			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10002	0	task_010002(UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10003	0	task_010003(UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10004	0	task_010004(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10005	0	task_010005(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10006	0	task_010006(UnicodeString VmName, UnicodeString VmId, UInt64 Parameter0, UInt64 Parameter1)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10007	0	task_010007(UnicodeString VmName, UnicodeString VmId, UInt64 Parameter0, UInt64 Parameter1)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10008	0	task_010008(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10009	0	task_010009(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10010	0	task_010010()			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10011	0	task_010011()			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10013	0	task_010013(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	10014	0	task_010014(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	10015	0	task_010015()			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	10016	0	task_010016(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	10017	0	task_010017(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	10018	0	task_010018(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10019	0	task_010019(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10020	0	task_010020(UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	10021	0	task_010021(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10022	0	task_010022(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10023	0	task_010023()			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10024	0	task_010024()			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10025	0	task_010025()			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10026	0	task_010026()			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10028	0	task_010028(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10029	0	task_010029(UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10030	0	task_010030(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10031	0	task_010031(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	10032	0	task_010032(UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	10033	0	task_010033(UnicodeString Parameter0, UnicodeString Parameter1)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	11000	0	task_011000(UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11001	0	task_011001(UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11002	0	task_011002(UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11003	0	task_011003(UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11004	0	task_011004(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	11005	0	task_011005(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11006	0	task_011006(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11007	0	task_011007(UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11008	0	task_011008(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11500	0	task_011500(UnicodeString ErrorMessage, UnicodeString ErrorCode, Int64 Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11501	0	task_011501(UnicodeString ErrorMessage, UnicodeString ErrorCode, Int64 Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11502	0	task_011502(UnicodeString ErrorMessage, UnicodeString ErrorCode, Int64 Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11503	0	task_011503(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11504	0	task_011504(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	11505	0	task_011505(UnicodeString ErrorMessage, UnicodeString ErrorCode, Int64 Parameter0)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	11506	0	task_011506(UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	11507	0	task_011507(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12000	0	task_012000(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12001	0	task_012001(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12002	0	task_012002(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12003	0	task_012003()			task_0	Warning		
+Microsoft-Windows-Hyper-V-Compute	12004	0	task_012004(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12005	0	task_012005(UnicodeString SystemId)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12006	0	task_012006(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, Int64 Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12100	0	task_012100(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12101	0	task_012101(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, GUID Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12102	0	task_012102(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, GUID Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12103	0	task_012103(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, GUID Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12104	0	task_012104(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, GUID Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	12105	0	task_012105(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, GUID Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40012	0	task_040012(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40014	0	task_040014(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40016	0	task_040016(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40018	0	task_040018(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40020	0	task_040020(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40022	0	task_040022(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40024	0	task_040024(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40026	0	task_040026(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40028	0	task_040028(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40030	0	task_040030(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40032	0	task_040032(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40034	0	task_040034(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40036	0	task_040036(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40038	0	task_040038(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40048	0	task_040048(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40050	0	task_040050(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40052	0	task_040052(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40054	0	task_040054(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40056	0	task_040056(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40058	0	task_040058(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40060	0	task_040060(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40062	0	task_040062(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40064	0	task_040064(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40066	0	task_040066(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40068	0	task_040068(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40070	0	task_040070(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	40072	0	task_040072(UnicodeString Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	65526	0	task_065526(UnicodeString SystemId, Int32 ErrorMessage, UnicodeString ErrorCode)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	65527	0	task_065527(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	65528	0	task_065528(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	65529	0	task_065529()			task_0	Informational		
+Microsoft-Windows-Hyper-V-Compute	65530	0	task_065530()			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	65531	0	task_065531(UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	65532	0	task_065532(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	65533	0	task_065533(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	65534	0	task_065534(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, Int64 Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Compute	65535	0	task_065535(UnicodeString SystemId, UnicodeString ErrorMessage, UnicodeString ErrorCode, GUID Parameter0)			task_0	Error		

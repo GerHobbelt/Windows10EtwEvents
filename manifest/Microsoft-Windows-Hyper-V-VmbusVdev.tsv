@@ -1,0 +1,7 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Hyper-V-VmbusVdev	1500	0	task_0(UnicodeString TraceData, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, UInt16 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-VmbusVdev	1510	0	task_01510(UnicodeString TraceData, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, UInt16 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-VmbusVdev	1520	0	task_01520(UnicodeString TraceData, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, UInt16 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-VmbusVdev	1530	0	task_01530(UnicodeString TraceData, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, UInt16 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-VmbusVdev	23012	0	task_023012(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		
+Microsoft-Windows-Hyper-V-VmbusVdev	23013	0	task_023013(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		

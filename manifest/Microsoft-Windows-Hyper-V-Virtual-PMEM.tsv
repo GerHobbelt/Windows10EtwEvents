@@ -1,0 +1,11 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Hyper-V-Virtual-PMEM	1	0	task_0(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	2	0	task_02(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	3	0	task_03(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	4	0	task_04(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	10	0	task_010(UnicodeString VmName, UnicodeString VmId, UnicodeString Locator, UInt64 BaseAddress, UInt64 Size)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	11	0	task_011(UnicodeString VmName, UnicodeString VmId, UnicodeString String, UnicodeString ErrorCodeString, UInt32 ErrorCode, UnicodeString Param1, UnicodeString Param2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	12	0	task_012(UnicodeString VmName, UnicodeString VmId, UnicodeString String, UnicodeString ErrorCodeString, UInt32 ErrorCode, UnicodeString Param1, UnicodeString Param2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	13	0	task_013(UnicodeString VmName, UnicodeString VmId, UnicodeString String, UnicodeString ErrorCodeString, UInt32 ErrorCode, UnicodeString Param1, UnicodeString Param2)			task_0	Error		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	14	0	task_014(UnicodeString VmName, UnicodeString VmId)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Virtual-PMEM	15	0	task_015(UnicodeString VmName, UnicodeString VmId)			task_0	Warning		

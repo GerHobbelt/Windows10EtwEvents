@@ -1,0 +1,6 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+IISConfigurator	1	0	task_0(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+IISConfigurator	2	0	task_02(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Warning		
+IISConfigurator	3	0	task_03(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+IISConfigurator	4	0	task_04(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Critical		
+IISConfigurator	5	0	task_05(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Verbose		

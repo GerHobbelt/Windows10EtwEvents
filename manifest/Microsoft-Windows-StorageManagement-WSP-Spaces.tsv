@@ -22,11 +22,3 @@ Microsoft-Windows-StorageManagement-WSP-Spaces	2019	1	task_02019_V1(UInt32 Contr
 Microsoft-Windows-StorageManagement-WSP-Spaces	2020	1	task_02020_V1(AnsiString Function, Int32 HResult, UInt32 MI_Result)			task_0	Warning		
 Microsoft-Windows-StorageManagement-WSP-Spaces	2021	1	task_02021_V1(UInt32 ControlCode, UnicodeString ControlCodeName)			task_0	Warning		
 Microsoft-Windows-StorageManagement-WSP-Spaces	2022	1	task_02022_V1(UInt32 ControlCode, UnicodeString ControlCodeName)			task_0	Warning		
-Microsoft-Windows-StorageManagement-WSP-Spaces	2023	1	task_02023_V1(AnsiString Function, UInt64 Runtime_msecs)			task_0	Informational		
-Microsoft-Windows-StorageManagement-WSP-Spaces	2024	1	task_02024_V1(AnsiString Function, AnsiString Callee, UInt32 MI_Result)			task_0	Error		
-Microsoft-Windows-StorageManagement-WSP-Spaces	2025	1	task_02025_V1(AnsiString Function, UInt64 Runtime_msecs)			task_0	Informational		
-Microsoft-Windows-StorageManagement-WSP-Spaces	2026	1	task_02026_V1(AnsiString Function, AnsiString Callee, UInt32 MI_Result)			task_0	Error		
-Microsoft-Windows-StorageManagement-WSP-Spaces	2027	1	task_02027_V1(AnsiString Function, UInt64 Runtime_msecs)			task_0	Informational		
-Microsoft-Windows-StorageManagement-WSP-Spaces	2028	1	task_02028_V1(AnsiString Function, AnsiString Callee, UInt32 Error)			task_0	Error		
-Microsoft-Windows-StorageManagement-WSP-Spaces	2029	1	task_02029_V1(AnsiString Function, UInt64 Runtime_msecs)			task_0	Informational		
-Microsoft-Windows-StorageManagement-WSP-Spaces	2030	1	task_02030_V1(AnsiString Function, AnsiString Callee, UInt32 Error)			task_0	Error		

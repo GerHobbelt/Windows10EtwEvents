@@ -1,0 +1,20 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Pef-WFP-MessageProvider	2000	0	task_0(UInt16 FragmentEventId, UInt32 GroupId, UInt32 ByteLength, Binary Payload)		PacketStart PacketEnd ut:SendPath ut:ReceivePath keyword_20000000000 keyword_40000000000	task_0	Informational		
+Microsoft-Pef-WFP-MessageProvider	10001	0	task_010001(UnicodeString DriverName, UInt16 MajorVersion, UInt16 MinorVersion)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	10002	0	task_010002(UnicodeString DriverName, UInt16 MajorVersion, UInt16 MinorVersion)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	10003	0	task_010003(UInt32 Callout)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	10004	0	task_010004(UInt32 Callout)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	10005	0	task_010005(UInt64 FilterId, UInt32 Callout, UInt64 FilterWeight)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	10006	0	task_010006(UInt64 FilterId, UInt32 Callout, UInt64 FilterWeight)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	20001	0	task_020001(UnicodeString ErrorMessage, UInt32 NTSTATUS)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	20002	0	task_020002(UnicodeString ErrorMessage, UInt32 NTSTATUS)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	20003	0	task_020003(UInt32 Callout, UnicodeString ErrorMessage, UInt32 NTSTATUS)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	20004	0	task_020004(UInt32 Callout, UnicodeString ErrorMessage, UInt32 NTSTATUS)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	20005	0	task_020005(UInt32 Callout, UnicodeString ErrorMessage, UInt32 NTSTATUS)		ut:Global	task_0	Verbose		
+Microsoft-Pef-WFP-MessageProvider	60011	0	task_060011(UInt32 SourceAddress, UInt32 DestinationAddress, UInt8 Protocol, UInt16 ByteLength, Binary MessageFrame)		keyword_20000000000 keyword_40000000000	task_0	Informational		
+Microsoft-Pef-WFP-MessageProvider	60012	0	task_060012(UInt32 SourceAddress, UInt32 DestinationAddress, UInt8 Protocol, UInt64 FlowHandle, UInt16 ByteLength, Binary MessageFrame)		keyword_20000000000 keyword_40000000000	task_0	Informational		
+Microsoft-Pef-WFP-MessageProvider	60021	0	task_060021(Binary SourceAddress, Binary DestinationAddress, UInt8 Protocol, UInt16 ByteLength, Binary MessageFrame)		keyword_20000000000 keyword_40000000000	task_0	Informational		
+Microsoft-Pef-WFP-MessageProvider	60022	0	task_060022(Binary SourceAddress, Binary DestinationAddress, UInt8 Protocol, UInt64 FlowHandle, UInt16 ByteLength, Binary MessageFrame)		keyword_20000000000 keyword_40000000000	task_0	Informational		
+Microsoft-Pef-WFP-MessageProvider	60031	0	task_060031(UInt32 SourceAddress, UInt32 DestinationAddress, UInt16 SourcePort, UInt16 DestinationPort, UInt64 Luid, UInt8 Direction, UInt8 Protocol, UInt64 FlowHandle, UInt64 ProcessId, UInt16 ByteLength, Binary ProcessPath)		keyword_20000000000	task_0	Informational		
+Microsoft-Pef-WFP-MessageProvider	60041	0	task_060041(Binary SourceAddress, Binary DestinationAddress, UInt16 SourcePort, UInt16 DestinationPort, UInt64 Luid, UInt8 Direction, UInt8 Protocol, UInt64 FlowHandle, UInt64 ProcessId, UInt16 ByteLength, Binary ProcessPath)		keyword_20000000000	task_0	Informational		
+Microsoft-Pef-WFP-MessageProvider	60050	0	task_060050(UInt8 DiscardModule, UInt32 DiscardReason, UInt64 DiscardFilterID)		keyword_10000000000	task_0	Informational		

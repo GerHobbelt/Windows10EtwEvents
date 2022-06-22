@@ -1,0 +1,50 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-MiStreamProvider	1000	0	LifetimeStart()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1001	0	LifetimeStop()	Stop		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1010	0	LifetimeStart1010()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1011	0	Lifetime(UInt32 error, UnicodeString message)			Lifetime	Error		
+Microsoft-Windows-MiStreamProvider	1012	0	LifetimeStop1012()	Stop		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1013	0	LifetimeStart1013()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1014	0	Lifetime1014(UInt32 error, UnicodeString message)			Lifetime	Error		
+Microsoft-Windows-MiStreamProvider	1015	0	LifetimeStart1015()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1016	0	LifetimeStop1016()	Stop		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1017	0	LifetimeStart1017()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1018	0	LifetimeStop1018()	Stop		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1019	0	LifetimeStart1019()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1020	0	LifetimeStop1020()	Stop		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1030	0	LifetimeStart1030()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1031	0	Lifetime1031(UInt32 error, UnicodeString message)			Lifetime	Error		
+Microsoft-Windows-MiStreamProvider	1032	0	LifetimeStop1032()	Stop		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1033	0	LifetimeStart1033()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1034	0	Lifetime1034(UInt32 error, UnicodeString message)			Lifetime	Error		
+Microsoft-Windows-MiStreamProvider	1035	0	LifetimeStart1035()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1036	0	LifetimeStop1036()	Stop		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1040	0	LifetimeStart1040()	Start		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1041	0	Lifetime1041(UInt32 error, UnicodeString message)			Lifetime	Error		
+Microsoft-Windows-MiStreamProvider	1042	0	LifetimeStop1042()	Stop		Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1050	0	FlushStart()	Start		Flush	Informational		
+Microsoft-Windows-MiStreamProvider	1051	0	FlushStop()	Stop		Flush	Informational		
+Microsoft-Windows-MiStreamProvider	1052	0	Flush(UnicodeString message)			Flush	Informational		
+Microsoft-Windows-MiStreamProvider	1053	0	FlushStart1053(UInt32 result)	Start		Flush	Informational		
+Microsoft-Windows-MiStreamProvider	1054	0	Flush1054(UnicodeString message)			Flush	Informational		
+Microsoft-Windows-MiStreamProvider	1055	0	Flush1055(UInt32 result)			Flush	Informational		
+Microsoft-Windows-MiStreamProvider	1056	0	Flush1056(UnicodeString message)			Flush	Informational		
+Microsoft-Windows-MiStreamProvider	1057	0	Flush1057()			Flush	Warning		
+Microsoft-Windows-MiStreamProvider	1060	0	Lifetime1060(UnicodeString message)			Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1061	0	Lifetime1061()			Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1062	0	Lifetime1062()			Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1063	0	Lifetime1063()			Lifetime	Informational		
+Microsoft-Windows-MiStreamProvider	1501	0	HttpClientStart()	Start		HttpClient	Informational		
+Microsoft-Windows-MiStreamProvider	1502	0	HttpClientStart1502()	Start		HttpClient	Informational		
+Microsoft-Windows-MiStreamProvider	1503	0	HttpClientStart1503()	Start		HttpClient	Informational		
+Microsoft-Windows-MiStreamProvider	1504	0	HttpClient()			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1505	0	HttpClient1505(UInt32 error, UnicodeString fileName)			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1506	0	HttpClient1506(UInt32 error)			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1507	0	HttpClient1507(UInt32 error)			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1508	0	HttpClient1508(UInt32 error)			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1509	0	HttpClient1509(UInt32 error, UnicodeString fileName)			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1510	0	HttpClient1510(UInt32 error)			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1511	0	HttpClient1511(UInt32 error)			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1512	0	HttpClient1512(UInt32 error)			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1513	0	HttpClient1513()			HttpClient	Error		
+Microsoft-Windows-MiStreamProvider	1514	0	HttpClient1514(UnicodeString message)			HttpClient	Error		

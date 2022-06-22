@@ -1,0 +1,14 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-IIS-APPHOSTSVC	9000	0	task_0PCODE_192pcode_192()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9001	0	task_0PCODE_192pcode_1929001(UnicodeString ApplicationPoolName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9002	0	task_0PCODE_192pcode_1929002()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9003	0	task_0PCODE_192pcode_1929003(UnicodeString ApplicationPoolName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9004	0	task_0PCODE_192pcode_1929004()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9005	0	task_0PCODE_192pcode_1929005(UnicodeString ApplicationPoolName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9006	0	task_0PCODE_192pcode_1929006()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9007	0	task_0PCODE_192pcode_1929007(UnicodeString File, UnicodeString LineNumber, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9008	0	task_0PCODE_192pcode_1929008(UnicodeString Property, UnicodeString File, UnicodeString LineNumber, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9009	0	task_0PCODE_128pcode_128(UnicodeString Path, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9010	0	task_0PCODE_192pcode_1929010(UnicodeString Path, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9011	0	task_0PCODE_192pcode_1929011()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-APPHOSTSVC	9012	0	task_0PCODE_192pcode_1929012(UnicodeString FileName)	opcode_192		task_0	Always		

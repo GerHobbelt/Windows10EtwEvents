@@ -1,5 +1,6 @@
 provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
 Microsoft-Windows-Kernel-LiveDump	1	0	LiveDumpCaptureDumpDataAPIAPIStart()	APIStart		LiveDumpCaptureDumpDataAPI	Informational		
+Microsoft-Windows-Kernel-LiveDump	2	2	LiveDumpCaptureDumpDataAPIAPIEnd_V2(UInt32 NTStatus, UInt32 BugcheckCode, Pointer BugCheckParameter1, Pointer BugCheckParameter2, Pointer BugCheckParameter3, Pointer BugCheckParameter4, UInt32 AbortIfMemoryPressure)	APIEnd		LiveDumpCaptureDumpDataAPI	Informational		
 Microsoft-Windows-Kernel-LiveDump	3	0	LiveDumpCaptureDumpDataAPIDumpFileWriteStart()	DumpFileWriteStart		LiveDumpCaptureDumpDataAPI	Informational		
 Microsoft-Windows-Kernel-LiveDump	4	1	LiveDumpCaptureDumpDataAPIDumpFileWriteEnd_V1(UInt32 NTStatus, UInt64 TotalBytes, UInt64 HeaderBytes, UInt64 PrimaryDataBytes, UInt64 SecondaryDataBytes, UInt64 DumpWriteDuration_ms)	DumpFileWriteEnd		LiveDumpCaptureDumpDataAPI	Informational		
 Microsoft-Windows-Kernel-LiveDump	5	0	LiveDumpCaptureDumpDataAPIBufferAllocationData()	BufferAllocationData		LiveDumpCaptureDumpDataAPI	Informational		
@@ -47,9 +48,11 @@ Microsoft-Windows-Kernel-LiveDump	166	0	CapturePagesWorkflowUncorralProcessors(U
 Microsoft-Windows-Kernel-LiveDump	167	0	CapturePagesWorkflowCaptureMemoryPages(UInt64 MemoryCaptureDuration_ms, UInt64 SystemQuiescedDuration_ms, UInt64 EndMirroringPhasesDuration_ms, UInt64 TotalMirrorPhysicalMemoryCallbackDuration_ms, UInt64 TotalMirrorPhysicalMemoryCallbackBytes, UInt64 HvlCollectLivedumpDuration_ms, UInt64 DumpDataBufferingDuration_ms)	CaptureMemoryPages		CapturePagesWorkflow	Informational		
 Microsoft-Windows-Kernel-LiveDump	168	0	CapturePagesWorkflowMmDuplicateMemoryFailure(UInt32 NTStatus, UInt64 MirrorInProgress)	MmDuplicateMemoryFailure		CapturePagesWorkflow	Informational		
 Microsoft-Windows-Kernel-LiveDump	201	0	LiveDumpWriteDeferredDumpDataAPIAPIStart()	APIStart		LiveDumpWriteDeferredDumpDataAPI	Informational		
+Microsoft-Windows-Kernel-LiveDump	202	2	LiveDumpWriteDeferredDumpDataAPIAPIEnd_V2(UInt32 NTStatus, UInt32 BugcheckCode, Pointer BugCheckParameter1, Pointer BugCheckParameter2, Pointer BugCheckParameter3, Pointer BugCheckParameter4, UInt32 AbortIfMemoryPressure)	APIEnd		LiveDumpWriteDeferredDumpDataAPI	Informational		
 Microsoft-Windows-Kernel-LiveDump	203	0	LiveDumpWriteDeferredDumpDataAPIDumpFileWriteStart()	DumpFileWriteStart		LiveDumpWriteDeferredDumpDataAPI	Informational		
 Microsoft-Windows-Kernel-LiveDump	204	1	LiveDumpWriteDeferredDumpDataAPIDumpFileWriteEnd_V1(UInt32 NTStatus, UInt64 TotalBytes, UInt64 HeaderBytes, UInt64 PrimaryDataBytes, UInt64 SecondaryDataBytes, UInt64 DumpWriteDuration_ms)	DumpFileWriteEnd		LiveDumpWriteDeferredDumpDataAPI	Informational		
 Microsoft-Windows-Kernel-LiveDump	251	0	LiveDumpDiscardDeferredDumpDataAPIAPIStart()	APIStart		LiveDumpDiscardDeferredDumpDataAPI	Informational		
+Microsoft-Windows-Kernel-LiveDump	252	2	LiveDumpDiscardDeferredDumpDataAPIAPIEnd_V2(UInt32 NTStatus, UInt32 BugcheckCode, Pointer BugCheckParameter1, Pointer BugCheckParameter2, Pointer BugCheckParameter3, Pointer BugCheckParameter4, UInt32 AbortIfMemoryPressure)	APIEnd		LiveDumpDiscardDeferredDumpDataAPI	Informational		
 Microsoft-Windows-Kernel-LiveDump	271	0	LiveDumpPolicyPolicyOperationFailed(AnsiString OperationType)	PolicyOperationFailed		LiveDumpPolicy	Informational		
 Microsoft-Windows-Kernel-LiveDump	272	0	LiveDumpPolicyPolicyValueChanged(UInt32 PolicyValue, UInt32 NTStatus)	PolicyValueChanged		LiveDumpPolicy	Informational		
 Microsoft-Windows-Kernel-LiveDump	273	0	LiveDumpPolicyLiveDumpdisabledonboot(UInt32 PolicyValue)	LiveDumpdisabledonboot		LiveDumpPolicy	Informational		

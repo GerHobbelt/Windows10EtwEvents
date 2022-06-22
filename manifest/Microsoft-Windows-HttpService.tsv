@@ -108,4 +108,3 @@ Microsoft-Windows-HttpService	106	0	HTTPConnectionTraceTaskQuicConnectionCallbac
 Microsoft-Windows-HttpService	107	0	HTTPConnectionTraceTaskQuicStream(UInt64 QuicStreamId, Pointer Connection, Pointer Stream)	QuicStream	HTTP_KEYWORD_CONNECTION	HTTPConnectionTraceTask	Informational		
 Microsoft-Windows-HttpService	108	0	HTTPConnectionTraceTaskQuicStreamCallback(Pointer Stream, Pointer Connection, AnsiString StreamType, UInt8 Event, UInt64 EventParam)	QuicStreamCallback	HTTP_KEYWORD_CONNECTION	HTTPConnectionTraceTask	Informational		
 Microsoft-Windows-HttpService	109	0	HTTPDriverGlobalSettingsTaskQuicRegistration(UInt32 Status)	QuicRegistration	HTTP_KEYWORD_DRIVER_SETTING	HTTPDriverGlobalSettingsTask	Error		
-Microsoft-Windows-HttpService	110	0	HTTPRequestTraceTaskClientCorrelation(UInt64 RequestId, GUID CorrelationId)	ClientCorrelation	HTTP_KEYWORD_REQUEST	HTTPRequestTraceTask	Informational		

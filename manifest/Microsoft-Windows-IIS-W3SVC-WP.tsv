@@ -1,0 +1,92 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-IIS-W3SVC-WP	2201	0	task_0PCODE_192pcode_192(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2203	0	task_0PCODE_192pcode_1922203(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2204	0	task_0PCODE_192pcode_1922204(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2206	0	task_0PCODE_192pcode_1922206(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2208	0	task_0PCODE_192pcode_1922208(UnicodeString HostAddress, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2214	0	task_0PCODE_192pcode_1922214(UnicodeString IsapiFilter, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2216	0	task_0PCODE_192pcode_1922216(UnicodeString Url, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2218	0	task_0PCODE_192pcode_1922218(UnicodeString File, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2219	0	task_0PCODE_192pcode_1922219(UnicodeString IsapiExtension, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2220	0	task_0PCODE_192pcode_1922220(UnicodeString IsapiExtension, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2221	0	task_0PCODE_192pcode_1922221()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2223	0	task_0PCODE_64pcode_64(UnicodeString IsapiFilter, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2226	0	task_0PCODE_128pcode_128(UnicodeString File, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2227	0	task_0PCODE_192pcode_1922227()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2228	0	task_0PCODE_128pcode_1282228(UnicodeString Application, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2229	0	task_0PCODE_128pcode_1282229(UnicodeString Application, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2230	0	task_0PCODE_128pcode_1282230(UnicodeString File, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2231	0	task_0PCODE_128pcode_1282231(UnicodeString File, UnicodeString Win32Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2232	0	task_0PCODE_128pcode_1282232(UnicodeString File, UnicodeString MaxSize, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2233	0	task_0PCODE_128pcode_1282233(UnicodeString File, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2236	0	task_0PCODE_128pcode_1282236(UnicodeString Application, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2237	0	task_0PCODE_128pcode_1282237(UnicodeString Application, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2238	0	task_0PCODE_192pcode_1922238()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2239	0	task_0PCODE_192pcode_1922239()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2240	0	task_0PCODE_192pcode_1922240()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2241	0	task_0PCODE_128pcode_1282241(UnicodeString Site, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2242	0	task_0PCODE_128pcode_1282242(UnicodeString Site, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2243	0	task_0PCODE_128pcode_1282243(UnicodeString Site, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2244	0	task_0PCODE_128pcode_1282244(UnicodeString Site, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2245	0	task_0PCODE_128pcode_1282245(UnicodeString Instance, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2246	0	task_0PCODE_128pcode_1282246(UnicodeString Instance, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2247	0	task_0PCODE_128pcode_1282247(UnicodeString Instance, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2248	0	task_0PCODE_128pcode_1282248(UnicodeString Instance, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2249	0	task_0PCODE_128pcode_1282249(UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2250	0	task_0PCODE_128pcode_1282250(UnicodeString Instance, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2251	0	task_0PCODE_128pcode_1282251(UnicodeString Instance, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2252	0	task_0PCODE_128pcode_1282252(UnicodeString Instance, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2253	0	task_0PCODE_128pcode_1282253(UnicodeString Instance, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2254	0	task_0PCODE_128pcode_1282254(UnicodeString Instance, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2255	0	task_0PCODE_128pcode_1282255(UnicodeString Instance, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2256	0	task_0PCODE_128pcode_1282256(UnicodeString Instance, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2257	0	task_0PCODE_128pcode_1282257(UnicodeString Instance, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2258	0	task_0PCODE_128pcode_1282258(UnicodeString UrlList, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2259	0	task_0PCODE_192pcode_1922259(UnicodeString ComPlusApplication, UnicodeString Path, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2261	0	task_0PCODE_192pcode_1922261(UnicodeString IsapiFilter, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2262	0	task_0PCODE_128pcode_1282262(UnicodeString IsapiExtension, UnicodeString UnhealthyReason, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2263	0	task_0PCODE_128pcode_1282263(UnicodeString IsapiExtension, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2264	0	task_0PCODE_128pcode_1282264(UnicodeString Directory, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2265	0	task_0PCODE_128pcode_1282265()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2266	0	task_0PCODE_128pcode_1282266()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2268	0	task_0PCODE_192pcode_1922268(UnicodeString SiteName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2269	0	task_0PCODE_192pcode_1922269(UnicodeString ApplicationPool, UnicodeString PID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2270	0	task_0PCODE_192pcode_1922270(UnicodeString Site, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2271	0	task_0PCODE_192pcode_1922271(UnicodeString Site, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2272	0	task_0PCODE_128pcode_1282272()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2273	0	task_0PCODE_128pcode_1282273()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2274	0	task_0PCODE_192pcode_1922274(UnicodeString IsapiFilter, UnicodeString ProcessorArchitecture, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2275	0	task_0PCODE_128pcode_1282275(UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2276	0	task_0PCODE_192pcode_1922276()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2280	0	task_0PCODE_192pcode_1922280(UnicodeString ModuleDll, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2281	0	task_0PCODE_192pcode_1922281()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2282	0	task_0PCODE_192pcode_1922282(UnicodeString ModuleDll, UnicodeString ProcessorArchitecture, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2283	0	task_0PCODE_128pcode_1282283(UnicodeString FailureCount, UnicodeString Minutes, UnicodeString Directory, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2284	0	task_0PCODE_128pcode_1282284(UnicodeString FailureCount, UnicodeString Minutes, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2285	0	task_0PCODE_128pcode_1282285(UnicodeString FailureCount, UnicodeString Minutes, UnicodeString InvalidConfig, UnicodeString Path, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2286	0	task_0PCODE_128pcode_1282286(UnicodeString FailureCount, UnicodeString Minutes, UnicodeString InvalidConfig, UnicodeString Path, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2287	0	task_0PCODE_128pcode_1282287(UnicodeString FailureCount, UnicodeString Minutes, UnicodeString ConfigException, UnicodeString File, UnicodeString LineNumber, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2288	0	task_0PCODE_128pcode_1282288(UnicodeString FailureCount, UnicodeString Minutes, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2289	0	task_0PCODE_128pcode_1282289(UnicodeString FailureCount, UnicodeString Minutes, UnicodeString Directory, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2290	0	task_0PCODE_128pcode_1282290(UnicodeString FailureCount, UnicodeString Minutes, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2291	0	task_0PCODE_128pcode_1282291(UnicodeString FailureCount, UnicodeString Minutes, UnicodeString InvalidConfig, UnicodeString Path, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2292	0	task_0PCODE_128pcode_1282292(UnicodeString FailureCount, UnicodeString Minutes, UnicodeString XslFile, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2293	0	task_0PCODE_192pcode_1922293(UnicodeString ModuleDll, UnicodeString Path, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2294	0	task_0PCODE_192pcode_1922294(UnicodeString CLRRunTimeVersion, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2295	0	task_0PCODE_192pcode_1922295(UnicodeString ModuleDll, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2296	0	task_0PCODE_192pcode_1922296(UnicodeString ModuleName, UnicodeString ModuleDll, UnicodeString PreCondition, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2297	0	task_0PCODE_192pcode_1922297(UnicodeString ApplicationPool, UnicodeString ConfigException, UnicodeString FileName, UnicodeString LineNumber, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2298	0	task_0PCODE_128pcode_1282298()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2299	0	task_0PCODE_192pcode_1922299(UnicodeString Reason, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2300	0	task_0PCODE_128pcode_1282300(UnicodeString CLRConfigFileName, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2301	0	task_0PCODE_128pcode_1282301()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2302	0	task_0PCODE_192pcode_1922302(UnicodeString ConfigPath, UnicodeString ErrorInfo, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2303	0	task_0PCODE_128pcode_1282303(UnicodeString ApplicationPool, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2304	0	task_0PCODE_192pcode_1922304(UnicodeString CLRRunTimeVersion, UnicodeString CLRLoaderDllPath, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2305	0	task_0PCODE_128pcode_1282305(UnicodeString ApplicationPool, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2306	0	task_0PCODE_128pcode_1282306(UnicodeString ApplicationPool, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2307	0	task_0PCODE_192pcode_1922307(UnicodeString ApplicationPool, UnicodeString ConfigException, UnicodeString FileName, UnicodeString LineNumber, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2308	0	task_0PCODE_192pcode_1922308(UnicodeString RequestCount, UnicodeString PID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2309	0	task_0PCODE_192pcode_1922309(UnicodeString Count, UnicodeString PID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2310	0	task_0PCODE_64pcode_642310(UnicodeString ProcessID, UnicodeString AppPoolID, UnicodeString Minutes)	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-WP	2311	0	task_0PCODE_192pcode_1922311(UnicodeString ApplicationPool, UnicodeString PID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		

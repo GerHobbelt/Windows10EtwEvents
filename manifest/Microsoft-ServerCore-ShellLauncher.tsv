@@ -1,0 +1,5 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-ServerCore-ShellLauncher	301	0	task_0(UnicodeString Message)			task_0	Error		
+Microsoft-ServerCore-ShellLauncher	302	0	task_0302(UnicodeString Message)			task_0	Warning		
+Microsoft-ServerCore-ShellLauncher	303	0	task_0303(UnicodeString Message)			task_0	Informational		
+Microsoft-ServerCore-ShellLauncher	304	0	task_0304(UnicodeString Message)			task_0	Verbose		

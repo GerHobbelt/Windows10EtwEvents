@@ -1,0 +1,10 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft.Windows.HyperV.VmIcCore	3584	0	task_0(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft.Windows.HyperV.VmIcCore	3585	0	task_03585(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft.Windows.HyperV.VmIcCore	3586	0	task_03586(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft.Windows.HyperV.VmIcCore	3587	0	task_03587(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft.Windows.HyperV.VmIcCore	4000	0	task_04000(UnicodeString VmName, UnicodeString VmId, UnicodeString Param1, UnicodeString Param2, UnicodeString Param3)			task_0	Error		
+Microsoft.Windows.HyperV.VmIcCore	4090	0	task_04090(UnicodeString VmName, UnicodeString VmId, UnicodeString Param1, UnicodeString Param2, UnicodeString Param3)			task_0	Error		
+Microsoft.Windows.HyperV.VmIcCore	4091	0	task_04091(UnicodeString VmName, UnicodeString VmId, UnicodeString Param1, UnicodeString Param2, UnicodeString Param3)			task_0	Critical		
+Microsoft.Windows.HyperV.VmIcCore	4094	0	task_04094(UnicodeString VmName, UnicodeString VmId, UnicodeString Param1, UnicodeString Param2, UnicodeString Param3)			task_0	Error		
+Microsoft.Windows.HyperV.VmIcCore	4095	0	task_04095(UnicodeString VmName, UnicodeString VmId, UnicodeString Param1, UnicodeString Param2, UnicodeString Param3)			task_0	Critical		

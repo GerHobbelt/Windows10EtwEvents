@@ -1,0 +1,33 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-MsLbfoEventProvider	1	0	task_0(GUID OldMember, GUID NewMember)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	2	0	task_02(GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	3	0	task_03(GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	4	0	task_04(GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	5	0	task_05(GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	6	0	task_06(Pointer TeamNic, GUID Member)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	7	0	task_07(GUID Member, Int32 Status)		keyword_10000000000 keyword_40000000000	task_0	Warning		
+Microsoft-Windows-MsLbfoEventProvider	8	0	task_08(Pointer TeamNic, Int32 Status)		keyword_10000000000 keyword_40000000000	task_0	Warning		
+Microsoft-Windows-MsLbfoEventProvider	9	0	task_09(GUID Member, Int32 Status)		keyword_10000000000 keyword_40000000000	task_0	Warning		
+Microsoft-Windows-MsLbfoEventProvider	10	0	task_010(Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	11	0	task_011(GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	12	0	task_012(Pointer Aggregator)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	13	0	task_013(Pointer TeamNic, GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	14	0	task_014(Pointer TeamNic, UInt32 StatusBufferLen, Binary StatusBuffer)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	15	0	task_015(Pointer TeamNic, Pointer Receiver)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	16	0	task_016(Pointer TeamNic, Pointer Receiver)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	17	0	task_017(Pointer TeamNic, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	18	0	task_018(Pointer TeamNic, Pointer Aggregator)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	19	0	task_019(Pointer TeamNic, GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	20	0	task_020(Pointer TeamNic, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	21	0	task_021()			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	22	0	task_022(GUID Member, Pointer OldAggregator, Pointer NewAggregator)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	23	0	task_023(GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	24	0	task_024(GUID Member, Int32 Status)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	25	0	task_025(GUID Member, UInt32 BufferLen, Binary Buffer)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	26	0	task_026(GUID Member, HexInt32 OldState, HexInt32 NewState)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	27	0	task_027(GUID Member, HexInt32 OldState, HexInt32 NewState)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	28	0	task_028(GUID Member, HexInt32 OldState, HexInt32 NewState)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	29	0	task_029(GUID Member, UInt32 BufferLen, Binary Buffer)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	30	0	task_030(GUID Member, Pointer OldAggregator, Pointer NewAggregator, Boolean Ready)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	31	0	task_031(GUID Member, Pointer OldAggregator, Pointer NewAggregator, Boolean Ready)			task_0	Informational		
+Microsoft-Windows-MsLbfoEventProvider	32	0	task_032(GUID Member, Int32 ChurnType, Int32 OldState, Int32 NewState)			task_0	Informational		

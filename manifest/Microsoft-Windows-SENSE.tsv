@@ -104,6 +104,17 @@ Microsoft-Windows-SENSE	303	0	task_0303(UnicodeString Message1, HexInt32 HRESULT
 Microsoft-Windows-SENSE	304	0	task_0304(UInt32 UInt1, UnicodeString Message1)			task_0	Informational		
 Microsoft-Windows-SENSE	305	0	task_0305(UInt32 UInt1)			task_0	Informational		
 Microsoft-Windows-SENSE	306	0	task_0306(UInt32 UInt1, UnicodeString Message1)			task_0	Informational		
+Microsoft-Windows-SENSE	400	0	task_0400(HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-SENSE	401	0	task_0401(HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-SENSE	402	0	task_0402(HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-SENSE	403	0	task_0403()			task_0	Informational		
+Microsoft-Windows-SENSE	404	0	task_0404()			task_0	Informational		
+Microsoft-Windows-SENSE	405	0	task_0405(UnicodeString requestType, HexInt32 HRESULT, Int32 errorCode)			task_0	Informational		
+Microsoft-Windows-SENSE	406	0	task_0406(UnicodeString requestType, HexInt32 HRESULT, Int32 errorCode)			task_0	Informational		
+Microsoft-Windows-SENSE	407	0	task_0407(HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-SENSE	408	0	task_0408(UnicodeString Message1, HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-SENSE	409	0	task_0409(HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-SENSE	410	0	task_0410()			task_0	Informational		
 Microsoft-Windows-SENSE	1800	0	task_01800(UInt32 UInt1, UnicodeString Message1)			task_0	Verbose		
 Microsoft-Windows-SENSE	1801	0	task_01801(UInt32 UInt1, UnicodeString Message1, HexInt32 HRESULT)			task_0	Error		
 Microsoft-Windows-SENSE	1802	0	task_01802(UInt32 UInt1, UnicodeString Message1, HexInt32 HRESULT)			task_0	Informational		

@@ -1,0 +1,6 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+WindowsAzure-GuestAgent-Status	1	0	GAExtension(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString name, UnicodeString version, Boolean isInternal, UnicodeString operation, Boolean operationSuccess, UnicodeString extensionType, UnicodeString message, Int64 duration)			GAExtension	Informational		
+WindowsAzure-GuestAgent-Status	2	0	GAGuestAgentUpdate(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString from, UnicodeString to, UnicodeString updateStatus, Int64 duration, UnicodeString message)			GAGuestAgentUpdate	Informational		
+WindowsAzure-GuestAgent-Status	3	0	GAIdentity(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString sdkVersion)			GAIdentity	Informational		
+WindowsAzure-GuestAgent-Status	4	0	GAPerformanceCounter(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString category, UnicodeString counter, UnicodeString instance, Float value)			GAPerformanceCounter	Informational		
+WindowsAzure-GuestAgent-Status	5	0	GAPerformanceCollection(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString eventSet, Int32 eventSetVersion, UnicodeString endTimeUTC, Int64 durationMS, UnicodeString counterSet, UnicodeString valuesFormat, UnicodeString values)			GAPerformanceCollection	Informational		

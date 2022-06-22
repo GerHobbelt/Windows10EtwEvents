@@ -1,0 +1,7 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-FederationServices-Deployment	100	0	UI(UnicodeString Prop_UnicodeString)			UI	Informational		
+Microsoft-Windows-FederationServices-Deployment	101	0	UI101(UnicodeString Prop_UnicodeString)			UI	Warning		
+Microsoft-Windows-FederationServices-Deployment	102	0	UI102(UnicodeString Prop_UnicodeString)			UI	Error		
+Microsoft-Windows-FederationServices-Deployment	103	0	Core(UnicodeString Prop_UnicodeString)			Core	Informational		
+Microsoft-Windows-FederationServices-Deployment	104	0	Core104(UnicodeString Prop_UnicodeString)			Core	Warning		
+Microsoft-Windows-FederationServices-Deployment	105	0	Core105(UnicodeString Prop_UnicodeString)			Core	Error		

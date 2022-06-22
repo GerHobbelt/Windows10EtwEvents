@@ -1,0 +1,28 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Calculator	1	0	HistoryToggleStart(UInt32 Eventnumber)	Start	Calculator	HistoryToggle	Informational		
+Microsoft-Windows-Calculator	2	0	HistoryToggleStop(UInt32 Eventnumber)	Stop	Calculator	HistoryToggle	Informational		
+Microsoft-Windows-Calculator	3	0	CalcCommandStart(UInt32 EventNumber)	Start	Calculator	CalcCommand	Informational		
+Microsoft-Windows-Calculator	4	0	CalcCommandStop(UInt32 EventNumber)	Stop	Calculator	CalcCommand	Informational		
+Microsoft-Windows-Calculator	5	0	LaunchingAppStart(UInt32 EventNumber)	Start	Calculator	LaunchingApp	Informational		
+Microsoft-Windows-Calculator	6	0	LaunchingAppStop(UInt32 EventNumber)	Stop	Calculator	LaunchingApp	Informational		
+Microsoft-Windows-Calculator	7	0	ClosingAppStart(UInt32 EventNumber)	Start	Calculator	ClosingApp	Informational		
+Microsoft-Windows-Calculator	8	0	ClosingAppStop(UInt32 EventNumber)	Stop	Calculator	ClosingApp	Informational		
+Microsoft-Windows-Calculator	9	0	TemplateReadStart(UInt32 Eventnumber)	Start	Calculator	TemplateRead	Informational		
+Microsoft-Windows-Calculator	10	0	TemplateReadStop(UInt32 Eventnumber)	Stop	Calculator	TemplateRead	Informational		
+Microsoft-Windows-Calculator	11	0	TemplateLoadStart(UInt32 Eventnumber)	Start	Calculator	TemplateLoad	Informational		
+Microsoft-Windows-Calculator	12	0	TemplateLoadStop(UInt32 Eventnumber)	Stop	Calculator	TemplateLoad	Informational		
+Microsoft-Windows-Calculator	13	0	TemplateInitStart(UInt32 Eventnumber)	Start	Calculator	TemplateInit	Informational		
+Microsoft-Windows-Calculator	14	0	TemplateInitStop(UInt32 Eventnumber)	Stop	Calculator	TemplateInit	Informational		
+Microsoft-Windows-Calculator	15	0	TemplateLookUpStart(UInt32 Eventnumber)	Start	Calculator	TemplateLookUp	Informational		
+Microsoft-Windows-Calculator	16	0	TemplateLookUpStop(UInt32 Eventnumber)	Stop	Calculator	TemplateLookUp	Informational		
+Microsoft-Windows-Calculator	17	0	task_0(UnicodeString Description)		Calculator	task_0	Error		
+Microsoft-Windows-Calculator	18	0	task_018(UnicodeString Description)		Calculator	task_0	Error		
+Microsoft-Windows-Calculator	19	0	GetCategoriesStart(UInt32 Eventnumber)	Start	Calculator	GetCategories	Informational		
+Microsoft-Windows-Calculator	20	0	GetCategoriesStop(UInt32 Eventnumber)	Stop	Calculator	GetCategories	Informational		
+Microsoft-Windows-Calculator	21	0	task_021(UnicodeString Description)		Calculator	task_0	Error		
+Microsoft-Windows-Calculator	22	0	StatisticsCalculationStart(UInt32 EventNumber)	Start	Calculator	StatisticsCalculation	Informational		
+Microsoft-Windows-Calculator	23	0	StatisticsCalculationStop(UInt32 EventNumber)	Stop	Calculator	StatisticsCalculation	Informational		
+Microsoft-Windows-Calculator	24	0	RecalculationStart(UInt32 EventNumber)	Start	Calculator	Recalculation	Informational		
+Microsoft-Windows-Calculator	25	0	RecalculationStop(UInt32 EventNumber)	Stop	Calculator	Recalculation	Informational		
+Microsoft-Windows-Calculator	26	0	ModeChangeStart(UInt32 Eventnumber)	Start	Calculator	ModeChange	Informational		
+Microsoft-Windows-Calculator	27	0	ModeChangeStop(UInt32 Eventnumber)	Stop	Calculator	ModeChange	Informational		

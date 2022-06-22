@@ -1,0 +1,216 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-WAS	5001	0	task_0PCODE_128pcode_128()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5002	0	task_0PCODE_192pcode_192(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5003	0	task_0PCODE_192pcode_1925003()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5004	0	task_0PCODE_192pcode_1925004()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5005	0	task_0PCODE_192pcode_1925005(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5006	0	task_0PCODE_192pcode_1925006()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5007	0	task_0PCODE_192pcode_1925007()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5008	0	task_0PCODE_128pcode_1285008()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5009	0	task_0PCODE_128pcode_1285009(UnicodeString AppPoolID, UnicodeString ProcessID, UnicodeString ExitCode)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5010	0	task_0PCODE_128pcode_1285010(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5011	0	task_0PCODE_128pcode_1285011(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5012	0	task_0PCODE_128pcode_1285012(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5013	0	task_0PCODE_128pcode_1285013(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5014	0	task_0PCODE_128pcode_1285014(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5015	0	task_0PCODE_192pcode_1925015(UnicodeString AppPoolID, UnicodeString OrphanAction, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5016	0	task_0PCODE_128pcode_1285016()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5017	0	task_0PCODE_192pcode_1925017()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5018	0	task_0PCODE_192pcode_1925018()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5019	0	task_0PCODE_128pcode_1285019()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5020	0	task_0PCODE_192pcode_1925020()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5021	0	task_0PCODE_128pcode_1285021(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5022	0	task_0PCODE_128pcode_1285022(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5023	0	task_0PCODE_192pcode_1925023()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5024	0	task_0PCODE_192pcode_1925024(UnicodeString SiteID, UnicodeString LogFileTruncateBytes)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5025	0	task_0PCODE_128pcode_1285025(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5026	0	task_0PCODE_192pcode_1925026()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5027	0	task_0PCODE_192pcode_1925027()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5028	0	task_0PCODE_192pcode_1925028(UnicodeString ProcessID, UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5029	0	task_0PCODE_192pcode_1925029()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5030	0	task_0PCODE_192pcode_1925030()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5031	0	task_0PCODE_192pcode_1925031()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5032	0	task_0PCODE_192pcode_1925032()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5033	0	task_0PCODE_192pcode_1925033()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5034	0	task_0PCODE_192pcode_1925034()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5035	0	task_0PCODE_192pcode_1925035()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5036	0	task_0PCODE_192pcode_1925036(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5037	0	task_0PCODE_192pcode_1925037()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5038	0	task_0PCODE_192pcode_1925038()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5039	0	task_0PCODE_128pcode_1285039(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5040	0	task_0PCODE_192pcode_1925040()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5041	0	task_0PCODE_128pcode_1285041(UnicodeString param1, UnicodeString param2, UnicodeString Property, UnicodeString Value, UnicodeString RangeLow, UnicodeString RangeHigh, UnicodeString DefaultValue)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5042	0	task_0PCODE_128pcode_1285042(UnicodeString AppPoolID, UnicodeString CmdValue)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5043	0	task_0PCODE_128pcode_1285043(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5044	0	task_0PCODE_128pcode_1285044()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5045	0	task_0PCODE_128pcode_1285045()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5046	0	task_0PCODE_128pcode_1285046(UnicodeString SiteID, UnicodeString CmdValue)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5047	0	task_0PCODE_128pcode_1285047(UnicodeString Application, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5048	0	task_0PCODE_128pcode_1285048(UnicodeString Application, UnicodeString SiteID, UnicodeString AppPoolID)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5049	0	task_0PCODE_128pcode_1285049()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5050	0	task_0PCODE_128pcode_1285050(UnicodeString AppPoolID, UnicodeString NameLength, UnicodeString MaxLength)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5051	0	task_0PCODE_128pcode_1285051()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5052	0	task_0PCODE_128pcode_1285052(UnicodeString Application, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5053	0	task_0PCODE_192pcode_1925053(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5054	0	task_0PCODE_192pcode_1925054(UnicodeString AppPoolID, UnicodeString AutoStopAction, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5055	0	task_0PCODE_128pcode_1285055(UnicodeString SiteID, UnicodeString AppPoolID)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5056	0	task_0PCODE_128pcode_1285056(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5057	0	task_0PCODE_128pcode_1285057(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5058	0	task_0PCODE_128pcode_1285058(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5059	0	task_0PCODE_192pcode_1925059(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5060	0	task_0PCODE_192pcode_1925060(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5061	0	task_0PCODE_192pcode_1925061(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5062	0	task_0PCODE_192pcode_1925062()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5063	0	task_0PCODE_192pcode_1925063(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5064	0	task_0PCODE_192pcode_1925064(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5065	0	task_0PCODE_128pcode_1285065(UnicodeString Bytes)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5066	0	task_0PCODE_192pcode_1925066(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5067	0	task_0PCODE_128pcode_1285067(UnicodeString Property, UnicodeString Value, UnicodeString RangeLow, UnicodeString RangeHigh, UnicodeString DefaultValue)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5068	0	task_0PCODE_128pcode_1285068()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5069	0	task_0PCODE_128pcode_1285069()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5070	0	task_0PCODE_128pcode_1285070(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5071	0	task_0PCODE_128pcode_1285071()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5072	0	task_0PCODE_128pcode_1285072()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5073	0	task_0PCODE_128pcode_1285073()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5074	0	task_0PCODE_64pcode_64(UnicodeString ProcessID, UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5075	0	task_0PCODE_64pcode_645075(UnicodeString ProcessID, UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5076	0	task_0PCODE_64pcode_645076(UnicodeString ProcessID, UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5077	0	task_0PCODE_64pcode_645077(UnicodeString ProcessID, UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5078	0	task_0PCODE_64pcode_645078(UnicodeString ProcessID, UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5079	0	task_0PCODE_64pcode_645079(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5080	0	task_0PCODE_64pcode_645080(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5081	0	task_0PCODE_64pcode_645081(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5082	0	task_0PCODE_64pcode_645082(UnicodeString ProcessID, UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5083	0	task_0PCODE_192pcode_1925083()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5084	0	task_0PCODE_192pcode_1925084()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5085	0	task_0PCODE_192pcode_1925085(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5086	0	task_0PCODE_192pcode_1925086()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5087	0	task_0PCODE_192pcode_1925087()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5088	0	task_0PCODE_192pcode_1925088(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5089	0	task_0PCODE_192pcode_1925089()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5090	0	task_0PCODE_192pcode_1925090()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5091	0	task_0PCODE_192pcode_1925091(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5092	0	task_0PCODE_192pcode_1925092(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5093	0	task_0PCODE_192pcode_1925093(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5094	0	task_0PCODE_192pcode_1925094(UnicodeString Application, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5095	0	task_0PCODE_192pcode_1925095()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5096	0	task_0PCODE_192pcode_1925096()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5097	0	task_0PCODE_192pcode_1925097()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5098	0	task_0PCODE_192pcode_1925098()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5099	0	task_0PCODE_192pcode_1925099()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5100	0	task_0PCODE_192pcode_1925100(UnicodeString SiteID, UnicodeString Application, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5101	0	task_0PCODE_192pcode_1925101(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5102	0	task_0PCODE_192pcode_1925102(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5103	0	task_0PCODE_192pcode_1925103(UnicodeString SiteID, UnicodeString Application, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5104	0	task_0PCODE_192pcode_1925104(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5105	0	task_0PCODE_192pcode_1925105(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5106	0	task_0PCODE_192pcode_1925106(UnicodeString SiteID, UnicodeString Application, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5107	0	task_0PCODE_192pcode_1925107(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5108	0	task_0PCODE_192pcode_1925108(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5109	0	task_0PCODE_192pcode_1925109()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5110	0	task_0PCODE_192pcode_1925110()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5111	0	task_0PCODE_192pcode_1925111()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5112	0	task_0PCODE_192pcode_1925112()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5113	0	task_0PCODE_192pcode_1925113()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5114	0	task_0PCODE_192pcode_1925114()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5115	0	task_0PCODE_192pcode_1925115()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5116	0	task_0PCODE_192pcode_1925116()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5117	0	task_0PCODE_64pcode_645117(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5118	0	task_0PCODE_192pcode_1925118(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5119	0	task_0PCODE_192pcode_1925119()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5120	0	task_0PCODE_192pcode_1925120()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5121	0	task_0PCODE_192pcode_1925121()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5122	0	task_0PCODE_192pcode_1925122()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5123	0	task_0PCODE_192pcode_1925123()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5124	0	task_0PCODE_192pcode_1925124()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5125	0	task_0PCODE_192pcode_1925125()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5126	0	task_0PCODE_192pcode_1925126()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5127	0	task_0PCODE_128pcode_1285127(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5128	0	task_0PCODE_192pcode_1925128()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5129	0	task_0PCODE_192pcode_1925129()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5130	0	task_0PCODE_192pcode_1925130()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5131	0	task_0PCODE_192pcode_1925131()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5132	0	task_0PCODE_128pcode_1285132()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5133	0	task_0PCODE_128pcode_1285133()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5134	0	task_0PCODE_192pcode_1925134()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5135	0	task_0PCODE_192pcode_1925135()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5136	0	task_0PCODE_192pcode_1925136(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5137	0	task_0PCODE_128pcode_1285137(UnicodeString AppPoolID, UnicodeString ProcessID, UnicodeString param3, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5138	0	task_0PCODE_128pcode_1285138(UnicodeString AppPoolID, UnicodeString ProcessID, UnicodeString param3, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5139	0	task_0PCODE_128pcode_1285139(UnicodeString AppPoolID, UnicodeString ProcessID, UnicodeString param3, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5140	0	task_0PCODE_128pcode_1285140(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5141	0	task_0PCODE_128pcode_1285141()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5142	0	task_0PCODE_192pcode_1925142(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5143	0	task_0PCODE_192pcode_1925143(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5144	0	task_0PCODE_192pcode_1925144(UnicodeString AppPoolID, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5145	0	task_0PCODE_192pcode_1925145(UnicodeString AppPoolID, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5146	0	task_0PCODE_192pcode_1925146(UnicodeString AppPoolID, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5147	0	task_0PCODE_192pcode_1925147(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5148	0	task_0PCODE_128pcode_1285148(UnicodeString ProtocolID, UnicodeString AppPoolID)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5149	0	task_0PCODE_128pcode_1285149(UnicodeString Property, UnicodeString Value, UnicodeString DefaultValue)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5150	0	task_0PCODE_192pcode_1925150(UnicodeString ProtocolID, UnicodeString SiteID, UnicodeString Application, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5151	0	task_0PCODE_192pcode_1925151(UnicodeString ProtocolID, UnicodeString SiteID, UnicodeString Application, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5152	0	task_0PCODE_128pcode_1285152(UnicodeString AppPoolID, UnicodeString IdleTimeout, UnicodeString PeriodicRestartTime)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5153	0	task_0PCODE_128pcode_1285153()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5154	0	task_0PCODE_128pcode_1285154()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5155	0	task_0PCODE_128pcode_1285155()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5156	0	task_0PCODE_128pcode_1285156()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5157	0	task_0PCODE_128pcode_1285157()	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5158	0	task_0PCODE_128pcode_1285158(UnicodeString AppPoolID, UnicodeString ProcessID, UnicodeString param3, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5159	0	task_0PCODE_192pcode_1925159(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5160	0	task_0PCODE_192pcode_1925160(UnicodeString AppPoolID, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5161	0	task_0PCODE_192pcode_1925161(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5162	0	task_0PCODE_128pcode_1285162(UnicodeString SiteID, UnicodeString Application, UnicodeString BadAppRoot, UnicodeString RequiredAppRoot)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5163	0	task_0PCODE_192pcode_1925163(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5164	0	task_0PCODE_192pcode_1925164(UnicodeString AppPoolID, UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5165	0	task_0PCODE_192pcode_1925165(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5167	0	task_0PCODE_192pcode_1925167(UnicodeString ProcessID, UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5168	0	task_0PCODE_192pcode_1925168()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5169	0	task_0PCODE_192pcode_1925169(UnicodeString ListenerAdapter, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5170	0	task_0PCODE_192pcode_1925170(UnicodeString ListenerAdapter, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5171	0	task_0PCODE_192pcode_1925171(UnicodeString ListenerAdapter, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5172	0	task_0PCODE_192pcode_1925172(UnicodeString File, UnicodeString LineNumber, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5173	0	task_0PCODE_192pcode_1925173(UnicodeString ConfigSection, UnicodeString File, UnicodeString LineNumber, UnicodeString Error, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5174	0	task_0PCODE_192pcode_1925174(UnicodeString param1, UnicodeString param2, UnicodeString Property, UnicodeString Value, UnicodeString DefaultValue)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5175	0	task_0PCODE_192pcode_1925175(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5176	0	task_0PCODE_192pcode_1925176()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5177	0	task_0PCODE_192pcode_1925177(UnicodeString ProtocolID, UnicodeString Application, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5178	0	task_0PCODE_192pcode_1925178(UnicodeString ProtocolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5179	0	task_0PCODE_192pcode_1925179(UnicodeString ConfigNode, UnicodeString Property, UnicodeString Value, UnicodeString DefaultValue)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5180	0	task_0PCODE_192pcode_1925180(UnicodeString ConfigNode, UnicodeString Property, UnicodeString Value, UnicodeString DefaultValue, UnicodeString ValidValues)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5181	0	task_0PCODE_192pcode_1925181(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5182	0	task_0PCODE_192pcode_1925182(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5183	0	task_0PCODE_192pcode_1925183(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5184	0	task_0PCODE_64pcode_645184(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5185	0	task_0PCODE_64pcode_645185(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5186	0	task_0PCODE_64pcode_645186(UnicodeString ProcessID, UnicodeString AppPoolID, UnicodeString Minutes)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5187	0	task_0PCODE_192pcode_1925187(UnicodeString ListenerAdapter, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5188	0	task_0PCODE_192pcode_1925188()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5189	0	task_0PCODE_192pcode_1925189(UnicodeString AppPoolID, UnicodeString ErrorType, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5190	0	task_0PCODE_192pcode_1925190(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5191	0	task_0PCODE_192pcode_1925191()	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5192	0	task_0PCODE_64pcode_645192(UnicodeString DynamicIdleLoad, UnicodeString NumWorkerProcesses, UnicodeString TotalCommitMB, UnicodeString PhysMemoryMB, UnicodeString PhysMemoryFreeMB, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5193	0	task_0PCODE_128pcode_1285193(UnicodeString DynamicIdleLoad, UnicodeString NumWorkerProcesses, UnicodeString TotalCommitMB, UnicodeString PhysMemoryMB, UnicodeString PhysMemoryFreeMB, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5194	0	task_0PCODE_64pcode_645194(UnicodeString DynamicIdleLoad, UnicodeString NumWorkerProcesses, UnicodeString TotalCommitMB, UnicodeString PhysMemoryMB, UnicodeString PhysMemoryFreeMB, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5195	0	task_0PCODE_64pcode_645195(UnicodeString ProcessID, UnicodeString AppPoolID, UnicodeString Minutes, UnicodeString DynamicIdle)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5196	0	task_0PCODE_128pcode_1285196(UnicodeString Threshold, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5197	0	task_0PCODE_64pcode_645197()	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5198	0	task_0PCODE_192pcode_1925198(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5199	0	task_0PCODE_192pcode_1925199(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5200	0	task_0PCODE_192pcode_1925200(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5201	0	task_0PCODE_128pcode_1285201(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5202	0	task_0PCODE_192pcode_1925202(UnicodeString ErrorCode, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5203	0	task_0PCODE_192pcode_1925203(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5204	0	task_0PCODE_128pcode_1285204(UnicodeString ErrorCode, UnicodeString ConfigPath, UnicodeString ConfigFile, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5205	0	task_0PCODE_64pcode_645205()	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5207	0	task_0PCODE_128pcode_1285207(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5208	0	task_0PCODE_128pcode_1285208(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5209	0	task_0PCODE_128pcode_1285209(UnicodeString AppPoolID, UnicodeString ProcessID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5210	0	task_0PCODE_128pcode_1285210(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5211	0	task_0PCODE_64pcode_645211(UnicodeString RunningMode, UnicodeString ConfigurationReader, UInt32 __binLength, Binary binary)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS	5212	0	task_0PCODE_128pcode_1285212(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5213	0	task_0PCODE_128pcode_1285213(UnicodeString BindingInformation, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS	5214	0	task_0PCODE_192pcode_1925214(UnicodeString ConfigErrorDescription, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5215	0	task_0PCODE_192pcode_1925215(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS	5216	0	task_0PCODE_192pcode_1925216(UInt32 __binLength, Binary binary)	opcode_192		task_0	Error		
+Microsoft-Windows-WAS	5217	0	task_0PCODE_192pcode_1925217(UInt32 __binLength, Binary binary)	opcode_192		task_0	Error		

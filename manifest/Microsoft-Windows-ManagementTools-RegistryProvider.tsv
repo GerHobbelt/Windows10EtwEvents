@@ -1,0 +1,44 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-ManagementTools-RegistryProvider	1000	0	LifetimeStart(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1001	0	LifetimeStop(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1002	0	Lifetime(UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1003	0	LifetimeStart1003(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1004	0	LifetimeStop1004(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1005	0	Lifetime1005(UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1100	0	LifetimeStart1100(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1101	0	LifetimeStop1101(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1102	0	Lifetime1102(Int32 arg0, UnicodeString arg1)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1103	0	LifetimeStart1103(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1104	0	LifetimeStop1104(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1105	0	Lifetime1105(Int32 arg0, UnicodeString arg1)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1106	0	LifetimeStart1106(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1107	0	LifetimeStop1107(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1108	0	Lifetime1108(Int32 arg0, UnicodeString arg1)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1109	0	ActionStart(UnicodeString arg0, UnicodeString arg1)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1110	0	ActionStop(UnicodeString arg0, UnicodeString arg1)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1111	0	Action(Int32 arg0, UnicodeString arg1)			Action	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1200	0	LifetimeStart1200(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1201	0	LifetimeStop1201(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1202	0	Lifetime1202(Int32 arg0, UnicodeString arg1)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1203	0	LifetimeStart1203(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1204	0	LifetimeStop1204(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1205	0	Lifetime1205(Int32 arg0, UnicodeString arg1)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1206	0	LifetimeStart1206(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1207	0	LifetimeStop1207(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1208	0	Lifetime1208(Int32 arg0, UnicodeString arg1)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1209	0	LifetimeStart1209(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1210	0	LifetimeStop1210(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1211	0	Lifetime1211(Int32 arg0, UnicodeString arg1)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1212	0	ActionStart1212(UnicodeString arg0, UnicodeString arg1)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1213	0	ActionStop1213(UnicodeString arg0, UnicodeString arg1)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1214	0	Action1214(Int32 arg0, UnicodeString arg1)			Action	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1300	0	ActionStart1300(UnicodeString arg0)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1301	0	ActionStop1301(UnicodeString arg0)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1302	0	Action1302(Int32 arg0, UnicodeString arg1)			Action	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1303	0	ActionStart1303(UnicodeString arg0)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1304	0	ActionStop1304(UnicodeString arg0)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1305	0	Action1305(Int32 arg0, UnicodeString arg1)			Action	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1306	0	ActionStart1306(UnicodeString arg0, UnicodeString arg1, Int32 arg2)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1307	0	ActionStop1307(UnicodeString arg0, UnicodeString arg1, Int32 arg2)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-RegistryProvider	1308	0	Action1308(Int32 arg0, UnicodeString arg1)			Action	Error		
+Microsoft-Windows-ManagementTools-RegistryProvider	1400	0	Lifetime1400(Int32 arg0, UnicodeString arg1)			Lifetime	Warning		

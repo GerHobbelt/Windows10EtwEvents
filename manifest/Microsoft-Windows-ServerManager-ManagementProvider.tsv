@@ -1,0 +1,71 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-ServerManager-ManagementProvider	1	0	ProviderinitializationStart()	Start		Providerinitialization	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	2	0	ProviderinitializationStop()	Stop		Providerinitialization	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	12	0	Theerrorcheckingtask(UnicodeString ptzMessage1, UnicodeString ptzMessage2)			Theerrorcheckingtask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	14	0	GetperformancecollectorstatetaskStart()	Start		Getperformancecollectorstatetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	15	0	GetperformancecollectorstatetaskStop()	Stop		Getperformancecollectorstatetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	16	0	Getperformancecollectorstatetask(HexInt32 hResult)			Getperformancecollectorstatetask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	17	0	SetperformancecollectorstatetaskStart()	Start		Setperformancecollectorstatetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	18	0	SetperformancecollectorstatetaskStop()	Stop		Setperformancecollectorstatetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	19	0	Setperformancecollectorstatetask(HexInt32 hResult)			Setperformancecollectorstatetask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	26	0	GetcountersamplesintimerangetaskStart()	Start		Getcountersamplesintimerangetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	27	0	GetcountersamplesintimerangetaskStop()	Stop		Getcountersamplesintimerangetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	28	0	Getcountersamplesintimerangetask(HexInt32 hResult)			Getcountersamplesintimerangetask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	29	0	Getcountersamplesintimerangetask29(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getcountersamplesintimerangetask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	30	0	GetcountersamplesattimetaskStart()	Start		Getcountersamplesattimetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	31	0	GetcountersamplesattimetaskStop()	Stop		Getcountersamplesattimetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	32	0	Getcountersamplesattimetask(HexInt32 hResult)			Getcountersamplesattimetask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	33	0	Getcountersamplesintimerangetask33(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getcountersamplesintimerangetask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	41	0	Getserverinventorytask()			Getserverinventorytask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	42	0	Getserverinventorytask42()			Getserverinventorytask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	43	0	Getserverinventorytask43()			Getserverinventorytask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	44	0	Getserverinventorytask44(UnicodeString facility, HexInt32 error, HexInt32 lasterror)			Getserverinventorytask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	45	0	Getserverinventorytask45(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getserverinventorytask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	46	0	Getserverinventorytask46(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getserverinventorytask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	47	0	Getserverfeaturetask(UInt32 uValue)			Getserverfeaturetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	48	0	Getserverfeaturetask48(UInt32 uValue)			Getserverfeaturetask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	49	0	Getserverfeaturetask49(HexInt32 hResult)			Getserverfeaturetask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	50	0	Getserverfeaturetask50(Int32 Id, UnicodeString Name)			Getserverfeaturetask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	51	0	Getserverfeaturetask51(Int32 Id, Int32 ParentId)			Getserverfeaturetask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	52	0	Getservereventdetailtask(UInt32 uValue)			Getservereventdetailtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	53	0	Getservereventdetailtask53(UInt32 uValue)			Getservereventdetailtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	54	0	Getservereventdetailtask54(HexInt32 hResult)			Getservereventdetailtask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	55	0	Getservereventdetailtask55(UnicodeString Query)			Getservereventdetailtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	56	0	Getservereventdetailtask56(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getservereventdetailtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	57	0	Getservereventdetailtask57(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getservereventdetailtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	58	0	Getservereventdetailtask58(UnicodeString Name)			Getservereventdetailtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	61	0	Getserverfeaturetask61()			Getserverfeaturetask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	62	0	Getserverbparesulttask(UInt32 TotalXPaths)			Getserverbparesulttask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	63	0	Getserverbparesulttask63(UInt32 ResultsReturned)			Getserverbparesulttask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	64	0	Getserverbparesulttask64(HexInt32 Error, HexInt32 LastError)			Getserverbparesulttask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	65	0	Getserverclusternametask()			Getserverclusternametask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	66	0	Getserverclusternametask66()			Getserverclusternametask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	67	0	Getserverclusternametask67()			Getserverclusternametask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	68	0	Getservereventdetailtask68(HexInt32 Error, HexInt32 LastError)			Getservereventdetailtask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	69	0	Getserverservicedetailtask(UInt32 uValue)			Getserverservicedetailtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	70	0	Getserverservicedetailtask70(UInt32 uValue)			Getserverservicedetailtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	71	0	Getserverservicedetailtask71(HexInt32 Error, HexInt32 LastError)			Getserverservicedetailtask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	72	0	Getserverservicedetailtask72(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getserverservicedetailtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	73	0	Getserverservicedetailtask73(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getserverservicedetailtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	74	0	Getserverservicedetailtask74(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getserverservicedetailtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	75	0	Getserverservicedetailtask75(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getserverservicedetailtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	76	0	Getserverservicedetailtask76(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getserverservicedetailtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	77	0	Removeserverperformancelogtask(UnicodeString Collector, UInt64 MillisecondCutOff)			Removeserverperformancelogtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	78	0	Removeserverperformancelogtask78(UInt32 Count)			Removeserverperformancelogtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	79	0	Removeserverperformancelogtask79(UnicodeString Collector, HexInt32 ErrorCode, HexInt32 LastErrorCode)			Removeserverperformancelogtask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	80	0	Removeserverperformancelogtask80(UnicodeString Log, HexInt32 Error, HexInt32 LastError)			Removeserverperformancelogtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	81	0	ElevatedOperation(UnicodeString Identifier, Int32 Error)			ElevatedOperation	Critical		
+Microsoft-Windows-ServerManager-ManagementProvider	82	0	ElevatedOperation82(UnicodeString Identifier, Int32 Error)			ElevatedOperation	Critical		
+Microsoft-Windows-ServerManager-ManagementProvider	83	0	ElevatedOperation83(UnicodeString Identifier)			ElevatedOperation	Critical		
+Microsoft-Windows-ServerManager-ManagementProvider	84	0	WMIOperation(UnicodeString Identifier)			WMIOperation	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	85	0	Getserverbparesulttask85(UnicodeString XPath, HexInt32 Error, HexInt32 LastError)			Getserverbparesulttask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	86	0	Theerrorcheckingtask86(UnicodeString Type, UInt32 Index, HexInt32 Error, HexInt32 LastError)			Theerrorcheckingtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	87	0	Getserverservicedetailtask87(UnicodeString Name, HexInt32 hResult, HexInt32 hLastError)			Getserverservicedetailtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	88	0	Theerrorcheckingtask88(HexInt32 LastError, Boolean QfeCheck)			Theerrorcheckingtask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	89	0	Theerrorcheckingtask89(HexInt32 Error, HexInt32 LastError)			Theerrorcheckingtask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	90	0	Getservereventdetailextendedtask(UInt32 uValue)			Getservereventdetailextendedtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	91	0	Getservereventdetailextendedtask91(UInt32 uValue)			Getservereventdetailextendedtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	92	0	Getservereventdetailextendedtask92(HexInt32 Error, HexInt32 LastError)			Getservereventdetailextendedtask	Error		
+Microsoft-Windows-ServerManager-ManagementProvider	93	0	Getservereventdetailextendedtask93(UnicodeString Query)			Getservereventdetailextendedtask	Informational		
+Microsoft-Windows-ServerManager-ManagementProvider	94	0	Getservereventdetailextendedtask94(HexInt32 Error, HexInt32 LastError)			Getservereventdetailextendedtask	Warning		
+Microsoft-Windows-ServerManager-ManagementProvider	95	0	Getservereventdetailextendedtask95(UnicodeString Name)			Getservereventdetailextendedtask	Warning		

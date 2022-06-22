@@ -1,0 +1,39 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1001	0	LifetimeStart()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1002	0	LifetimeStop()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1003	0	LifetimeStart1003()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1004	0	LifetimeStop1004()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1005	0	Lifetime()			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1006	0	LifetimeStart1006()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1007	0	LifetimeStop1007()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1008	0	Lifetime1008()			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1009	0	LifetimeStart1009()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1010	0	LifetimeStop1010()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1011	0	Lifetime1011()			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1012	0	LifetimeStart1012()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1013	0	LifetimeStop1013()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1014	0	Lifetime1014()			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1015	0	LifetimeStart1015()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1016	0	LifetimeStop1016()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1017	0	Lifetime1017()			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1018	0	LifetimeStart1018()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1019	0	LifetimeStop1019()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1020	0	Lifetime1020()			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1030	0	LifetimeStart1030()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1031	0	LifetimeStop1031()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1032	0	Lifetime1032(UInt32 error, UnicodeString errorType, UnicodeString errorMessage)			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1033	0	LifetimeStart1033()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1034	0	LifetimeStop1034()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1035	0	Lifetime1035(UInt32 error, UnicodeString errorType, UnicodeString errorMessage)			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1036	0	LifetimeStart1036()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1037	0	LifetimeStop1037()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1038	0	Lifetime1038(UInt32 error, UnicodeString errorType, UnicodeString errorMessage)			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1039	0	LifetimeStart1039()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1040	0	LifetimeStop1040()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1041	0	Lifetime1041(UInt32 error, UnicodeString errorType, UnicodeString errorMessage)			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1042	0	LifetimeStart1042()	Start		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1043	0	LifetimeStop1043()	Stop		Lifetime	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1044	0	Lifetime1044(UInt32 error, UnicodeString errorType, UnicodeString errorMessage)			Lifetime	Error		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1045	0	Lifetime1045(UnicodeString vmGuid)			Lifetime	Warning		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1100	0	DataDecode(UnicodeString vmGuid, UnicodeString tempFileName)			DataDecode	Informational		
+Microsoft-Windows-SoftwareInventoryLogging-Provider	1101	0	DataDecode1101(UnicodeString vmGuid, UnicodeString tempFileName)			DataDecode	Informational		

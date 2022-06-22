@@ -1,0 +1,9 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-CertificateServices-Deployment	100	0	Operations(UnicodeString Prop_UnicodeString)			Operations	Informational		
+Microsoft-Windows-CertificateServices-Deployment	101	0	Operations101(UnicodeString Prop_UnicodeString)			Operations	Informational		
+Microsoft-Windows-CertificateServices-Deployment	102	0	Deserialization(UnicodeString Prop_UnicodeString)			Deserialization	Informational		
+Microsoft-Windows-CertificateServices-Deployment	103	0	Deserialization103(UnicodeString Prop_UnicodeString)			Deserialization	Warning		
+Microsoft-Windows-CertificateServices-Deployment	104	0	Exceptions(UnicodeString Prop_UnicodeString)			Exceptions	Error		
+Microsoft-Windows-CertificateServices-Deployment	105	0	PowerShell(UnicodeString Prop_UnicodeString)			PowerShell	Informational		
+Microsoft-Windows-CertificateServices-Deployment	106	0	WizardPage(UnicodeString Prop_UnicodeString)			WizardPage	Informational		
+Microsoft-Windows-CertificateServices-Deployment	107	0	WizardPage107(UnicodeString Prop_UnicodeString)			WizardPage	Informational		

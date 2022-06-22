@@ -1,0 +1,9 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-BestPractices	0	0	ModelInvocation()			ModelInvocation	Informational		
+Microsoft-Windows-BestPractices	1	0	ModelInvocation1()			ModelInvocation	Informational		
+Microsoft-Windows-BestPractices	2	0	ModelInvocation2(UnicodeString String, UnicodeString String2)			ModelInvocation	Informational		
+Microsoft-Windows-BestPractices	3	0	ModelInvocation3(UnicodeString String, UnicodeString String2)			ModelInvocation	Informational		
+Microsoft-Windows-BestPractices	4	0	ModelInvocation4(UnicodeString String)			ModelInvocation	Error		
+Microsoft-Windows-BestPractices	5	0	ModelInvocation5()			ModelInvocation	Informational		
+Microsoft-Windows-BestPractices	6	0	ModelInvocation6()			ModelInvocation	Informational		
+Microsoft-Windows-BestPractices	7	0	ModelInvocation7()			ModelInvocation	Informational		

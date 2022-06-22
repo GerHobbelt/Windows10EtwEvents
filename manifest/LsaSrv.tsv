@@ -22,6 +22,12 @@ LsaSrv	6144	0	task_06144()			task_0	Informational
 LsaSrv	6145	0	task_06145(UnicodeString MissingCAPDNs)			task_0	Critical		
 LsaSrv	6146	0	task_06146(UnicodeString Error, UnicodeString CAPEName, UnicodeString CAPEDesc)			task_0	Error		
 LsaSrv	6147	0	task_06147()			task_0	Warning		
+LsaSrv	6148	0	task_06148()			task_0	Informational		
+LsaSrv	6149	0	task_06149()			task_0	Warning		
+LsaSrv	6150	0	task_06150(UnicodeString TrustName)			task_0	Informational		
+LsaSrv	6151	0	task_06151(UnicodeString TrustName)			task_0	Warning		
+LsaSrv	6152	0	task_06152(UnicodeString TrustName)			task_0	Warning		
+LsaSrv	6153	0	task_06153(UnicodeString TrustName, HexInt32 ErrorCodeHex, UInt32 ErrorCode)			task_0	Warning		
 LsaSrv	6182	0	task_06182(HexInt64 TargetLogonId, UnicodeString AccountName, UnicodeString DomainName)			task_0	Warning		
 LsaSrv	6225	0	LSALogonStart()	Start		LSALogon	Informational		
 LsaSrv	6226	0	LSALogonStop()	Stop		LSALogon	Informational		
@@ -46,6 +52,7 @@ LsaSrv	40966	0	task_040966(UnicodeString Protocol)			task_0	Informational
 LsaSrv	40967	0	task_040967(UnicodeString Protocol)			task_0	Informational		
 LsaSrv	40968	0	task_040968()			task_0	Warning		
 LsaSrv	40969	0	task_040969(UnicodeString Protocol)			task_0	Informational		
+LsaSrv	40970	0	task_040970(UnicodeString Target, UnicodeString Error)			task_0	Warning		
 LsaSrv	45056	0	task_045056()			task_0	Warning		
 LsaSrv	45057	0	task_045057(UnicodeString Username, UnicodeString Package, UnicodeString Error)			task_0	Informational		
 LsaSrv	45058	0	task_045058(UnicodeString UserName, SYSTEMTIME TimeStamp)			task_0	Informational		

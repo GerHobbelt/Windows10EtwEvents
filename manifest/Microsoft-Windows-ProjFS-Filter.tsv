@@ -1,0 +1,7 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-ProjFS-Filter	1	0	task_0(HexInt32 NTStatus)			task_0	Error		
+Microsoft-Windows-ProjFS-Filter	2	0	task_02()			task_0	Informational		
+Microsoft-Windows-ProjFS-Filter	3	0	task_03(HexInt32 NTStatus, UInt16 VolumeNameLength, UnicodeString VolumeName)			task_0	Error		
+Microsoft-Windows-ProjFS-Filter	4	0	task_04()			task_0	Informational		
+Microsoft-Windows-ProjFS-Filter	5	0	task_05(HexInt32 NTStatus, UInt16 PathLength, UnicodeString DirectoryPath, UInt16 UnionRootLength, UnicodeString UnionRootPath)			task_0	Error		
+Microsoft-Windows-ProjFS-Filter	6	0	task_06(HexInt32 NTStatus, UInt16 PathLength, UnicodeString DirectoryPath, UInt16 UnionRootLength, UnicodeString UnionRootPath)			task_0	Error		

@@ -1,0 +1,22 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	256	0	Configure_SMRemoting.exe_GET()			Configure_SMRemoting.exe_GET	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	257	0	Configure_SMRemoting.exe_GET257(Int32 ErrorCode)			Configure_SMRemoting.exe_GET	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	512	0	Configure_SMRemoting.exe_ENABLE()			Configure_SMRemoting.exe_ENABLE	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	513	0	Configure_SMRemoting.exe_ENABLE513(Int32 ErrorCode)			Configure_SMRemoting.exe_ENABLE	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	514	0	Configure_SMRemoting.exe_ENABLE514()			Configure_SMRemoting.exe_ENABLE	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	515	0	Configure_SMRemoting.exe_ENABLE515()			Configure_SMRemoting.exe_ENABLE	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	516	0	Configure_SMRemoting.exe_ENABLE516(Int32 ErrorCode)			Configure_SMRemoting.exe_ENABLE	Error		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	517	0	Configure_SMRemoting.exe_ENABLE517(Int32 ErrorCode)			Configure_SMRemoting.exe_ENABLE	Error		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	768	0	Configure_SMRemoting.exe_DISABLE()			Configure_SMRemoting.exe_DISABLE	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	769	0	Configure_SMRemoting.exe_DISABLE769(Int32 ErrorCode)			Configure_SMRemoting.exe_DISABLE	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1024	0	task_0(UnicodeString ptzMessage)			task_0	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1025	0	task_01025(UnicodeString ptzMessage)			task_0	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1026	0	task_01026(UnicodeString Action, UnicodeString Parameters)			task_0	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1027	0	task_01027(UnicodeString Action, UnicodeString Parameters, Int32 ErrorCode, UnicodeString Result)			task_0	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1281	0	task_01281()			task_0	Warning		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1282	0	task_01282(UnicodeString ptzMessage)			task_0	Error		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1283	0	Configure_SMRemoting.exe_ENABLE1283(UnicodeString ptzMessage)			Configure_SMRemoting.exe_ENABLE	Error		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1284	0	Configure_SMRemoting.exe_ENABLE1284(UnicodeString ptzMessage)			Configure_SMRemoting.exe_ENABLE	Error		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1285	0	Configure_SMRemoting.exe_DISABLE1285(UnicodeString ptzMessage)			Configure_SMRemoting.exe_DISABLE	Error		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1286	0	Configure_SMRemoting.exe_ENABLE1286(UnicodeString ptzMessage)			Configure_SMRemoting.exe_ENABLE	Informational		
+Microsoft-Windows-ServerManager-ConfigureSMRemoting	1287	0	Configure_SMRemoting.exe_ENABLE1287(UnicodeString ptzMessage)			Configure_SMRemoting.exe_ENABLE	Warning		

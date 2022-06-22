@@ -1,0 +1,31 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Hyper-V-Chipset	1500	0	task_0(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Chipset	1510	0	task_01510(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Chipset	1520	0	task_01520(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	1530	0	task_01530(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Chipset	1540	0	task_01540(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Chipset	1550	0	task_01550(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Chipset	1560	0	task_01560(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	1570	0	task_01570(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Chipset	12530	0	task_012530(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Chipset	12531	0	task_012531(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Chipset	12722	0	task_012722(UnicodeString VmName, UnicodeString VmId, UnicodeString String, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UnicodeString Param1, UnicodeString Param2)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Chipset	12723	0	task_012723(UnicodeString VmName, UnicodeString VmId, UnicodeString String, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UnicodeString Param1, UnicodeString Param2)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Chipset	12724	0	task_012724(UnicodeString VmName, UnicodeString VmId)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	12725	0	task_012725(UnicodeString VmName, UnicodeString VmId)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	12730	0	task_012730(UnicodeString VmName, UnicodeString VmId, UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	12731	0	task_012731(UnicodeString VmName, UnicodeString VmId, UnicodeString ErrorMessage, UnicodeString ErrorCode, UnicodeString Parameter0)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	18600	0	task_018600(UnicodeString VmName, UnicodeString VmId)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Chipset	18601	0	task_018601(UnicodeString VmName, UnicodeString VmId, UInt32 BootSourceCount, UnicodeString BootSourceResult)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Chipset	18602	0	task_018602(UnicodeString VmName, UnicodeString VmId, UInt32 BootSourceCount, UnicodeString BootSourceResult)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Chipset	18603	0	task_018603(UnicodeString VmName, UnicodeString VmId, UInt32 BootSourceCount, UnicodeString BootSourceResult)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Chipset	18604	0	task_018604(UnicodeString VmName, UnicodeString VmId, UInt32 BootSourceCount, UnicodeString BootSourceResult)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Chipset	18605	0	task_018605(UnicodeString VmName, UnicodeString VmId, UInt32 BootSourceCount, UnicodeString BootSourceResult)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Chipset	18607	0	task_018607(UnicodeString VmName, UnicodeString VmId)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Chipset	18608	0	task_018608(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	18609	0	task_018609(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	18610	0	task_018610(UnicodeString VmName, UnicodeString VmId)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Chipset	18611	0	task_018611(UnicodeString VmName, UnicodeString VmId)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Chipset	18612	0	task_018612(UnicodeString VmName, UnicodeString VmId)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Chipset	18613	0	task_018613(UnicodeString VmName, UnicodeString VmId)			task_0	Error		
+Microsoft-Windows-Hyper-V-Chipset	18614	0	task_018614(UnicodeString VmName, UnicodeString VmId)			task_0	Error		

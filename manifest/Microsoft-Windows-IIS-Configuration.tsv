@@ -1,0 +1,53 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-IIS-Configuration	3	0	task_0(Pointer Address, Pointer ConfigCacheAddress, UnicodeString ConfigPath, Pointer FileChangeNotificationMonitorAddress, Pointer ConfigFileAddress, UnicodeString PhysicalPath)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	7	0	task_07(UnicodeString ConfigPath)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	8	0	task_08(UnicodeString ConfigPath)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	9	0	task_09(UnicodeString ConfigPath)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	10	0	task_010(HexInt32 HRESULT, UnicodeString PhysicalPath, UInt32 Type, UnicodeString Message, UInt32 LineNumber, UnicodeString PreviousLine, UnicodeString ErrorLine, UnicodeString NextLine)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	12	0	task_012(UnicodeString PhysicalPath, UnicodeString FileConfigPath, UnicodeString EffectiveLocationPath, UnicodeString SectionPath)			task_0	Warning		
+Microsoft-Windows-IIS-Configuration	13	0	task_013(Pointer ConfigFileObjectAddress, UnicodeString PhysicalPath, UnicodeString ConfigPath, Pointer CryptoImpersonationToken, Pointer FileImpersonationToken, FILETIME LastModifiedTime, UInt64 FileSize)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	14	0	task_014(UnicodeString RedirectionPath, UnicodeString Username, UnicodeString Password)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	15	0	task_015(UnicodeString CallSite, UnicodeString lpFileName, HexInt32 dwDesiredAccess, HexInt32 dwShareMode, HexInt32 dwCreationDisposition, HexInt32 dwFlagsAndAttributes, Boolean IsTransacted, Pointer Handle, HexInt32 GetLastError)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	16	0	task_016(UnicodeString Domain, UnicodeString User, UnicodeString Password, Pointer TokenHandle)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	17	0	task_017(Pointer Address, UnicodeString ConfigPath, UnicodeString Directory, UnicodeString File, Boolean WatchSubPaths, Boolean IsPollingMonitor, Boolean IsSchemaFileMonitor)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	18	0	task_018(Pointer Address, UnicodeString ConfigPath, UnicodeString Directory, UnicodeString File, Boolean WatchSubPaths, Boolean IsPollingMonitor, Boolean IsSchemaFileMonitor)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	19	0	task_019(Pointer Address, UnicodeString ConfigPath, UnicodeString Directory, UnicodeString File, Boolean WatchSubPaths, Boolean IsPollingMonitor, Boolean IsSchemaFileMonitor)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	20	0	task_020(Pointer Address, UnicodeString ConfigPath, UnicodeString Directory, UnicodeString File, Boolean WatchSubPaths, Boolean IsPollingMonitor, Boolean IsSchemaFileMonitor)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	21	0	task_021(Pointer Address, UnicodeString ConfigPath, UnicodeString Directory, UnicodeString File, Boolean WatchSubPaths, Boolean IsPollingMonitor, Boolean IsSchemaFileMonitor)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	23	0	task_023(Pointer TargetAddress, UInt32 TargetType, UnicodeString ConfigPath, Boolean IsGranular, Boolean IsApplicationSpecific, Boolean IsLocationTag)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	24	0	task_024(UnicodeString PhysicalPath, FILETIME LastModifiedTime, UInt64 FileSize)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	25	0	task_025(UnicodeString ConfigPath, UnicodeString PhysicalPath)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	27	0	task_027(UnicodeString FileConfigPath, UnicodeString EffectiveLocationPath, UnicodeString CallSite, Pointer Address, UnicodeString TargetName, UnicodeString MetadataName, UnicodeString Value)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	28	0	task_028(Pointer OriginalImpersonationTokenHandle, Pointer ImpersonationTokenHandle)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	29	0	task_029(UnicodeString PhysicalPath, UnicodeString ConfigPath, UnicodeString EffectiveLocationPath, UnicodeString Configuration, UInt32 EditOperationType, UnicodeString OldValue, UnicodeString NewValue)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	30	0	task_030(UnicodeString PhysicalPath, UnicodeString ConfigPath, UnicodeString EffectiveLocationPath, UnicodeString Configuration, UInt32 EditOperationType, UnicodeString OldValue, UnicodeString NewValue)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	33	0	task_033(UnicodeString PhysicalPath)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	36	0	task_036(UnicodeString CallSite, Pointer hSourceHandle, Pointer hTargetHandle)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	37	0	task_037(UnicodeString SiteName)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	38	0	task_038(UInt32 Id)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	39	0	task_039(UInt32 Id)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	40	0	task_040(UnicodeString SiteName)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	41	0	task_041(UnicodeString Configuration, GUID CLSID, UnicodeString ProgId, HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	42	0	task_042(UnicodeString PhysicalPath, UnicodeString FileConfigPath, UnicodeString ProviderName, UnicodeString ProviderType, UnicodeString Blob, UInt32 ErrorType, HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	43	0	task_043(UnicodeString PhysicalPath, UnicodeString FileConfigPath, UnicodeString ProviderName, UnicodeString ProviderType, UnicodeString Blob, UInt32 ErrorType, HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	44	0	task_044(UnicodeString PhysicalPath, UnicodeString FileConfigPath, UnicodeString ProviderName, UnicodeString ProviderType, UnicodeString Blob, UInt32 ErrorType, HexInt32 HRESULT)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	45	0	task_045(UnicodeString ConfigPath)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	46	0	task_046(UnicodeString SiteName, UnicodeString ApplicationPath, UnicodeString VirtualDirectoryPath, UnicodeString RelativeVirtualPath, UnicodeString PhysicalPath)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	47	0	task_047(UnicodeString ConfigPath, UnicodeString Directory, UnicodeString Filename, Pointer ImpersonationToken, Boolean IsCustomMapping)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	49	0	task_049(UnicodeString CallSite, UnicodeString PhysicalPath, UnicodeString FileConfigPath, UnicodeString EffectiveLocationPath, UnicodeString ConfigurationElementName, UnicodeString ConfigSourceFilePath, FILETIME LastModifiedTime)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	50	0	task_050(UnicodeString ConfigPath)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	51	0	task_051(UnicodeString ConfigPath, UnicodeString PhysicalPath, Boolean FileExistsInMemory, FILETIME FileLastModifiedTimeInMemory, UInt64 FileSizeInMemory, Boolean FileExistsOnDisk, FILETIME FileLastModifiedTimeOnDisk, UInt64 FileSizeOnDisk, Boolean IsInMemoryViewOfFileRecent)			task_0	Error		
+Microsoft-Windows-IIS-Configuration	52	0	task_052(UnicodeString ConfigPath, UnicodeString PhysicalPath, Boolean FileExistsInMemory, FILETIME FileLastModifiedTimeInMemory, UInt64 FileSizeInMemory, Boolean FileExistsOnDisk, FILETIME FileLastModifiedTimeOnDisk, UInt64 FileSizeOnDisk, Boolean IsInMemoryViewOfFileRecent)			task_0	Verbose		
+Microsoft-Windows-IIS-Configuration	53	0	task_053(UnicodeString SiteName, UnicodeString ApplicationPath, UnicodeString VirtualDirectoryPath, UnicodeString RelativeVirtualPath, UnicodeString PhysicalPath)			task_0	Warning		
+Microsoft-Windows-IIS-Configuration	54	0	task_054()			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	55	0	task_055(HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	56	0	task_056(Pointer Handle, HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	57	0	task_057(HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	58	0	task_058(Pointer Handle, HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	59	0	task_059(Pointer Handle, HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	60	0	task_060()			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	61	0	task_061(Pointer Handle, UnicodeString PhysicalPath, UnicodeString ConfigPath, UInt32 RemainingRetryCount, HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	62	0	task_062(Pointer Handle, UnicodeString PhysicalPath, UnicodeString ConfigPath, HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	63	0	task_063(Pointer Handle, UnicodeString PhysicalPath, UnicodeString ConfigPath, HexInt32 SizeInBytes, HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	64	0	task_064(HexInt32 HRESULT)			task_0	Informational		
+Microsoft-Windows-IIS-Configuration	65	0	task_065(Pointer TargetAddress, UInt32 TargetType, UnicodeString ConfigPath, Boolean IsGranular, Boolean IsApplicationSpecific, Boolean IsLocationTag)			task_0	Verbose		

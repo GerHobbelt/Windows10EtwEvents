@@ -1,0 +1,13 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Hyper-V-Serial	1500	0	task_0(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Serial	1510	0	task_01510(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Serial	1520	0	task_01520(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-Serial	1530	0	task_01530(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Serial	10500	0	task_010500(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-Serial	10510	0	task_010510(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Serial	10520	0	task_010520(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-Serial	10530	0	task_010530(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-Serial	12320	0	task_012320(UnicodeString VmName, UnicodeString VmId, UnicodeString String, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UnicodeString Param1, UnicodeString Param2)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Serial	12321	0	task_012321(UnicodeString VmName, UnicodeString VmId, UnicodeString String, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UnicodeString Param1, UnicodeString Param2)			task_0	Warning		
+Microsoft-Windows-Hyper-V-Serial	12322	0	task_012322(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		
+Microsoft-Windows-Hyper-V-Serial	12323	0	task_012323(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		

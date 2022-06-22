@@ -1,0 +1,7 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-IIS-IISReset	3201	0	task_0PCODE_64pcode_64(UnicodeString UserName)	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-IISReset	3202	0	task_0PCODE_64pcode_643202(UnicodeString UserName)	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-IISReset	3203	0	task_0PCODE_64pcode_643203(UnicodeString UserName)	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-IISReset	3204	0	task_0PCODE_64pcode_643204(UnicodeString UserName)	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-IISReset	3205	0	task_0PCODE_64pcode_643205(UnicodeString UserName)	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-IISReset	3206	0	task_0PCODE_64pcode_643206(UnicodeString UserName)	opcode_64		task_0	Always		

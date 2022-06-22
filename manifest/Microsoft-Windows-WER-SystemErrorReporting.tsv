@@ -18,3 +18,4 @@ Microsoft-Windows-WER-SystemErrorReporting	1015	0	task_0PCODE_64pcode_641015()	o
 Microsoft-Windows-WER-SystemErrorReporting	1016	0	task_0PCODE_64pcode_641016()	opcode_64		task_0	Always		
 Microsoft-Windows-WER-SystemErrorReporting	1017	0	task_0PCODE_64pcode_641017()	opcode_64		task_0	Always		
 Microsoft-Windows-WER-SystemErrorReporting	1018	0	task_0PCODE_64pcode_641018(UnicodeString param1, UnicodeString param2)	opcode_64		task_0	Always		
+Microsoft-Windows-WER-SystemErrorReporting	1019	0	task_0PCODE_64pcode_641019(UnicodeString SuspectedDriver)	opcode_64		task_0	Always		

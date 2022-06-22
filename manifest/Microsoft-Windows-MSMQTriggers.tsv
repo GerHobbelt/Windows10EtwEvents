@@ -1,0 +1,23 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-MSMQTriggers	2200	0	task_0PCODE_64pcode_64()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2201	0	task_0PCODE_192pcode_192(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2202	0	task_0PCODE_192pcode_1922202(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2203	0	task_0PCODE_192pcode_1922203()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2204	0	task_0PCODE_192pcode_1922204(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2205	0	task_0PCODE_192pcode_1922205(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2206	0	task_0PCODE_192pcode_1922206(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2207	0	task_0PCODE_192pcode_1922207(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2208	0	task_0PCODE_192pcode_1922208(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2209	0	task_0PCODE_192pcode_1922209(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2210	0	task_0PCODE_192pcode_1922210(UnicodeString param1, UnicodeString param2, UnicodeString param3, UnicodeString param4)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2211	0	task_0PCODE_64pcode_642211()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2212	0	task_0PCODE_192pcode_1922212(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2213	0	task_0PCODE_192pcode_1922213()	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2214	0	task_0PCODE_192pcode_1922214(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2215	0	task_0PCODE_192pcode_1922215(UnicodeString param1, UnicodeString param2)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2216	0	task_0PCODE_192pcode_1922216(UnicodeString param1)	opcode_192		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2217	0	task_0PCODE_64pcode_642217(UnicodeString param1, UnicodeString param2)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2218	0	task_0PCODE_64pcode_642218(UnicodeString param1, UnicodeString param2)	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2219	0	task_0PCODE_64pcode_642219()	opcode_64		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2222	0	task_0PCODE_128pcode_128()	opcode_128		task_0	Always		
+Microsoft-Windows-MSMQTriggers	2223	0	task_0PCODE_192pcode_1922223()	opcode_192		task_0	Always		

@@ -1,0 +1,52 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1000	0	LifetimeStart(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1001	0	LifetimeStop(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1002	0	Lifetime(UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1003	0	LifetimeStart1003(UnicodeString arg0)	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1004	0	LifetimeStop1004(UnicodeString arg0)	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1005	0	Lifetime1005(UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1100	0	ActionStart(UInt16 arg0)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1101	0	ActionStop(UInt16 arg0)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1102	0	Action(Int32 arg1, UnicodeString arg0)			Action	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1103	0	ActionStart1103()	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1104	0	ActionStop1104()	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1105	0	Action1105(Int32 arg1, UnicodeString arg0)			Action	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1106	0	LifetimeStart1106()	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1107	0	LifetimeStop1107()	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1108	0	Lifetime1108(Int32 arg1, UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1109	0	LifetimeStart1109()	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1110	0	LifetimeStop1110()	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1111	0	Lifetime1111(Int32 arg1, UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1112	0	LifetimeStart1112()	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1113	0	LifetimeStop1113()	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1114	0	Lifetime1114(Int32 arg1, UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1115	0	LifetimeStart1115()	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1116	0	LifetimeStop1116()	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1117	0	Lifetime1117(Int32 arg1, UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1118	0	LifetimeStart1118()	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1119	0	LifetimeStop1119()	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1120	0	Lifetime1120(Int32 arg1, UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1121	0	LifetimeStart1121()	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1122	0	LifetimeStop1122()	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1123	0	Lifetime1123(Int32 arg1, UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1124	0	LifetimeStart1124()	Start		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1125	0	LifetimeStop1125()	Stop		Lifetime	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1126	0	Lifetime1126(Int32 arg1, UnicodeString arg0)			Lifetime	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1200	0	Collection(Int32 arg1, UnicodeString arg0)			Collection	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1201	0	Collection1201(Int32 arg1, UnicodeString arg0)			Collection	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1202	0	CollectionStart()	Start		Collection	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1203	0	CollectionStop()	Stop		Collection	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1204	0	CollectionStart1204(UInt16 arg0)	Start		Collection	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1205	0	CollectionStop1205(UInt16 arg0)	Stop		Collection	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1300	0	ActionStart1300(UnicodeString arg0)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1301	0	ActionStop1301(UnicodeString arg0)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1302	0	Action1302(Int32 arg1, UnicodeString arg0)			Action	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1303	0	ActionStart1303(UnicodeString arg0)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1304	0	ActionStop1304(UnicodeString arg0)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1305	0	Action1305(Int32 arg1, UnicodeString arg0)			Action	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1306	0	ActionStart1306(UnicodeString arg0)	Start		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1307	0	ActionStop1307(UnicodeString arg0)	Stop		Action	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1308	0	Action1308(Int32 arg1, UnicodeString arg0)			Action	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1309	0	Action1309(UnicodeString arg0)			Action	Error		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1400	0	Collection1400(UInt32 PID, UInt16 Index, UInt64 Duration, UInt64 CycleDuration, Double Total, Double CyclesTotal, Int16 CpuCount, UInt64 OldCpuTime, UInt64 OldCycleTime, UInt64 OldWorkingSet, UInt32 OldPageFaults, Int64 NewUserTime, Int64 NewKernelTime, UInt64 NewWorkingSet, UInt32 NewPageFaults, UInt64 NewCycleTime)			Collection	Informational		
+Microsoft-Windows-ManagementTools-TaskManagerProvider	1401	0	Collection1401(Int32 arg0)			Collection	Warning		

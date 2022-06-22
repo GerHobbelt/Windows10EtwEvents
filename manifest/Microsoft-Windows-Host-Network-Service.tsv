@@ -1,0 +1,59 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Host-Network-Service	1000	0	task_0(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1001	0	task_01001(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1002	0	task_01002(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1003	0	task_01003(HexInt32 HResult, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1004	0	task_01004(HexInt32 HResult, GUID SwitchId, GUID PortId, UInt32 PortType)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1005	0	task_01005(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1006	0	task_01006(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Paramete3, UnicodeString Parameter4)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1007	0	task_01007(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Paramete3, UnicodeString Parameter4)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1008	0	task_01008(HexInt32 HResult, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1009	0	task_01009(HexInt32 HResult, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1010	0	task_01010(HexInt32 HResult, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1011	0	task_01011(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Paramete3, UnicodeString Parameter4)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1012	0	task_01012(HexInt32 Parameter0, UnicodeString Paramete1, UnicodeString Paramete2, UInt64 Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1013	0	task_01013(UnicodeString Parameter0, GUID Parameter1, UInt32 Parameter2, HexInt32 Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1014	0	task_01014(UnicodeString Parameter0, GUID Parameter1, UInt32 Parameter2, HexInt32 Parameter3)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1015	0	task_01015(UnicodeString Parameter0, GUID Parameter1, GUID Parameter2, UInt32 Parameter3, HexInt32 Parameter4)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1016	0	task_01016(UnicodeString Parameter0, GUID Parameter1, GUID Parameter2, UInt32 Parameter3, HexInt32 Parameter4)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1017	0	task_01017(HexInt32 Parameter0, UnicodeString Paramete1, UnicodeString Paramete2, UInt64 Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1018	0	task_01018(HexInt32 HResult, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1019	0	task_01019(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, Boolean Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1020	0	task_01020(HexInt32 Parameter0, UInt32 Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1021	0	task_01021(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Paramete3, UnicodeString Parameter4)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1022	0	task_01022(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1023	0	task_01023(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2, UnicodeString Parameter3, Boolean Parameter4, UInt32 Parameter5)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1024	0	task_01024(HexInt32 Parameter0, UInt32 Parameter1, UInt32 Parameter2, UInt32 Parameter3, UnicodeString Parameter4, Boolean Parameter5)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1025	0	task_01025(HexInt32 Parameter0, UInt32 Parameter1, UInt32 Parameter2, UnicodeString Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1026	0	task_01026(HexInt32 HResult, UInt32 Parameter0)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1027	0	task_01027(HexInt32 HResult)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1028	0	task_01028(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1030	0	task_01030(HexInt32 HResult, UInt32 API)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1031	0	task_01031(HexInt32 Parameter0, UInt32 Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1032	0	task_01032(HexInt32 HResult, UInt32 API)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1033	0	task_01033(HexInt32 HResult, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1034	0	task_01034(HexInt32 HResult, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1035	0	task_01035(HexInt32 HResult, UnicodeString Parameter1)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1036	0	task_01036(UnicodeString Parameter0, GUID Parameter1, UInt32 Parameter2, HexInt32 Parameter3)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1037	0	task_01037(HexInt32 Parameter0, UnicodeString Paramete1, UnicodeString Paramete2, UInt64 Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1038	0	task_01038(HexInt32 Parameter0, UnicodeString Paramete1, UnicodeString Paramete2, UInt64 Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1039	0	task_01039(HexInt32 Parameter0, UnicodeString Paramete1, UnicodeString Paramete2, UInt64 Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1040	0	task_01040(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1041	0	task_01041(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1042	0	task_01042(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1043	0	task_01043(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1044	0	task_01044(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1045	0	task_01045(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1046	0	task_01046(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1047	0	task_01047(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1048	0	task_01048(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1049	0	task_01049(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1050	0	task_01050(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1051	0	task_01051(UInt32 EntityType, GUID EntityId, UInt32 OperationType, UInt32 ResourceType, UnicodeString Settings, HexInt32 Result)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1052	0	task_01052(UnicodeString Parameter0, GUID Parameter1, HexInt32 Parameter3)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1053	0	task_01053(UnicodeString Parameter0, GUID Parameter1, HexInt32 Parameter3)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1054	0	task_01054(GUID GnsId, UInt32 GnsState)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1055	0	task_01055(UnicodeString Request, UnicodeString Entity, GUID Id, UnicodeString Data, UInt32 RpcAccessLevel)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1056	0	task_01056(UnicodeString EventString, GUID EndpointId, GUID NetworkId, UInt32 PolicyType, HexInt32 Result)			task_0	Error		
+Microsoft-Windows-Host-Network-Service	1057	0	task_01057(UnicodeString EventString, GUID EndpointId, GUID NetworkId, UInt32 PolicyType, HexInt32 Result)			task_0	Informational		
+Microsoft-Windows-Host-Network-Service	1058	0	task_01058(HexInt32 Parameter0, UnicodeString Parameter1, UnicodeString Parameter2)			task_0	Error		

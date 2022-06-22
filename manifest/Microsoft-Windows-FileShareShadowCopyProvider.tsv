@@ -1,0 +1,17 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-FileShareShadowCopyProvider	0	0	task_0()			task_0	Informational		
+Microsoft-Windows-FileShareShadowCopyProvider	1	0	task_01()			task_0	Informational		
+Microsoft-Windows-FileShareShadowCopyProvider	2	0	task_02()			task_0	Informational		
+Microsoft-Windows-FileShareShadowCopyProvider	3	0	task_03(GUID ShadowCopyId)			task_0	Informational		
+Microsoft-Windows-FileShareShadowCopyProvider	1000	0	task_01000()			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1001	0	task_01001()			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1002	0	task_01002(UnicodeString Name, UInt32 ErrorCode)			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1003	0	task_01003(UnicodeString Name, UInt32 ErrorCode)			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1004	0	task_01004()			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1005	0	task_01005(UnicodeString FileServerName, UInt32 MinClientVersion, UInt32 MaxClientVersion, UInt32 MinServerVersion, UInt32 MaxServerVersion)			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1006	0	task_01006()			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1007	0	task_01007()			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1008	0	task_01008()			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1009	0	task_01009(UnicodeString FileServerName, UInt32 ErrorCode)			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1010	0	task_01010()			task_0	Error		
+Microsoft-Windows-FileShareShadowCopyProvider	1011	0	task_01011()			task_0	Error		

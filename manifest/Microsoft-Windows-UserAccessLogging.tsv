@@ -1,0 +1,3 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-UserAccessLogging	0	0	task_0(GUID RoleGuid, UInt32 Address, UnicodeString Username)			task_0	Always		
+Microsoft-Windows-UserAccessLogging	1	0	task_01(GUID RoleGuid, Binary Address, UnicodeString Username)			task_0	Always		

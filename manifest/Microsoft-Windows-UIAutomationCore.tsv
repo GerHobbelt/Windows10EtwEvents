@@ -194,10 +194,6 @@ Microsoft-Windows-UIAutomationCore	540	0	EventManager_CollectNodesToAdviseStart(
 Microsoft-Windows-UIAutomationCore	541	0	EventManager_CollectNodesToAdviseStop(UInt32 ProvidersToAdviseCount, UInt32 RemoteNodesCount, UInt32 PartialNodesCount)	Stop	PerfInstrumentation	EventManager_CollectNodesToAdvise	Informational		
 Microsoft-Windows-UIAutomationCore	542	0	EventManager_CollectClientSideItemsToAdviseStart()	Start	PerfInstrumentation	EventManager_CollectClientSideItemsToAdvise	Informational		
 Microsoft-Windows-UIAutomationCore	543	0	EventManager_CollectClientSideItemsToAdviseStop()	Stop	PerfInstrumentation	EventManager_CollectClientSideItemsToAdvise	Informational		
-Microsoft-Windows-UIAutomationCore	544	0	ClientConnection_RequestWritten(UInt32 RequestId, UInt32 PeerProcessId, Boolean IsCrossMachine, UInt32 BytesWritten, UInt32 RequestTimeout, HexInt32 HRESULT)		PerfInstrumentation	ClientConnection_RequestWritten	Informational		
-Microsoft-Windows-UIAutomationCore	545	0	ServerConnection_RequestReceived(UInt32 RequestId, UInt32 PeerProcessId, UInt32 BytesReceived)		PerfInstrumentation	ServerConnection_RequestReceived	Informational		
-Microsoft-Windows-UIAutomationCore	546	0	ServerConnection_ResponseWritten(UInt32 RequestId, UInt32 PeerProcessId, UInt32 BytesWritten, HexInt32 HRESULT)		PerfInstrumentation	ServerConnection_ResponseWritten	Informational		
-Microsoft-Windows-UIAutomationCore	547	0	ClientConnection_ResponseReceived(UInt32 RequestId, UInt32 PeerProcessId, Boolean IsCrossMachine, UInt32 BytesReceived)		PerfInstrumentation	ClientConnection_ResponseReceived	Informational		
 Microsoft-Windows-UIAutomationCore	603	0	IA2TextRange_CloneStart()	Start	PerfInstrumentation	IA2TextRange_Clone	Informational		
 Microsoft-Windows-UIAutomationCore	604	0	IA2TextRange_CloneStop()	Stop	PerfInstrumentation	IA2TextRange_Clone	Informational		
 Microsoft-Windows-UIAutomationCore	605	0	IA2TextRange_CompareStart()	Start	PerfInstrumentation	IA2TextRange_Compare	Informational		

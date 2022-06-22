@@ -1,0 +1,2 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Usbstor	100	0	Io(UInt8 Port, UInt8 Bus, UInt8 Target, UInt8 LUN, UInt64 RequestDuration, UInt32 CDBLength, Binary CDB, UInt8 SrbStatus, Pointer Irp, Pointer OriginalIrp)		Logo_Performance	Io	Informational		

@@ -1,0 +1,12 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-W3LOGSVC	6001	0	task_0PCODE_192pcode_192(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6002	0	task_0PCODE_192pcode_1926002(UnicodeString SiteID, UnicodeString LogDirectoryName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6003	0	task_0PCODE_192pcode_1926003(UnicodeString SiteID, UnicodeString LogFileName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6004	0	task_0PCODE_192pcode_1926004(UnicodeString SiteID, UnicodeString LogFileName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6005	0	task_0PCODE_192pcode_1926005(UnicodeString PipeName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6006	0	task_0PCODE_192pcode_1926006(UnicodeString PID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6007	0	task_0PCODE_192pcode_1926007(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6008	0	task_0PCODE_192pcode_1926008(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6009	0	task_0PCODE_192pcode_1926009(UnicodeString SiteID, UnicodeString LogFileName, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6010	0	task_0PCODE_192pcode_1926010(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-W3LOGSVC	6011	0	task_0PCODE_192pcode_1926011(UnicodeString DroppedEvents, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		

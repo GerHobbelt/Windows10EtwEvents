@@ -1,0 +1,240 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Rdms-UI	4097	0	Deployment()			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4098	0	Deployment4098(UnicodeString arg1)			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4099	0	Deployment4099(UnicodeString arg1, UnicodeString arg2)			Deployment	Error		
+Microsoft-Windows-Rdms-UI	4100	0	Deployment4100(UnicodeString arg1)			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4101	0	Deployment4101(UnicodeString arg1)			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4102	0	Deployment4102()			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4103	0	Deployment4103(UnicodeString arg1)			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4104	0	Deployment4104(UnicodeString arg1, UnicodeString arg2)			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4105	0	Deployment4105(UnicodeString arg1)			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4112	0	Deployment4112()			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4113	0	Deployment4113()			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4114	0	Deployment4114()			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4115	0	Deployment4115(UnicodeString arg1, UnicodeString arg2)			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4116	0	Deployment4116(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Deployment	Error		
+Microsoft-Windows-Rdms-UI	4117	0	Deployment4117(UnicodeString arg1, UnicodeString arg2)			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4118	0	Deployment4118(UnicodeString arg1, UnicodeString arg2)			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4119	0	Deployment4119(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Deployment	Error		
+Microsoft-Windows-Rdms-UI	4120	0	Deployment4120(UnicodeString arg1, UnicodeString arg2)			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4121	0	Deployment4121(UnicodeString arg1)			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4122	0	Deployment4122(UnicodeString arg1)			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4123	0	Deployment4123(UnicodeString arg1)			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4124	0	Deployment4124(UnicodeString arg1)			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4125	0	Deployment4125(UnicodeString arg1)			Deployment	Verbose		
+Microsoft-Windows-Rdms-UI	4126	0	Deployment4126()			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	4127	0	Deployment4127()			Deployment	Informational		
+Microsoft-Windows-Rdms-UI	8192	0	VDICollectionCreation(UnicodeString arg1, UnicodeString arg2)			VDICollectionCreation	Informational		
+Microsoft-Windows-Rdms-UI	8193	0	VDICollectionCreation8193(UnicodeString arg1, UnicodeString arg2)			VDICollectionCreation	Informational		
+Microsoft-Windows-Rdms-UI	8194	0	Export(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Export	Informational		
+Microsoft-Windows-Rdms-UI	8195	0	Export8195(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Export	Error		
+Microsoft-Windows-Rdms-UI	8196	0	Export8196(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Export	Informational		
+Microsoft-Windows-Rdms-UI	8197	0	Pool(UnicodeString arg1, UnicodeString arg2)			Pool	Informational		
+Microsoft-Windows-Rdms-UI	8198	0	Pool8198(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Pool	Error		
+Microsoft-Windows-Rdms-UI	8199	0	Pool8199(UnicodeString arg1, UnicodeString arg2)			Pool	Informational		
+Microsoft-Windows-Rdms-UI	8200	0	Pool8200(UnicodeString arg1)			Pool	Informational		
+Microsoft-Windows-Rdms-UI	8201	0	Pool8201(UnicodeString arg1, UnicodeString arg2)			Pool	Error		
+Microsoft-Windows-Rdms-UI	8208	0	Pool8208(UnicodeString arg1, UnicodeString arg2)			Pool	Informational		
+Microsoft-Windows-Rdms-UI	8209	0	Provisioning(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Provisioning	Informational		
+Microsoft-Windows-Rdms-UI	8210	0	Provisioning8210(UnicodeString arg1, UnicodeString arg2)			Provisioning	Error		
+Microsoft-Windows-Rdms-UI	8211	0	Provisioning8211(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Provisioning	Informational		
+Microsoft-Windows-Rdms-UI	8212	0	UserVhd(UnicodeString arg1)			UserVhd	Informational		
+Microsoft-Windows-Rdms-UI	8213	0	UserVhd8213(UnicodeString arg1, UnicodeString arg2)			UserVhd	Error		
+Microsoft-Windows-Rdms-UI	8214	0	UserVhd8214(UnicodeString arg1)			UserVhd	Informational		
+Microsoft-Windows-Rdms-UI	8215	0	VDICollectionCreation8215(UnicodeString arg1)			VDICollectionCreation	Informational		
+Microsoft-Windows-Rdms-UI	8216	0	Provisioning8216(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Provisioning	Warning		
+Microsoft-Windows-Rdms-UI	8217	0	VDIRecreate(UnicodeString arg1, UnicodeString arg2)			VDIRecreate	Informational		
+Microsoft-Windows-Rdms-UI	8218	0	VDIRecreate8218(UnicodeString arg1)			VDIRecreate	Informational		
+Microsoft-Windows-Rdms-UI	8219	0	VDIAddVMs(UnicodeString arg1, UnicodeString arg2)			VDIAddVMs	Informational		
+Microsoft-Windows-Rdms-UI	8220	0	VDIAddVMs8220(UnicodeString arg1)			VDIAddVMs	Informational		
+Microsoft-Windows-Rdms-UI	8221	0	VDIdeleteVMs(UnicodeString arg1, UnicodeString arg2)			VDIdeleteVMs	Informational		
+Microsoft-Windows-Rdms-UI	8222	0	VDIdeleteVMs8222(UnicodeString arg1)			VDIdeleteVMs	Informational		
+Microsoft-Windows-Rdms-UI	8223	0	Provisioning8223(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Provisioning	Warning		
+Microsoft-Windows-Rdms-UI	8224	0	VDIAddVMs8224(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			VDIAddVMs	Error		
+Microsoft-Windows-Rdms-UI	8225	0	VDICollectionDeletion(UnicodeString arg1, UnicodeString arg2)			VDICollectionDeletion	Informational		
+Microsoft-Windows-Rdms-UI	8226	0	VDICollectionDeletion8226(UnicodeString arg1)			VDICollectionDeletion	Informational		
+Microsoft-Windows-Rdms-UI	8227	0	Pool8227(UnicodeString arg1, UnicodeString arg2)			Pool	Informational		
+Microsoft-Windows-Rdms-UI	8228	0	Pool8228(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Pool	Error		
+Microsoft-Windows-Rdms-UI	8229	0	VDIAddVMs8229(UnicodeString arg1, UnicodeString arg2)			VDIAddVMs	Informational		
+Microsoft-Windows-Rdms-UI	8230	0	VDIcollectionproperties(UnicodeString arg1, UnicodeString arg2)			VDIcollectionproperties	Informational		
+Microsoft-Windows-Rdms-UI	8231	0	VDIcollectionproperties8231(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			VDIcollectionproperties	Informational		
+Microsoft-Windows-Rdms-UI	8232	0	VDIcollectionproperties8232(UnicodeString arg1, UnicodeString arg2)			VDIcollectionproperties	Informational		
+Microsoft-Windows-Rdms-UI	8233	0	UserVhd8233(UnicodeString arg1)			UserVhd	Informational		
+Microsoft-Windows-Rdms-UI	8234	0	UserVhd8234(UnicodeString arg1, UnicodeString arg2)			UserVhd	Error		
+Microsoft-Windows-Rdms-UI	8235	0	UserVhd8235(UnicodeString arg1)			UserVhd	Informational		
+Microsoft-Windows-Rdms-UI	8236	0	UserVhd8236(UnicodeString arg1)			UserVhd	Informational		
+Microsoft-Windows-Rdms-UI	8237	0	UserVhd8237(UnicodeString arg1, UnicodeString arg2)			UserVhd	Error		
+Microsoft-Windows-Rdms-UI	8238	0	UserVhd8238(UnicodeString arg1)			UserVhd	Informational		
+Microsoft-Windows-Rdms-UI	12289	0	RDSHCollectionCreation(UnicodeString arg1)			RDSHCollectionCreation	Informational		
+Microsoft-Windows-Rdms-UI	12290	0	RDSHCollectionCreation12290(UnicodeString arg1)			RDSHCollectionCreation	Verbose		
+Microsoft-Windows-Rdms-UI	12291	0	RDSHCollectionCreation12291(UnicodeString arg1)			RDSHCollectionCreation	Verbose		
+Microsoft-Windows-Rdms-UI	12292	0	RDSHCollectionCreation12292(UnicodeString arg1)			RDSHCollectionCreation	Error		
+Microsoft-Windows-Rdms-UI	12293	0	RDSHCollectionCreation12293(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			RDSHCollectionCreation	Informational		
+Microsoft-Windows-Rdms-UI	12294	0	RDSHCollectionCreation12294()			RDSHCollectionCreation	Warning		
+Microsoft-Windows-Rdms-UI	12295	0	RDSHCollectionCreation12295(UnicodeString arg1)			RDSHCollectionCreation	Informational		
+Microsoft-Windows-Rdms-UI	12296	0	RDSHCollectionCreation12296()			RDSHCollectionCreation	Informational		
+Microsoft-Windows-Rdms-UI	12297	0	AddServersRDSH(UnicodeString arg1, UnicodeString arg2)			AddServersRDSH	Informational		
+Microsoft-Windows-Rdms-UI	12304	0	AddServersRDSH12304(UnicodeString arg1)			AddServersRDSH	Verbose		
+Microsoft-Windows-Rdms-UI	12305	0	AddServersRDSH12305(UnicodeString arg1)			AddServersRDSH	Verbose		
+Microsoft-Windows-Rdms-UI	12306	0	AddServersRDSH12306(UnicodeString arg1)			AddServersRDSH	Error		
+Microsoft-Windows-Rdms-UI	12307	0	AddServersRDSH12307(UnicodeString arg1, UnicodeString arg2)			AddServersRDSH	Informational		
+Microsoft-Windows-Rdms-UI	12308	0	AddServersRDSH12308(UnicodeString arg1)			AddServersRDSH	Informational		
+Microsoft-Windows-Rdms-UI	12309	0	AddServersRDSH12309()			AddServersRDSH	Informational		
+Microsoft-Windows-Rdms-UI	12310	0	RemoveServersRDSH(UnicodeString arg1, UnicodeString arg2)			RemoveServersRDSH	Informational		
+Microsoft-Windows-Rdms-UI	12311	0	RemoveServersRDSH12311(UnicodeString arg1)			RemoveServersRDSH	Verbose		
+Microsoft-Windows-Rdms-UI	12312	0	RemoveServersRDSH12312(UnicodeString arg1, UnicodeString arg2)			RemoveServersRDSH	Informational		
+Microsoft-Windows-Rdms-UI	12313	0	RemoveServersRDSH12313(UnicodeString arg1)			RemoveServersRDSH	Error		
+Microsoft-Windows-Rdms-UI	12320	0	RemoveServersRDSH12320(UnicodeString arg1)			RemoveServersRDSH	Informational		
+Microsoft-Windows-Rdms-UI	12321	0	DeleteCollection_RDSH(UnicodeString arg1)			DeleteCollection_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	12322	0	DeleteCollection_RDSH12322(UnicodeString arg1)			DeleteCollection_RDSH	Verbose		
+Microsoft-Windows-Rdms-UI	12323	0	DeleteCollection_RDSH12323(UnicodeString arg1)			DeleteCollection_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	12324	0	DeleteCollection_RDSH12324(UnicodeString arg1, UnicodeString arg2)			DeleteCollection_RDSH	Error		
+Microsoft-Windows-Rdms-UI	12325	0	DeleteCollection_RDSH12325(UnicodeString arg1)			DeleteCollection_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	12326	0	DeleteCollection_RDSH12326(UnicodeString arg1)			DeleteCollection_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	12327	0	DeleteCollection_RDSH12327(UnicodeString arg1, UnicodeString arg2)			DeleteCollection_RDSH	Error		
+Microsoft-Windows-Rdms-UI	12328	0	DeleteCollection_RDSH12328(UnicodeString arg1)			DeleteCollection_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	12329	0	DeleteCollection_RDSH12329(UnicodeString arg1)			DeleteCollection_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	16385	0	Publishing(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16386	0	UnPublishing(UnicodeString arg1)			UnPublishing	Informational		
+Microsoft-Windows-Rdms-UI	16387	0	Publishing16387(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16388	0	UnPublishing16388(UnicodeString arg1)			UnPublishing	Informational		
+Microsoft-Windows-Rdms-UI	16389	0	Publishing16389(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16390	0	UnPublishing16390(UnicodeString arg1)			UnPublishing	Informational		
+Microsoft-Windows-Rdms-UI	16391	0	Publishing16391(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16392	0	UnPublishing16392(UnicodeString arg1)			UnPublishing	Informational		
+Microsoft-Windows-Rdms-UI	16393	0	Publishing16393(UnicodeString arg1)			Publishing	Error		
+Microsoft-Windows-Rdms-UI	16394	0	UnPublishing16394(UnicodeString arg1)			UnPublishing	Error		
+Microsoft-Windows-Rdms-UI	16395	0	Publishing16395(UnicodeString arg1)			Publishing	Error		
+Microsoft-Windows-Rdms-UI	16396	0	UnPublishing16396(UnicodeString arg1)			UnPublishing	Error		
+Microsoft-Windows-Rdms-UI	16397	0	Publishing16397(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16398	0	UnPublishing16398(UnicodeString arg1)			UnPublishing	Informational		
+Microsoft-Windows-Rdms-UI	16399	0	Publishing16399(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16400	0	UnPublishing16400(UnicodeString arg1)			UnPublishing	Informational		
+Microsoft-Windows-Rdms-UI	16401	0	Publishing16401()			Publishing	Warning		
+Microsoft-Windows-Rdms-UI	16402	0	Publishing16402(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16403	0	Publishing16403(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16404	0	Publishing16404(UnicodeString arg1)			Publishing	Error		
+Microsoft-Windows-Rdms-UI	16405	0	Publishing16405(UnicodeString arg1)			Publishing	Warning		
+Microsoft-Windows-Rdms-UI	16406	0	Publishing16406()			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16407	0	Publishing16407()			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16408	0	Publishing16408()			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16409	0	Publishing16409()			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16410	0	Publishing16410(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16411	0	Publishing16411(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16412	0	Publishing16412(UnicodeString arg1)			Publishing	Error		
+Microsoft-Windows-Rdms-UI	16413	0	Publishing16413(UnicodeString arg1)			Publishing	Error		
+Microsoft-Windows-Rdms-UI	16414	0	Publishing16414(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	16415	0	Publishing16415(UnicodeString arg1)			Publishing	Informational		
+Microsoft-Windows-Rdms-UI	20480	0	DeploymentProperties(UnicodeString arg1, UnicodeString arg2)			DeploymentProperties	Error		
+Microsoft-Windows-Rdms-UI	20482	0	DeploymentProperties20482(UnicodeString arg1, UnicodeString arg2)			DeploymentProperties	Warning		
+Microsoft-Windows-Rdms-UI	20483	0	DeploymentProperties20483(UnicodeString arg1)			DeploymentProperties	Informational		
+Microsoft-Windows-Rdms-UI	20484	0	DeploymentProperties20484(UnicodeString arg1)			DeploymentProperties	Informational		
+Microsoft-Windows-Rdms-UI	20485	0	DeploymentProperties20485(UnicodeString arg1)			DeploymentProperties	Informational		
+Microsoft-Windows-Rdms-UI	24577	0	CollectionProperties_RDSH(UnicodeString arg1, UnicodeString arg2)			CollectionProperties_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	24578	0	CollectionProperties_RDSH24578(UnicodeString arg1)			CollectionProperties_RDSH	Verbose		
+Microsoft-Windows-Rdms-UI	24579	0	CollectionProperties_RDSH24579(UnicodeString arg1)			CollectionProperties_RDSH	Verbose		
+Microsoft-Windows-Rdms-UI	24580	0	CollectionProperties_RDSH24580(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			CollectionProperties_RDSH	Error		
+Microsoft-Windows-Rdms-UI	24581	0	CollectionProperties_RDSH24581(UnicodeString arg1, UnicodeString arg2)			CollectionProperties_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	24582	0	CollectionProperties_RDSH24582(UnicodeString arg1)			CollectionProperties_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	24583	0	CollectionProperties_RDSH24583(UnicodeString arg1)			CollectionProperties_RDSH	Informational		
+Microsoft-Windows-Rdms-UI	24584	0	CollectionProperties_RDSH24584(UnicodeString arg1)			CollectionProperties_RDSH	Error		
+Microsoft-Windows-Rdms-UI	32769	0	ConfiguringConnectionBrokerforHighAvailability()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32770	0	ConfiguringConnectionBrokerforHighAvailability32770(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Verbose		
+Microsoft-Windows-Rdms-UI	32771	0	ConfiguringConnectionBrokerforHighAvailability32771(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32772	0	ConfiguringConnectionBrokerforHighAvailability32772()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32773	0	ConfiguringConnectionBrokerforHighAvailability32773(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32774	0	ConfiguringConnectionBrokerforHighAvailability32774()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32775	0	ConfiguringConnectionBrokerforHighAvailability32775()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32776	0	ConfiguringConnectionBrokerforHighAvailability32776(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32777	0	ConfiguringConnectionBrokerforHighAvailability32777()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32778	0	ConfiguringConnectionBrokerforHighAvailability32778()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32779	0	ConfiguringConnectionBrokerforHighAvailability32779(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32780	0	ConfiguringConnectionBrokerforHighAvailability32780()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32781	0	ConfiguringConnectionBrokerforHighAvailability32781()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32782	0	ConfiguringConnectionBrokerforHighAvailability32782(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32783	0	ConfiguringConnectionBrokerforHighAvailability32783()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32784	0	ConfiguringConnectionBrokerforHighAvailability32784()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32785	0	ConfiguringConnectionBrokerforHighAvailability32785(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32786	0	ConfiguringConnectionBrokerforHighAvailability32786()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32787	0	ConfiguringConnectionBrokerforHighAvailability32787()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32788	0	ConfiguringConnectionBrokerforHighAvailability32788(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32789	0	ConfiguringConnectionBrokerforHighAvailability32789()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32790	0	ConfiguringConnectionBrokerforHighAvailability32790()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32791	0	ConfiguringConnectionBrokerforHighAvailability32791(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32792	0	ConfiguringConnectionBrokerforHighAvailability32792()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32793	0	ConfiguringConnectionBrokerforHighAvailability32793()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32794	0	ConfiguringConnectionBrokerforHighAvailability32794(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32795	0	ConfiguringConnectionBrokerforHighAvailability32795()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32796	0	ConfiguringConnectionBrokerforHighAvailability32796()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32797	0	ConfiguringConnectionBrokerforHighAvailability32797(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32798	0	ConfiguringConnectionBrokerforHighAvailability32798()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32799	0	ConfiguringConnectionBrokerforHighAvailability32799()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32800	0	ConfiguringConnectionBrokerforHighAvailability32800(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32801	0	ConfiguringConnectionBrokerforHighAvailability32801()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32802	0	ConfiguringConnectionBrokerforHighAvailability32802()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32803	0	ConfiguringConnectionBrokerforHighAvailability32803(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32804	0	ConfiguringConnectionBrokerforHighAvailability32804()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32805	0	ConfiguringConnectionBrokerforHighAvailability32805(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32806	0	ConfiguringConnectionBrokerforHighAvailability32806(UnicodeString arg1, UnicodeString arg2)			ConfiguringConnectionBrokerforHighAvailability	Error		
+Microsoft-Windows-Rdms-UI	32807	0	ConfiguringConnectionBrokerforHighAvailability32807(UnicodeString arg1)			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32808	0	ConfiguringConnectionBrokerforHighAvailability32808()			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	32809	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32810	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32810()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32811	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32811(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32812	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32812()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32813	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32813()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32814	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32814(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32815	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32815()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32816	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32816()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32817	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32817(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32818	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32818()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32819	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32819()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32820	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32820(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32821	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32821()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32822	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32822()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32823	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32823(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32824	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32824()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32825	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32825()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32826	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32826(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32827	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32827()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32828	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32828()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32829	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32829(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32830	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32830()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32831	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32831(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32832	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32832(UnicodeString arg1, UnicodeString arg2)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32833	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32833(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32834	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32834()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32835	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32835()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32836	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32836(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32837	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32837(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32838	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32838(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32839	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32839(UnicodeString arg1, UnicodeString arg2)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32840	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32840(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32841	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32841()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32842	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32842(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32843	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32843()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32844	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32844()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32845	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32845(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32846	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32846()			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32847	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32847(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32848	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32848(UnicodeString arg1, UnicodeString arg2)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32849	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32849(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32850	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32850(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32851	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32851(UnicodeString arg1, UnicodeString arg2)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Error		
+Microsoft-Windows-Rdms-UI	32852	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32852(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32853	0	AddingorremovingConnectionBrokerfromHighAvailabilitycluster32853(UnicodeString arg1)			AddingorremovingConnectionBrokerfromHighAvailabilitycluster	Informational		
+Microsoft-Windows-Rdms-UI	32854	0	Autoactiveserverswitch(UnicodeString arg1, UnicodeString arg2)			Autoactiveserverswitch	Informational		
+Microsoft-Windows-Rdms-UI	32855	0	Autoactiveserverswitch32855(UnicodeString arg1, UnicodeString arg2)			Autoactiveserverswitch	Error		
+Microsoft-Windows-Rdms-UI	32856	0	Autoactiveserverswitch32856(UnicodeString arg1, UnicodeString arg2)			Autoactiveserverswitch	Informational		
+Microsoft-Windows-Rdms-UI	32857	0	Manualactiveserverswitch(UnicodeString arg1, UnicodeString arg2)			Manualactiveserverswitch	Informational		
+Microsoft-Windows-Rdms-UI	32858	0	Manualactiveserverswitch32858(UnicodeString arg1)			Manualactiveserverswitch	Error		
+Microsoft-Windows-Rdms-UI	32859	0	Manualactiveserverswitch32859(UnicodeString arg1, UnicodeString arg2)			Manualactiveserverswitch	Error		
+Microsoft-Windows-Rdms-UI	32860	0	Manualactiveserverswitch32860(UnicodeString arg1, UnicodeString arg2)			Manualactiveserverswitch	Informational		
+Microsoft-Windows-Rdms-UI	32861	0	ConfiguringConnectionBrokerforHighAvailability32861(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			ConfiguringConnectionBrokerforHighAvailability	Informational		
+Microsoft-Windows-Rdms-UI	36864	0	Miscellaneous(UnicodeString arg1, UnicodeString arg2)			Miscellaneous	Informational		
+Microsoft-Windows-Rdms-UI	36865	0	Miscellaneous36865(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			Miscellaneous	Error		
+Microsoft-Windows-Rdms-UI	36866	0	Miscellaneous36866(UnicodeString arg1, UnicodeString arg2)			Miscellaneous	Informational		
+Microsoft-Windows-Rdms-UI	40961	0	task_0(UnicodeString arg1, UnicodeString arg2)			task_0	Informational		
+Microsoft-Windows-Rdms-UI	40962	0	task_040962(UnicodeString arg1, UnicodeString arg2)			task_0	Warning		
+Microsoft-Windows-Rdms-UI	40963	0	task_040963(UnicodeString arg1, UnicodeString arg2)			task_0	Error		
+Microsoft-Windows-Rdms-UI	40964	0	task_040964(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)			task_0	Error		

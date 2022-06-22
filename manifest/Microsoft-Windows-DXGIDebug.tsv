@@ -1,0 +1,5 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-DXGIDebug	1	0	ErrorMessage(GUID Producer, Pointer pProducer, UInt32 Category, UInt32 Severity, UInt32 ID, UInt32 DebugMessageByteLength, AnsiString DebugMessage)			ErrorMessage	Informational		
+Microsoft-Windows-DXGIDebug	2	0	WarningMessage(GUID Producer, Pointer pProducer, UInt32 Category, UInt32 Severity, UInt32 ID, UInt32 DebugMessageByteLength, AnsiString DebugMessage)			WarningMessage	Informational		
+Microsoft-Windows-DXGIDebug	3	0	InfoMessage(GUID Producer, Pointer pProducer, UInt32 Category, UInt32 Severity, UInt32 ID, UInt32 DebugMessageByteLength, AnsiString DebugMessage)			InfoMessage	Informational		
+Microsoft-Windows-DXGIDebug	4	0	FilteredOutMessage(GUID Producer, Pointer pProducer, UInt32 Category, UInt32 Severity, UInt32 ID, UInt32 DebugMessageByteLength, AnsiString DebugMessage)			FilteredOutMessage	Verbose		

@@ -1,0 +1,48 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-FileServices-ServerManager-EventProvider	0	0	Trace(UnicodeString message)		General	Trace	Error		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	1	0	Trace1(UnicodeString message)		General	Trace	Error		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	2	0	Trace2(UnicodeString message)		General	Trace	Warning		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	3	0	Trace3(UnicodeString message)		General	Trace	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	4	0	Trace4(UnicodeString message)		General	Trace	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	5	0	Trace5(UnicodeString message)		General	Trace	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6	0	Trace6(UnicodeString message)		General	Trace	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	7	0	Trace7(UnicodeString message)		General	Trace	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	10	0	Refresh()		General	Refresh	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	101	0	Providerenumeratingobjects(UnicodeString message)		General	Providerenumeratingobjects	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	102	0	Providerenumeratingobjects102(UnicodeString message)		General	Providerenumeratingobjects	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	2001	0	Refresh2001(UnicodeString message)		Share	Refresh	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	2002	0	Refresh2002(UnicodeString message)		Share	Refresh	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	4001	0	Refresh4001(UnicodeString message)		Storage	Refresh	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	4002	0	Refresh4002(UnicodeString message)		Storage	Refresh	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	4003	0	Refresh4003(UnicodeString message)		Storage	Refresh	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	4004	0	Refresh4004(UnicodeString message)		Storage	Refresh	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6000	0	Propertypageapplyingsettings(UnicodeString objectId)		iSCSI	Propertypageapplyingsettings	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6001	0	Refresh6001(UnicodeString message)		iSCSI	Refresh	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6002	0	Refresh6002(UnicodeString message)		iSCSI	Refresh	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6003	0	Propertypageapplyingsettings6003(UnicodeString objectId)		iSCSI	Propertypageapplyingsettings	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6004	0	Propertypageapplyingsettings6004(UnicodeString objectId, UnicodeString message)		iSCSI	Propertypageapplyingsettings	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6005	0	Propertypageapplyingsettings6005(UnicodeString objectId)		iSCSI	Propertypageapplyingsettings	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6006	0	Propertypageapplyingsettings6006(UnicodeString objectId)		iSCSI	Propertypageapplyingsettings	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6007	0	Propertypageapplyingsettings6007(UnicodeString objectId, UnicodeString message)		iSCSI	Propertypageapplyingsettings	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6008	0	Providerenumeratingobjects6008()		iSCSI	Providerenumeratingobjects	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6009	0	Providerenumeratingobjects6009()		iSCSI	Providerenumeratingobjects	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6010	0	Providerenumeratingobjects6010()		iSCSI	Providerenumeratingobjects	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6011	0	Providerenumeratingobjects6011()		iSCSI	Providerenumeratingobjects	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6012	0	Providerupdatingobject(UnicodeString objectId)		iSCSI	Providerupdatingobject	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6013	0	Providerupdatingobject6013(UnicodeString objectId)		iSCSI	Providerupdatingobject	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6014	0	Providerupdatingobject6014(UnicodeString objectId, UnicodeString message)		iSCSI	Providerupdatingobject	Error		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6015	0	Providerupdatingobject6015(UnicodeString objectId)		iSCSI	Providerupdatingobject	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6016	0	Providerupdatingobject6016(UnicodeString objectId)		iSCSI	Providerupdatingobject	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6017	0	Providerupdatingobject6017(UnicodeString objectId, UnicodeString message)		iSCSI	Providerupdatingobject	Error		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6018	0	Providerdeletingobject(UnicodeString objectId)		iSCSI	Providerdeletingobject	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6019	0	Providerdeletingobject6019(UnicodeString objectId)		iSCSI	Providerdeletingobject	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6020	0	Providerdeletingobject6020(UnicodeString objectId, UnicodeString message)		iSCSI	Providerdeletingobject	Error		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6021	0	Providerdeletingobject6021(UnicodeString objectId)		iSCSI	Providerdeletingobject	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6022	0	Providerdeletingobject6022(UnicodeString objectId)		iSCSI	Providerdeletingobject	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6023	0	Providerdeletingobject6023(UnicodeString objectId, UnicodeString message)		iSCSI	Providerdeletingobject	Error		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6024	0	PSObjectconversion(UnicodeString message)		iSCSI	PSObjectconversion	Error		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6025	0	PSObjectconversion6025(UnicodeString objectId)		iSCSI	PSObjectconversion	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6026	0	PSObjectconversion6026(UnicodeString message)		iSCSI	PSObjectconversion	Error		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6027	0	PSObjectconversion6027(UnicodeString objectId)		iSCSI	PSObjectconversion	Verbose		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6028	0	Pagenavigation()		iSCSI	Pagenavigation	Informational		
+Microsoft-Windows-FileServices-ServerManager-EventProvider	6029	0	Pagenavigation6029()		iSCSI	Pagenavigation	Informational		

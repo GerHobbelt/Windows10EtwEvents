@@ -1,0 +1,43 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-ServiceBus-Client	30000	0	MessageAbandon(UnicodeString TrackingId, UnicodeString SubsystemId, UnicodeString TransportType, UnicodeString LockTokens)		keyword_800000000000	MessageAbandon	Verbose		
+Microsoft-ServiceBus-Client	30001	0	MessageComplete(UnicodeString TrackingId, UnicodeString SubsystemId, UnicodeString TransportType, UnicodeString LockTokens)		keyword_800000000000	MessageComplete	Verbose		
+Microsoft-ServiceBus-Client	30002	0	MessageReceived(UnicodeString TrackingId, UnicodeString SubsystemId, UnicodeString TransportType, UnicodeString MessageIds)		keyword_800000000000	MessageReceived	Verbose		
+Microsoft-ServiceBus-Client	30003	0	MessageSending(UnicodeString TrackingId, UnicodeString SubsystemId, UnicodeString TransportType, UnicodeString MessageIds)		keyword_800000000000	MessageSending	Verbose		
+Microsoft-ServiceBus-Client	30004	0	ChannelFaulted(UnicodeString Exception)		keyword_800000000000	ChannelFaulted	Warning		
+Microsoft-ServiceBus-Client	30005	0	ChannelReceiveContextAbandon(GUID LockToken)		keyword_800000000000	ChannelReceiveContextAbandon	Verbose		
+Microsoft-ServiceBus-Client	30006	0	ChannelReceiveContextComplete(GUID LockToken)		keyword_800000000000	ChannelReceiveContextComplete	Verbose		
+Microsoft-ServiceBus-Client	30007	0	ChannelSendingMessage(UnicodeString ChannelId, UnicodeString ActionId, UnicodeString MessageId)		keyword_800000000000	ChannelSendingMessage	Verbose		
+Microsoft-ServiceBus-Client	30008	0	ChannelReceivedMessage(UnicodeString ChannelId, UnicodeString ActionId, UnicodeString MessageId)		keyword_800000000000	ChannelReceivedMessage	Verbose		
+Microsoft-ServiceBus-Client	30009	0	MessageSuspend(UnicodeString TrackingId, UnicodeString SubsystemId, UnicodeString TransportType, UnicodeString LockTokens)		keyword_800000000000	MessageSuspend	Verbose		
+Microsoft-ServiceBus-Client	30010	0	MessageRenew(UnicodeString TrackingId, UnicodeString SubsystemId, UnicodeString TransportType, UnicodeString LockTokens)		keyword_800000000000	MessageRenew	Verbose		
+Microsoft-ServiceBus-Client	30011	0	MessageDefer(UnicodeString TrackingId, UnicodeString SubsystemId, UnicodeString TransportType, UnicodeString LockTokens)		keyword_800000000000	MessageDefer	Verbose		
+Microsoft-ServiceBus-Client	30031	0	LogOperation(UnicodeString Value1, UnicodeString Value2)		keyword_800000000000	LogOperation	Verbose		
+Microsoft-ServiceBus-Client	30032	0	LogOperationWarning(UnicodeString exception, UnicodeString Value2)		keyword_800000000000	LogOperationWarning	Warning		
+Microsoft-ServiceBus-Client	30033	0	RetryOperation(UnicodeString operation, Int32 retryCount, UnicodeString reason)		keyword_800000000000	RetryOperation	Informational		
+Microsoft-ServiceBus-Client	30040	0	InnerRuntimeChannelFaulted(UnicodeString Exception, UnicodeString SessionId, UnicodeString Via, UnicodeString LocalEndpoint, UnicodeString RemoteEndpoint)		keyword_800000000000	InnerRuntimeChannelFaulted	Warning		
+Microsoft-ServiceBus-Client	30201	0	AppDomainUnload(UnicodeString DomainName, UnicodeString ProcessName, Int32 ProcessId)		keyword_800000000000	AppDomainUnload	Warning		
+Microsoft-ServiceBus-Client	30202	0	ShipAssertExceptionMessage(UnicodeString Exception)		keyword_800000000000	ShipAssertExceptionMessage	Error		
+Microsoft-ServiceBus-Client	30203	0	ThrowingException(UnicodeString Exception)		keyword_800000000000	ThrowingException	Error		
+Microsoft-ServiceBus-Client	30204	0	UnhandledException(UnicodeString Exception)		keyword_800000000000	UnhandledException	Error		
+Microsoft-ServiceBus-Client	30206	0	TraceCodeEventLogCritical(UnicodeString Value)		keyword_800000000000	TraceCodeEventLogCritical	Critical		
+Microsoft-ServiceBus-Client	30207	0	TraceCodeEventLogError(UnicodeString Value)		keyword_800000000000	TraceCodeEventLogError	Error		
+Microsoft-ServiceBus-Client	30208	0	TraceCodeEventLogInformational(UnicodeString Value)		keyword_800000000000	TraceCodeEventLogInformational	Informational		
+Microsoft-ServiceBus-Client	30209	0	TraceCodeEventLogVerbose(UnicodeString Value)		keyword_800000000000	TraceCodeEventLogVerbose	Verbose		
+Microsoft-ServiceBus-Client	30210	0	TraceCodeEventLogWarning(UnicodeString Value)		keyword_800000000000	TraceCodeEventLogWarning	Warning		
+Microsoft-ServiceBus-Client	30211	0	HandledExceptionWarning(UnicodeString Exception)		keyword_800000000000	HandledExceptionWarning	Warning		
+Microsoft-ServiceBus-Client	31111	0	SingletonManagerLoadSucceeded(UnicodeString KeyName)		keyword_800000000000	SingletonManagerLoadSucceeded	Informational		
+Microsoft-ServiceBus-Client	31112	0	MessageSendingTransfer()		keyword_800000000000	MessageSendingTransfer	Informational		
+Microsoft-ServiceBus-Client	31113	0	SetStateTransfer(UnicodeString sessionId)		keyword_800000000000	SetStateTransfer	Informational		
+Microsoft-ServiceBus-Client	31114	0	GetStateTransfer(UnicodeString sessionId)		keyword_800000000000	GetStateTransfer	Informational		
+Microsoft-ServiceBus-Client	31115	0	MessageReceiveTransfer()		keyword_800000000000	MessageReceiveTransfer	Informational		
+Microsoft-ServiceBus-Client	31116	0	RenewSessionLockTransfer()		keyword_800000000000	RenewSessionLockTransfer	Informational		
+Microsoft-ServiceBus-Client	40000	0	BatchManagerExecutingBatchedObject(UnicodeString trackingId, UnicodeString subsystemId, UnicodeString newTrackingId)		keyword_800000000000	BatchManagerExecutingBatchedObject	Informational		
+Microsoft-ServiceBus-Client	40001	0	BatchManagerException(UnicodeString trackingId, UnicodeString subsystemId, UnicodeString functionName, UnicodeString exception)		keyword_800000000000	BatchManagerException	Warning		
+Microsoft-ServiceBus-Client	40002	0	BatchManagerTransactionInDoubt(UnicodeString trackingId, UnicodeString subsystemId, UnicodeString transactionId, Boolean rollbackCalled)		keyword_800000000000	BatchManagerTransactionInDoubt	Warning		
+Microsoft-ServiceBus-Client	60001	0	ExceptionAsWarning(UnicodeString Exception)		keyword_800000000000	ExceptionAsWarning	Warning		
+Microsoft-ServiceBus-Client	60002	0	ExceptionAsInformation(UnicodeString Exception)		keyword_800000000000	ExceptionAsInformation	Informational		
+Microsoft-ServiceBus-Client	60003	0	HandledExceptionWithEntityName(UnicodeString EntityName, UnicodeString ExceptionMessage, UnicodeString StackTrace)		keyword_800000000000	HandledExceptionWithEntityName	Warning		
+Microsoft-ServiceBus-Client	60004	0	LogAsWarning(UnicodeString Value)		keyword_800000000000	LogAsWarning	Warning		
+Microsoft-ServiceBus-Client	60005	0	ThrowingExceptionWithEntityName(UnicodeString EntityName, UnicodeString ExceptionString)		keyword_800000000000	ThrowingExceptionWithEntityName	Error		
+Microsoft-ServiceBus-Client	60006	0	HandledExceptionWithFunctionName(UnicodeString FunctionName, UnicodeString ExceptionMessage, UnicodeString ExceptionToString)		keyword_800000000000	HandledExceptionWithFunctionName	Warning		
+Microsoft-ServiceBus-Client	60007	0	NonSerializableException(UnicodeString Exception)		keyword_800000000000	NonSerializableException	Warning		

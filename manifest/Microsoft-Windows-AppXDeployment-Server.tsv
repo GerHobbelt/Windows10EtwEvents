@@ -139,10 +139,6 @@ Microsoft-Windows-AppXDeployment-Server	511	0	task_0511(UnicodeString FileName, 
 Microsoft-Windows-AppXDeployment-Server	512	0	task_0512(HexInt64 SessionKey, Boolean StreamingDataSourcePrefetchCanceled)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Verbose		
 Microsoft-Windows-AppXDeployment-Server	520	0	AppXDeployment.Task.Server.Deployment520(Int32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	522	0	AppXDeployment.Task.Server.Deployment522(UnicodeString FolderPath, HexInt32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
-Microsoft-Windows-AppXDeployment-Server	530	0	task_0530(UnicodeString CLSID, HexInt32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Error		
-Microsoft-Windows-AppXDeployment-Server	531	0	task_0531(UnicodeString Uri, HexInt32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Error		
-Microsoft-Windows-AppXDeployment-Server	532	0	task_0532(HexInt32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Error		
-Microsoft-Windows-AppXDeployment-Server	533	0	task_0533(HexInt32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Verbose		
 Microsoft-Windows-AppXDeployment-Server	540	0	AppXDeployment.Task.Server.Deployment540(UnicodeString PackageFullName, Int32 Architecture)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Verbose		
 Microsoft-Windows-AppXDeployment-Server	541	0	AppXDeployment.Task.Server.Deployment541(UnicodeString PackageFullName, Int32 Architecture)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Verbose		
 Microsoft-Windows-AppXDeployment-Server	542	0	AppXDeployment.Task.Server.Deployment542(UnicodeString PackageFullName, Int32 Architecture, HexInt32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
@@ -234,11 +230,6 @@ Microsoft-Windows-AppXDeployment-Server	663	0	AppXDeployment.Task.Server.Deploym
 Microsoft-Windows-AppXDeployment-Server	664	0	AppXDeployment.Task.Server.Deployment664(HexInt32 Error, UnicodeString PackageMoniker)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	665	0	task_0665(UnicodeString targetPackageFullNameForRepair, UInt32 deploymentOperation, UnicodeString currentPackageFullName, UInt64 currentStepIndex, UInt64 numTotalSteps, HexInt32 errorCode)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Informational		
 Microsoft-Windows-AppXDeployment-Server	666	0	task_0666(UnicodeString targetPackageFullNameForRepair, UInt32 deploymentOperation, UnicodeString currentPackageFullName, UInt64 currentStepIndex, UInt64 numTotalSteps, HexInt32 errorCode)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Informational		
-Microsoft-Windows-AppXDeployment-Server	667	0	task_0667(UnicodeString PackageMoniker)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Error		
-Microsoft-Windows-AppXDeployment-Server	668	0	task_0668(UnicodeString packageFullName, UnicodeString userSid, HexInt32 hresult)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Informational		
-Microsoft-Windows-AppXDeployment-Server	669	0	task_0669(UnicodeString packageFullName, UnicodeString userSid, HexInt32 hresult)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Informational		
-Microsoft-Windows-AppXDeployment-Server	670	0	task_0670(UnicodeString packageFullName, UnicodeString userSid, HexInt32 hresult)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Informational		
-Microsoft-Windows-AppXDeployment-Server	671	0	task_0671(UnicodeString packageFullName, UnicodeString userSid, HexInt32 hresult)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Informational		
 Microsoft-Windows-AppXDeployment-Server	699	0	task_0699(AnsiString FileName, Int32 Line, HexInt32 Error)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Warning		
 Microsoft-Windows-AppXDeployment-Server	700	0	AppXDeployment.Task.Server.Deployment700(UnicodeString PackageMoniker, UnicodeString PackageMoniker2)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	701	0	AppXDeployment.Task.Server.Deployment701(UnicodeString FileName, UInt32 Count, UInt32 MaxCount)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
@@ -302,6 +293,7 @@ Microsoft-Windows-AppXDeployment-Server	758	0	AppXDeployment.Task.Server.Deploym
 Microsoft-Windows-AppXDeployment-Server	759	0	AppXDeployment.Task.Server.Deployment759(UnicodeString PackageName, HexInt32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	760	0	AppXDeployment.Task.Server.Deployment760(UnicodeString PackageName, HexInt32 ErrorCode)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	761	0	AppXDeployment.Task.Server.Deployment761(UnicodeString AppId)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Verbose		
+Microsoft-Windows-AppXDeployment-Server	762	0	AppXDeployment.Task.Server.Deployment762(UnicodeString PackageName)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	763	0	AppXDeployment.Task.Server.Deployment763(UnicodeString PackageName)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	764	0	AppXDeployment.Task.Server.Deployment764(UnicodeString PackageName)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	765	0	AppXDeployment.Task.Server.Deployment765(UnicodeString PackageName, UnicodeString Path, UnicodeString MediaID)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
@@ -404,9 +396,6 @@ Microsoft-Windows-AppXDeployment-Server	866	0	AppXDeployment.Task.Server.Deploym
 Microsoft-Windows-AppXDeployment-Server	867	0	AppXDeployment.Task.Server.Deployment867(UnicodeString PackageName, HexInt64 DeploymentOptions)		APPXDEPLOYMENTSERVER_KEYWORD keyword_400000000000	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	868	0	AppXDeployment.Task.Server.AppxAllUserStore868(HexInt32 ErrorCode, UnicodeString String)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.AppxAllUserStore	Error		
 Microsoft-Windows-AppXDeployment-Server	900	0	AppXDeployment.Task.Server.Deployment.MutablePackageDirectoryStateHandler(UnicodeString PackageFullname, UnicodeString ExitingPackageFullname, UnicodeString MutablePackageDirectory)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment.MutablePackageDirectoryStateHandler	Error		
-Microsoft-Windows-AppXDeployment-Server	926	0	AppXDeployment.Task.Server.Deployment926(UnicodeString PackageMoniker)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
-Microsoft-Windows-AppXDeployment-Server	927	0	AppXDeployment.Task.Server.Deployment927(UnicodeString PackageMoniker, UnicodeString PackageMoniker2)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
-Microsoft-Windows-AppXDeployment-Server	928	0	AppXDeployment.Task.Server.Deployment928(UnicodeString PackageMoniker, UnicodeString PackageMoniker2)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
 Microsoft-Windows-AppXDeployment-Server	1001	0	AppXDeployment.Task.Server.OSIMStart1001(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
 Microsoft-Windows-AppXDeployment-Server	1002	0	AppXDeployment.Task.Server.OSIMStop(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
 Microsoft-Windows-AppXDeployment-Server	1003	0	AppXDeployment.Task.Server.OSIMStart1003(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
@@ -1428,6 +1417,13 @@ Microsoft-Windows-AppXDeployment-Server	8230	0	task_08230(UnicodeString FileName
 Microsoft-Windows-AppXDeployment-Server	8250	0	task_08250(UnicodeString PackageName, UnicodeString ErrorText, HexInt32 ErrorCode)		APPSERVICE_DEH_KEYWORD	task_0	Error		
 Microsoft-Windows-AppXDeployment-Server	8251	0	task_08251(UnicodeString FileName, UInt32 LineNumber, UInt32 ColumnNumber, HexInt32 ErrorCode, UnicodeString PackageName)		APPSERVICE_DEH_KEYWORD	task_0	Error		
 Microsoft-Windows-AppXDeployment-Server	8300	0	task_08300(UnicodeString PackageName, UnicodeString ErrorText, HexInt32 ErrorCode)		DIALPROTOCOL_DEH_KEYWORD	task_0	Error		
+Microsoft-Windows-AppXDeployment-Server	8351	0	task_08351(UnicodeString PackageName, HexInt32 ErrorCode)		AOWAPP_DEH_KEYWORD	task_0	Error		
+Microsoft-Windows-AppXDeployment-Server	8352	0	task_08352(UnicodeString PackageName, HexInt32 ErrorCode)		AOWAPP_DEH_KEYWORD	task_0	Error		
+Microsoft-Windows-AppXDeployment-Server	8353	0	task_08353(UnicodeString PackageName, HexInt32 ErrorCode)		AOWAPP_DEH_KEYWORD	task_0	Error		
+Microsoft-Windows-AppXDeployment-Server	8354	0	task_08354(UInt32 CurrentOperation, HexInt32 ErrorCode)		AOWAPP_DEH_KEYWORD	task_0	Error		
+Microsoft-Windows-AppXDeployment-Server	8355	0	task_08355(UnicodeString PackageName, HexInt32 ErrorCode)		AOWAPP_DEH_KEYWORD	task_0	Error		
+Microsoft-Windows-AppXDeployment-Server	8356	0	task_08356(UnicodeString PackageName, HexInt32 ErrorCode)		AOWAPP_DEH_KEYWORD	task_0	Error		
+Microsoft-Windows-AppXDeployment-Server	8357	0	task_08357(UnicodeString PackageName, HexInt32 ErrorCode)		AOWAPP_DEH_KEYWORD	task_0	Error		
 Microsoft-Windows-AppXDeployment-Server	8400	0	task_08400(UnicodeString PackageName, UnicodeString ErrorText, HexInt32 ErrorCode)		COMMUNICATION_BLOCKING_APP_DEH_KEYWORD	task_0	Error		
 Microsoft-Windows-AppXDeployment-Server	8451	0	task_08451(UnicodeString PackageName, UnicodeString ErrorText, HexInt32 ErrorCode)		keyword_10000000000	task_0	Error		
 Microsoft-Windows-AppXDeployment-Server	8460	0	AppXDeployment.Task.Server.OSIMStart8460(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
@@ -1549,7 +1545,6 @@ Microsoft-Windows-AppXDeployment-Server	9035	0	task_09035(UnicodeString FileName
 Microsoft-Windows-AppXDeployment-Server	9036	0	task_09036(HexInt32 ErrorCode, UnicodeString String)		PACKAGED_COM_DEH_KEYWORD	task_0	Verbose		
 Microsoft-Windows-AppXDeployment-Server	9037	0	task_09037(UnicodeString FileName, UInt32 Line, UInt32 Column, HexInt32 ErrorCode, UnicodeString PackageName)		PACKAGED_COM_DEH_KEYWORD	task_0	Error		
 Microsoft-Windows-AppXDeployment-Server	9038	0	task_09038(UnicodeString FileName, UInt32 Line, UInt32 Column, HexInt32 ErrorCode, UnicodeString PackageName)		PACKAGED_COM_DEH_KEYWORD	task_0	Error		
-Microsoft-Windows-AppXDeployment-Server	9039	0	task_09039(UnicodeString FileName, UInt32 Line, UInt32 Column, HexInt32 ErrorCode, UnicodeString PackageName)		PACKAGED_COM_DEH_KEYWORD	task_0	Error		
 Microsoft-Windows-AppXDeployment-Server	9071	0	AppXDeployment.Task.Server.OSIMStart9071(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
 Microsoft-Windows-AppXDeployment-Server	9072	0	AppXDeployment.Task.Server.OSIMStop9072(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
 Microsoft-Windows-AppXDeployment-Server	9073	0	AppXDeployment.Task.Server.OSIMStart9073(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
@@ -1672,8 +1667,6 @@ Microsoft-Windows-AppXDeployment-Server	9707	0	AppXDeployment.Task.Server.OSIMSt
 Microsoft-Windows-AppXDeployment-Server	9708	0	AppXDeployment.Task.Server.OSIMStart9708(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
 Microsoft-Windows-AppXDeployment-Server	9709	0	AppXDeployment.Task.Server.OSIMStop9709(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
 Microsoft-Windows-AppXDeployment-Server	9720	0	task_09720(HexInt32 ErrorCode, UnicodeString String)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Error		
-Microsoft-Windows-AppXDeployment-Server	9721	0	task_09721(HexInt32 ErrorCode, UnicodeString String)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Error		
-Microsoft-Windows-AppXDeployment-Server	9722	0	task_09722(HexInt32 ErrorCode, UnicodeString String)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Error		
 Microsoft-Windows-AppXDeployment-Server	9800	0	AppXDeployment.Task.Server.OSIMStart9800(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
 Microsoft-Windows-AppXDeployment-Server	9801	0	AppXDeployment.Task.Server.OSIMStop9801(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
 Microsoft-Windows-AppXDeployment-Server	9802	0	AppXDeployment.Task.Server.OSIMStart9802(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
@@ -1835,34 +1828,3 @@ Microsoft-Windows-AppXDeployment-Server	12337	0	AppXDeployment.Task.Server.OSIMS
 Microsoft-Windows-AppXDeployment-Server	12338	0	AppXDeployment.Task.Server.OSIMStart12338(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
 Microsoft-Windows-AppXDeployment-Server	12339	0	AppXDeployment.Task.Server.OSIMStop12339(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
 Microsoft-Windows-AppXDeployment-Server	12340	0	task_012340(UnicodeString PackageName, UnicodeString ErrorText, HexInt32 ErrorCode)		OSIM_KEYWORD	task_0	Error		
-Microsoft-Windows-AppXDeployment-Server	12350	0	AppXDeployment.Task.Server.OSIMStart12350(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12351	0	AppXDeployment.Task.Server.OSIMStop12351(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12352	0	AppXDeployment.Task.Server.OSIMStart12352(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12353	0	AppXDeployment.Task.Server.OSIMStop12353(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12354	0	AppXDeployment.Task.Server.OSIMStart12354(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12355	0	AppXDeployment.Task.Server.OSIMStop12355(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12356	0	AppXDeployment.Task.Server.OSIMStart12356(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12357	0	AppXDeployment.Task.Server.OSIMStop12357(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12358	0	AppXDeployment.Task.Server.OSIMStart12358(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12359	0	AppXDeployment.Task.Server.OSIMStop12359(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Informational		
-Microsoft-Windows-AppXDeployment-Server	12370	0	task_012370(HexInt32 ErrorCode, UnicodeString String1, UnicodeString String2, UnicodeString String3)		APPXDEPLOYMENTSERVER_KEYWORD	task_0	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12390	0	AppXDeployment.Task.Server.OSIMStart12390(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12391	0	AppXDeployment.Task.Server.OSIMStop12391(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12392	0	AppXDeployment.Task.Server.OSIMStart12392(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12393	0	AppXDeployment.Task.Server.OSIMStop12393(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12394	0	AppXDeployment.Task.Server.OSIMStart12394(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12395	0	AppXDeployment.Task.Server.OSIMStop12395(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12396	0	AppXDeployment.Task.Server.OSIMStart12396(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12397	0	AppXDeployment.Task.Server.OSIMStop12397(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12398	0	AppXDeployment.Task.Server.OSIMStart12398(UnicodeString PackageName)	Start	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12399	0	AppXDeployment.Task.Server.OSIMStop12399(UnicodeString PackageName)	Stop	OSIM_KEYWORD APPXDEPLOYMENTSERVER_PERF_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12500	0	AppXDeployment.Task.Server.Deployment12500(UnicodeString String1, UnicodeString String2)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12501	0	AppXDeployment.Task.Server.Deployment12501(UnicodeString String1, UnicodeString String2)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12502	0	AppXDeployment.Task.Server.Deployment12502(HexInt32 ErrorCode, UnicodeString String1, UnicodeString String2)		APPXDEPLOYMENTSERVER_KEYWORD	AppXDeployment.Task.Server.Deployment	Error		
-Microsoft-Windows-AppXDeployment-Server	12510	0	AppXDeployment.Task.Server.OSIM12510(UnicodeString FileName, UInt32 Line, UInt32 Column, HexInt32 ErrorCode, UnicodeString PackageName)		OSIM_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12511	0	AppXDeployment.Task.Server.OSIM12511(UnicodeString FileName, UInt32 Line, UInt32 Column, HexInt32 ErrorCode, UnicodeString PackageName)		OSIM_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12512	0	AppXDeployment.Task.Server.OSIM12512(UnicodeString FileName, UInt32 Line, UInt32 Column, HexInt32 ErrorCode, UnicodeString PackageName, UnicodeString ErrorText)		OSIM_KEYWORD	AppXDeployment.Task.Server.OSIM	Error		
-Microsoft-Windows-AppXDeployment-Server	12513	0	AppXDeployment.Task.Server.OSIM12513(HexInt32 ErrorCode)		OSIM_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12514	0	AppXDeployment.Task.Server.OSIM12514(HexInt32 ErrorCode)		OSIM_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12515	0	AppXDeployment.Task.Server.OSIM12515(HexInt32 ErrorCode)		OSIM_KEYWORD	AppXDeployment.Task.Server.OSIM	Verbose		
-Microsoft-Windows-AppXDeployment-Server	12516	0	AppXDeployment.Task.Server.OSIM12516(HexInt32 ErrorCode)		OSIM_KEYWORD keyword_80000000000	AppXDeployment.Task.Server.OSIM	Verbose		

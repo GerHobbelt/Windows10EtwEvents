@@ -1,0 +1,27 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Kerberos-KdcProxy	1	0	TASK_SERVICE(UInt32 ErrorCode)			TASK_SERVICE	Critical		
+Microsoft-Windows-Kerberos-KdcProxy	2	0	TASK_SERVICE2(UInt32 ErrorCode)			TASK_SERVICE	Critical		
+Microsoft-Windows-Kerberos-KdcProxy	3	0	TASK_SERVICE3(UInt32 ErrorCode)			TASK_SERVICE	Critical		
+Microsoft-Windows-Kerberos-KdcProxy	4	0	TASK_SERVICE4(UInt32 ErrorCode)			TASK_SERVICE	Critical		
+Microsoft-Windows-Kerberos-KdcProxy	5	0	TASK_SERVICE5(UnicodeString UrlPrefix, UInt32 ErrorCode)			TASK_SERVICE	Critical		
+Microsoft-Windows-Kerberos-KdcProxy	6	0	TASK_SERVICE6(UInt32 ErrorCode)			TASK_SERVICE	Critical		
+Microsoft-Windows-Kerberos-KdcProxy	100	0	TASK_HTTP(UInt32 ErrorCode)			TASK_HTTP	Error		
+Microsoft-Windows-Kerberos-KdcProxy	101	0	TASK_HTTP101(UInt32 ErrorCode)			TASK_HTTP	Error		
+Microsoft-Windows-Kerberos-KdcProxy	102	0	TASK_HTTP102(UnicodeString PduType, UInt32 ErrorCode)			TASK_HTTP	Error		
+Microsoft-Windows-Kerberos-KdcProxy	103	0	TASK_HTTP103(UnicodeString TargetDomain, UInt32 Flags, UInt32 ErrorCode)			TASK_HTTP	Error		
+Microsoft-Windows-Kerberos-KdcProxy	200	0	TASK_SERVICE200(UInt32 RetryNumber, UnicodeString TargetDomain)			TASK_SERVICE	Warning		
+Microsoft-Windows-Kerberos-KdcProxy	300	0	TASK_SERVICEStart()	Start		TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	301	0	TASK_SERVICEStop()	Stop		TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	302	0	TASK_SERVICE302()			TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	303	0	TASK_SERVICE303()			TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	304	0	TASK_SERVICE304()			TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	305	0	TASK_SERVICE305()			TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	306	0	TASK_SERVICE306(UnicodeString TargetDomain)			TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	307	0	TASK_SERVICE307(UInt32 BeginNonEmptyBuckets, UInt32 BeginTotalBuckets, UInt32 BeginTotalEntries, UInt32 NonEmptyBuckets, UInt32 TotalBuckets, UInt32 TotalEntries, UInt32 TimeSpent)			TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	308	0	TASK_SERVICE308(UInt32 BeginNonEmptyBuckets, UInt32 BeginTotalBuckets, UInt32 BeginTotalEntries, UInt32 NonEmptyBuckets, UInt32 TotalBuckets, UInt32 TotalEntries, UInt32 TimeSpent)			TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	309	0	TASK_SERVICE309(UnicodeString TargetDomain, UnicodeString KDCName, UnicodeString KDCAddress)			TASK_SERVICE	Informational		
+Microsoft-Windows-Kerberos-KdcProxy	400	0	TASK_HTTP400()			TASK_HTTP	Verbose		
+Microsoft-Windows-Kerberos-KdcProxy	401	0	TASK_HTTP401()			TASK_HTTP	Verbose		
+Microsoft-Windows-Kerberos-KdcProxy	402	0	TASK_HTTP402(UInt32 TrustStatus)			TASK_HTTP	Verbose		
+Microsoft-Windows-Kerberos-KdcProxy	403	0	TASK_HTTP403(UnicodeString DomainName, UnicodeString UserName, UInt32 NumerOfFailures, UInt32 LockedOutPeriod)			TASK_HTTP	Verbose		
+Microsoft-Windows-Kerberos-KdcProxy	404	0	TASK_HTTP404(UnicodeString DomainName, UnicodeString UserName)			TASK_HTTP	Verbose		

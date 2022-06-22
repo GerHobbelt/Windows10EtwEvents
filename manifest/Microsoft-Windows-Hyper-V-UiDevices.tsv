@@ -1,0 +1,36 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Hyper-V-UiDevices	1500	0	task_0(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Informational		
+Microsoft-Windows-Hyper-V-UiDevices	1510	0	task_01510(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Warning		
+Microsoft-Windows-Hyper-V-UiDevices	1520	0	task_01520(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	1530	0	task_01530(UnicodeString TraceData, UnicodeString VmName, UnicodeString VmId, UInt32 StackFrameCount, Pointer StackFrame, UInt32 ModuleCount, Int32 Module)			task_0	Critical		
+Microsoft-Windows-Hyper-V-UiDevices	12460	0	task_012460(UnicodeString VmName, UnicodeString VmId, UnicodeString ErrorCodeString, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	12461	0	task_012461(UnicodeString VmName, UnicodeString VmId, UnicodeString ErrorCodeString, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	12480	0	task_012480(UnicodeString VmName, UnicodeString VmId, UnicodeString ErrorCodeString, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	12481	0	task_012481(UnicodeString VmName, UnicodeString VmId, UnicodeString ErrorCodeString, UnicodeString ErrorCode)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	12530	0	task_012530(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-UiDevices	12531	0	task_012531(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-UiDevices	12540	0	task_012540(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-UiDevices	12541	0	task_012541(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-UiDevices	12550	0	task_012550(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Critical		
+Microsoft-Windows-Hyper-V-UiDevices	12551	0	task_012551(UnicodeString VmName, UnicodeString VmId, UnicodeString Device)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32700	0	task_032700(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UInt32 ContextParam1, UInt32 ContextParam2, UInt32 ContextParam3)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32701	0	task_032701(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UInt32 ContextParam1, UInt32 ContextParam2, UInt32 ContextParam3)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32702	0	task_032702(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UInt32 ContextParam1, UInt32 ContextParam2, UInt32 ContextParam3)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32703	0	task_032703(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UInt32 ContextParam1, UInt32 ContextParam2, UInt32 ContextParam3)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32704	0	task_032704(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UInt32 ContextParam1, UInt32 ContextParam2, UInt32 ContextParam3)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32705	0	task_032705(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ErrorCodeString, UnicodeString ErrorCode, UInt32 ContextParam1, UInt32 ContextParam2, UInt32 ContextParam3)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32706	0	task_032706()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32707	0	task_032707()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32708	0	task_032708()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32709	0	task_032709()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32710	0	task_032710()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32711	0	task_032711()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32712	0	task_032712()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32713	0	task_032713()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32714	0	task_032714()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32715	0	task_032715(UnicodeString VmName, UnicodeString VmId)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32716	0	task_032716(UnicodeString VmName, UnicodeString VmId)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32717	0	task_032717()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32718	0	task_032718()			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32719	0	task_032719(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		
+Microsoft-Windows-Hyper-V-UiDevices	32720	0	task_032720(UnicodeString VmName, UnicodeString VmId, UnicodeString Device, UnicodeString ServerVersion, UnicodeString ClientVersion)			task_0	Error		

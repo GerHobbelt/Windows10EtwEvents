@@ -1,0 +1,7 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-WAS-ListenerAdapter	7001	0	task_0PCODE_128pcode_128(UnicodeString ListenerAdapterProtocol, UnicodeString ProcessID)	opcode_128		task_0	Always		
+Microsoft-Windows-WAS-ListenerAdapter	7002	0	task_0PCODE_64pcode_64(UnicodeString ListenerAdapterProtocol)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS-ListenerAdapter	7003	0	task_0PCODE_64pcode_647003(UnicodeString ListenerAdapterProtocol)	opcode_64		task_0	Always		
+Microsoft-Windows-WAS-ListenerAdapter	7004	0	task_0PCODE_192pcode_192(UnicodeString ListenerAdapterProtocol)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS-ListenerAdapter	7005	0	task_0PCODE_192pcode_1927005(UnicodeString ListenerAdapterProtocol)	opcode_192		task_0	Always		
+Microsoft-Windows-WAS-ListenerAdapter	7006	0	task_0PCODE_192pcode_1927006(UnicodeString ListenerAdapterProtocol)	opcode_192		task_0	Always		

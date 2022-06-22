@@ -2,7 +2,6 @@ provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channe
 Microsoft-Windows-Kernel-General	1	0	task_0(FILETIME NewTime, FILETIME OldTime)		KERNEL_GENERAL_KEYWORD_TIME	task_0	Informational		
 Microsoft-Windows-Kernel-General	1	1	SystemTimeChange_V1(FILETIME NewTime, FILETIME OldTime, UInt32 Reason)		KERNEL_GENERAL_KEYWORD_TIME	SystemTimeChange	Informational		
 Microsoft-Windows-Kernel-General	1	2	SystemTimeChange_V2(FILETIME NewTime, FILETIME OldTime, UInt32 Reason, UnicodeString ProcessName, UInt32 ProcessID)		KERNEL_GENERAL_KEYWORD_TIME	SystemTimeChange	Informational		
-Microsoft-Windows-Kernel-General	1	3	SystemTimeChange_V3(FILETIME NewTime, FILETIME OldTime, UInt32 Reason, UnicodeString ProcessName, UInt32 ProcessID, FILETIME CmosTime, Int32 TimeZoneBias, Boolean RealTimeIsUniversal, Boolean SystemInCmosMode)		KERNEL_GENERAL_KEYWORD_TIME	SystemTimeChange	Informational		
 Microsoft-Windows-Kernel-General	2	0	task_02()			task_0	Informational		
 Microsoft-Windows-Kernel-General	3	0	task_03()			task_0	Informational		
 Microsoft-Windows-Kernel-General	4	0	task_04()			task_0	Informational		

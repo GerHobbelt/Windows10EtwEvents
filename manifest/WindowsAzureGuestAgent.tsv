@@ -1,0 +1,32 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+WindowsAzureGuestAgent	1	0	task_0(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	2	0	task_02(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Warning		
+WindowsAzureGuestAgent	3	0	task_03(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	4	0	task_04(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Critical		
+WindowsAzureGuestAgent	5	0	task_05(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Verbose		
+WindowsAzureGuestAgent	6	0	task_06(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)		HeartBeat	task_0	Informational		
+WindowsAzureGuestAgent	7	0	task_07(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	8	0	task_08(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Warning		
+WindowsAzureGuestAgent	9	0	task_09(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	3000	0	task_03000(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3001	0	task_03001(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3002	0	task_03002(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3003	0	task_03003(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3004	0	task_03004(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	3005	0	task_03005(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	3006	0	task_03006(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3007	0	task_03007(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3008	0	task_03008(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	3009	0	task_03009(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	3010	0	task_03010(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3011	0	task_03011(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3012	0	task_03012(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	3013	0	task_03013(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3014	0	task_03014(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3015	0	task_03015(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	3016	0	task_03016(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3017	0	task_03017(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3018	0	task_03018(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Error		
+WindowsAzureGuestAgent	3019	0	task_03019(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	3020	0	task_03020(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)			task_0	Informational		
+WindowsAzureGuestAgent	4000	0	task_04000(Int64 Timestamp100ns, Int32 EventPid, Int32 EventTid, UnicodeString Payload)		HeartBeat	task_0	Informational		

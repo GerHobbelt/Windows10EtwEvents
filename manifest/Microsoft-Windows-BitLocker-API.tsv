@@ -142,20 +142,6 @@ Microsoft-Windows-BitLocker-API	4120	0	task_04120()			task_0	Error
 Microsoft-Windows-BitLocker-API	4121	0	task_04121()			task_0	Error		
 Microsoft-Windows-BitLocker-API	4122	0	task_04122(UnicodeString LocalizedText)			task_0	Informational		
 Microsoft-Windows-BitLocker-API	4123	0	task_04123(UnicodeString VolumeMountPoint, UnicodeString ProtectorGUIDs, GUID TraceGUID)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4124	0	task_04124()			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4125	0	task_04125(HexInt32 Data)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4126	0	task_04126(HexInt32 Data1, HexInt32 Data2)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4127	0	task_04127(HexInt32 Data)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4128	0	task_04128(HexInt32 Data1, HexInt32 Data2)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4129	0	task_04129(UnicodeString HSTIImplID, HexInt32 Data1, HexInt32 Data2)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4130	0	task_04130(UnicodeString HSTIImplID, HexInt32 Data)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4131	0	task_04131(UnicodeString HSTIImplID, Boolean BoolData)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4132	0	task_04132(UnicodeString HSTIImplID, Boolean BoolData)			task_0	Error		
-Microsoft-Windows-BitLocker-API	4133	0	task_04133()			task_0	Error		
-Microsoft-Windows-BitLocker-API	4134	0	task_04134(UnicodeString HSTIImplID)			task_0	Warning		
-Microsoft-Windows-BitLocker-API	4135	0	task_04135(Boolean BoolData)			task_0	Informational		
-Microsoft-Windows-BitLocker-API	4136	0	task_04136(UInt32 SecFeatureIndex, UInt8 Data)			task_0	Error		
-Microsoft-Windows-BitLocker-API	4137	0	task_04137(UnicodeString HSTIImplID, UnicodeString ProviderErrorMsg)			task_0	Error		
 Microsoft-Windows-BitLocker-API	4138	0	task_04138(Int32 ErrorCode)			task_0	Informational		
 Microsoft-Windows-BitLocker-API	4139	0	task_04139(Int32 ErrorCode)			task_0	Error		
 Microsoft-Windows-BitLocker-API	4140	0	task_04140(GUID IdentificationGUID, UnicodeString VolumeName, UnicodeString VolumeMountPoint, Int32 ErrorCode)			task_0	Informational		

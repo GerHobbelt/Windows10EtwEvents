@@ -1,0 +1,2 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-IIS-WMSVC	8001	0	task_0PCODE_128pcode_128()	opcode_128		task_0	Always		

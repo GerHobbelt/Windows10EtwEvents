@@ -1,0 +1,427 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-ServiceFabric-Lease	1	0	Lease(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	2	0	Lease2()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	3	0	Lease3()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	4	0	Lease4()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	5	0	Lease5()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	6	0	Lease6()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	7	0	Lease7()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	8	0	Lease8()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	9	0	Lease9()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	10	0	Lease10()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	11	0	Lease11()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	12	0	Lease12()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	13	0	Lease13()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	14	0	Lease14()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	15	0	Lease15()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	16	0	Lease16()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	17	0	Lease17()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	18	0	Lease18()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	19	0	Lease19()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	20	0	Lease20()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	21	0	Lease21()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	22	0	Lease22()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	23	0	Lease23()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	24	0	Lease24()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	25	0	Lease25()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	26	0	Lease26()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	27	0	Lease27()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	28	0	Lease28()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	29	0	Lease29()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	30	0	Lease30()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	31	0	Lease31(UnicodeString arg1)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	32	0	Lease32(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	33	0	Lease33(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	34	0	Lease34(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	35	0	Lease35(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	36	0	Lease36(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	37	0	Lease37(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	38	0	Lease38(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int32 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	39	0	Lease39(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	40	0	Lease40(UnicodeString arg1, Int64 arg2, Int32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	41	0	Lease41(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	42	0	Lease42(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	43	0	Lease43(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	44	0	Lease44(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	45	0	Lease45(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	46	0	Lease46(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	47	0	Lease47(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	48	0	Lease48(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	49	0	Lease49(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	50	0	Lease50(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	51	0	Lease51(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	52	0	Lease52(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Int64 arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	53	0	Lease53(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Int64 arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	54	0	Lease54(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Int64 arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	55	0	Lease55(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	56	0	Lease56(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8, Int64 arg9)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	57	0	Lease57(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	58	0	Lease58(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	59	0	Lease59(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	60	0	Lease60(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	61	0	Lease61(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	62	0	Lease62(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	63	0	Lease63(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	64	0	Lease64(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	65	0	Lease65()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	66	0	Lease66()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	67	0	Lease67()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	68	0	Lease68(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	69	0	Lease69(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	70	0	Lease70(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	71	0	Lease71(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	72	0	Lease72(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	73	0	Lease73(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, UnicodeString arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	74	0	Lease74(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	75	0	Lease75(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	76	0	Lease76(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	77	0	Lease77(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, UnicodeString arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	78	0	Lease78(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	79	0	Lease79(UnicodeString arg1, Int64 arg2, UnicodeString arg3, UnicodeString arg4)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	80	0	Lease80(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	81	0	Lease81(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	82	0	Lease82(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	83	0	Lease83(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	84	0	Lease84(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	85	0	Lease85(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	86	0	Lease86(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	87	0	Lease87(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	88	0	Lease88(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	89	0	Lease89(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	90	0	Lease90(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	91	0	Lease91(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	92	0	Lease92(UnicodeString arg1, UnicodeString arg2, Int64 arg3, Int64 arg4, Int64 arg5, UnicodeString arg6, UnicodeString arg7, Int32 arg8, Int32 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	93	0	Lease93(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	94	0	Lease94(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	95	0	Lease95(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	96	0	Lease96(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, UnicodeString arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	97	0	Lease97(UnicodeString arg1, UnicodeString arg2, Int64 arg3, Int64 arg4, Int64 arg5, Int64 arg6, Int64 arg7)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	98	0	Lease98(UnicodeString arg1, UnicodeString arg2, Int64 arg3, Int64 arg4, Int64 arg5)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	99	0	Lease99(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	100	0	Lease100(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	101	0	Lease101(UnicodeString arg1, UnicodeString arg2, Int64 arg3, Int64 arg4, Int64 arg5, UnicodeString arg6, UnicodeString arg7, Int32 arg8, Int32 arg9, Boolean arg10)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	102	0	Lease102(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	103	0	Lease103(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	104	0	Lease104(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	105	0	Lease105(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	106	0	Lease106(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	107	0	Lease107(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	108	0	Lease108(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	109	0	Lease109(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	110	0	Lease110(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	111	0	Lease111(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	112	0	Lease112(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	113	0	Lease113(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	114	0	Lease114(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	115	0	Lease115(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	116	0	Lease116(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	117	0	Lease117(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	118	0	Lease118(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	119	0	Lease119(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	120	0	Lease120(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	121	0	Lease121(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	122	0	Lease122(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	123	0	Lease123(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	124	0	Lease124(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	125	0	Lease125(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	126	0	Lease126(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	127	0	Lease127(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	128	0	Lease128(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	129	0	Lease129(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	130	0	Lease130(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	131	0	Lease131(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	132	0	Lease132(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	133	0	Lease133(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	134	0	Lease134(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	135	0	Lease135(UnicodeString arg1, Int64 arg2, HexInt32 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	136	0	Lease136(UnicodeString arg1, Int64 arg2, HexInt32 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	137	0	Lease137()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	138	0	Lease138()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	139	0	Lease139()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	140	0	Lease140()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	141	0	Lease141()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	142	0	Lease142()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	143	0	Lease143()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	144	0	Lease144()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	145	0	Lease145()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	146	0	Lease146()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	147	0	Lease147()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	148	0	Lease148()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	149	0	Lease149()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	150	0	Lease150()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	151	0	Lease151()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	152	0	Lease152()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	153	0	Lease153(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	154	0	Lease154(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	155	0	Lease155(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	156	0	Lease156(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	157	0	Lease157(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	158	0	Lease158(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	159	0	Lease159(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	160	0	Lease160(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	161	0	Lease161(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	162	0	Lease162(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	163	0	Lease163(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	164	0	Lease164(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	165	0	Lease165(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	166	0	Lease166(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	167	0	Lease167(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	168	0	Lease168(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	169	0	Lease169(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	170	0	Lease170(UnicodeString arg1, UnicodeString arg2, Int64 arg3, UnicodeString arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	171	0	Lease171()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	172	0	Lease172()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	173	0	Lease173(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	174	0	Lease174()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	175	0	Lease175(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	176	0	Lease176(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	177	0	Lease177(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	178	0	Lease178(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	179	0	Lease179(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	180	0	Lease180(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	181	0	Lease181(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	182	0	Lease182(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	183	0	Lease183(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	184	0	Lease184(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	185	0	Lease185(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	186	0	Lease186(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	187	0	Lease187(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	188	0	Lease188(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4, UnicodeString arg5)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	189	0	Lease189(UnicodeString arg1, Int64 arg2, HexInt32 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	190	0	Lease190(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	191	0	Lease191(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	192	0	Lease192(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	193	0	Lease193(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	194	0	Lease194(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	195	0	Lease195(Int32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	196	0	Lease196(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	197	0	Lease197(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	198	0	Lease198(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	199	0	Lease199(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	200	0	Lease200(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	201	0	Lease201(UnicodeString arg1, UnicodeString arg2, Int32 arg3, UnicodeString arg4, Int64 arg5, Int64 arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	202	0	Lease202(UnicodeString arg1, UnicodeString arg2, Int32 arg3, UnicodeString arg4, Int64 arg5, Int64 arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	203	0	Lease203(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	204	0	Lease204(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4, Int64 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	205	0	Lease205(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4, Int64 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	206	0	Lease206(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	207	0	Lease207()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	208	0	Lease208(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	209	0	Lease209(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	210	0	Lease210(UnicodeString arg1, UnicodeString arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	211	0	Lease211(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	212	0	Lease212(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	213	0	Lease213(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	214	0	Lease214(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	215	0	Lease215()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	216	0	Lease216(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	217	0	Lease217(UnicodeString arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	218	0	Lease218(UnicodeString arg1, Int32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	219	0	Lease219(UnicodeString arg1, Int32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	220	0	Lease220(UnicodeString arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	221	0	Lease221(UnicodeString arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	222	0	Lease222(UnicodeString arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	223	0	Lease223(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, HexInt64 arg4, Boolean arg5, Int32 arg6, UnicodeString arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	224	0	Lease224(HexInt64 arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	225	0	Lease225(HexInt64 arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	226	0	Lease226(UnicodeString arg1, UnicodeString arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	227	0	Lease227(UnicodeString arg1, Int32 arg2, HexInt32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	228	0	Lease228(HexInt32 arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	229	0	Lease229(HexInt64 arg1, HexInt64 arg2, HexInt64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	230	0	Lease230(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4, Boolean arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	231	0	Lease231(UnicodeString arg1, UnicodeString arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	232	0	Lease232(HexInt32 arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	233	0	Lease233(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	234	0	Lease234(Int32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	235	0	Lease235(UnicodeString arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	236	0	Lease236(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	237	0	Lease237(UnicodeString arg1, UnicodeString arg2)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	238	0	Lease238(Int64 arg1, UnicodeString arg2, Int32 arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	239	0	Lease239(Int64 arg1, UnicodeString arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	240	0	Lease240(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, Int64 arg8)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	241	0	Lease241(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, Int64 arg8)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	242	0	Lease242(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	243	0	Lease243(Int64 arg1, Int64 arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	244	0	Lease244(Int64 arg1, Int64 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	245	0	Lease245(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	246	0	Lease246(Int64 arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	247	0	Lease247(Int64 arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	248	0	Lease248(HexInt32 arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	249	0	Lease249(UnicodeString arg1, Int32 arg2, Boolean arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	250	0	Lease250(UnicodeString arg1, UInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	251	0	Lease251(UnicodeString arg1, UInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	252	0	Lease252(UnicodeString arg1, UInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	253	0	Lease253(UnicodeString arg1, UInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	254	0	Lease254(UnicodeString arg1, Int32 arg2, Boolean arg3, Int64 arg4, Int32 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	255	0	Lease255(UnicodeString arg1, UInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	256	0	Lease256(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	257	0	Lease257(HexInt64 arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	258	0	Lease258()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	259	0	Lease259()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	260	0	Lease260()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	261	0	Lease261()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	262	0	Lease262()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	263	0	Lease263(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, Int32 arg5, Int32 arg6, Int32 arg7, Int64 arg8)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	264	0	Lease264(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, Int32 arg5, Int32 arg6, Int32 arg7, Int64 arg8)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	265	0	Lease265(UnicodeString arg1, Int64 arg2, Int64 arg3, UnicodeString arg4, Int64 arg5, Int64 arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	266	0	Lease266(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, Int64 arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	267	0	Lease267(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, Int64 arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	268	0	Lease268(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, Int64 arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	269	0	Lease269(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, UnicodeString arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	270	0	Lease270(UnicodeString arg1, UnicodeString arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	271	0	Lease271(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, HexInt32 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	272	0	Lease272(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, UnicodeString arg4, HexInt32 arg5)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	273	0	Lease273(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, UnicodeString arg4, HexInt32 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	274	0	Lease274(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, UnicodeString arg4, HexInt32 arg5)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	275	0	Lease275(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, UnicodeString arg4, HexInt32 arg5)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	276	0	Lease276(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, AnsiString arg4)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	277	0	Lease277(HexInt64 arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	278	0	Lease278(HexInt64 arg1, Int64 arg2, HexInt32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	279	0	Lease279(HexInt64 arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	280	0	Lease280(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, UInt64 arg4, UInt64 arg5, UInt64 arg6, UInt64 arg7, UInt64 arg8, UInt64 arg9, UInt64 arg10, UInt64 arg11, UInt64 arg12, UInt64 arg13)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	281	0	Lease281(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, HexInt32 arg4)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	282	0	Lease282(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, HexInt32 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	283	0	Lease283(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, HexInt32 arg4)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	284	0	Lease284(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, HexInt32 arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	285	0	Lease285(UnicodeString arg1, UInt64 arg2, UInt64 arg3, UInt64 arg4, UInt64 arg5, UInt64 arg6, UInt64 arg7)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	286	0	Lease286(UnicodeString arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	287	0	Lease287(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	288	0	Lease288(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	289	0	Lease289(Int64 arg1)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	290	0	Lease290(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, UInt64 arg4, Int64 arg5)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	291	0	Lease291(Int32 arg1, Int32 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	292	0	Lease292(UnicodeString arg1, Int64 arg2, Int64 arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	293	0	Lease293(UnicodeString arg1, UnicodeString arg2, HexInt64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	294	0	Lease294(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	295	0	Lease295(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	296	0	Lease296(UnicodeString arg1, Int32 arg2, Int32 arg3, Int32 arg4)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	297	0	Lease297(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	298	0	Lease298(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Boolean arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	299	0	Lease299(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	300	0	Lease300(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	301	0	Lease301(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	302	0	Lease302(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	303	0	Lease303(UnicodeString arg1, UnicodeString arg2, Int64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	304	0	Lease304(Int32 arg1, UnicodeString arg2, UInt32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	305	0	Lease305(Int32 arg1, HexInt32 arg2, HexInt32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	306	0	Lease306(HexInt64 arg1, HexInt64 arg2, HexInt64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	307	0	Lease307(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	308	0	Lease308(HexInt32 arg1)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	309	0	Lease309(UnicodeString arg1, UInt32 arg2, HexInt64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	310	0	Lease310(UnicodeString arg1, Int64 arg2, UnicodeString arg3, UInt32 arg4)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	311	0	Lease311(UnicodeString arg1, Int64 arg2, UInt32 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	312	0	Lease312(HexInt32 arg1, HexInt64 arg2, HexInt32 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	313	0	Lease313(HexInt64 arg1, HexInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	314	0	Lease314(HexInt64 arg1, HexInt32 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	315	0	Lease315()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	316	0	Lease316(HexInt64 arg1, UnicodeString arg2)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	317	0	Lease317()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	318	0	Lease318(HexInt64 arg1, HexInt32 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	319	0	Lease319(HexInt64 arg1, HexInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	320	0	Lease320(HexInt64 arg1, HexInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	321	0	Lease321(HexInt64 arg1, HexInt32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	322	0	Lease322(UnicodeString arg1, HexInt64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	323	0	Lease323(UnicodeString arg1, HexInt64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	324	0	Lease324(UnicodeString arg1, Int64 arg2, Int32 arg3, UnicodeString arg4, Int64 arg5, Int32 arg6)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	325	0	Lease325(UnicodeString arg1, Int64 arg2, HexInt64 arg3, UnicodeString arg4, UInt32 arg5)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	326	0	Lease326(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, UInt32 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	327	0	Lease327(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, UnicodeString arg4, UInt32 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	328	0	Lease328(HexInt64 arg1, UnicodeString arg2, HexInt32 arg3)		LeaseAgent	Lease	Verbose		
+Microsoft-ServiceFabric-Lease	329	0	Lease329(HexInt64 arg1, UnicodeString arg2, HexInt32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	330	0	Lease330(HexInt64 arg1, UnicodeString arg2, HexInt32 arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	331	0	Lease331(HexInt64 arg1, UnicodeString arg2, HexInt32 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	332	0	Lease332(UnicodeString arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	333	0	Lease333(UnicodeString arg1, HexInt32 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	334	0	Lease334(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, Boolean arg9)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	335	0	Lease335(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, Boolean arg9)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	336	0	Lease336(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	337	0	Lease337(HexInt64 arg1, UnicodeString arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	338	0	Lease338(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	339	0	Lease339(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	340	0	Lease340(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	341	0	Lease341(UnicodeString arg1, HexInt32 arg2)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	342	0	Lease342(HexInt64 arg1, Int64 arg2, HexInt32 arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	343	0	Lease343(Int64 arg1, UnicodeString arg2)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	344	0	Lease344(Int32 arg1, Int32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	345	0	Lease345(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4, Int32 arg5, Int64 arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	346	0	Lease346(UnicodeString arg1, Int32 arg2, Int32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	347	0	Lease347(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	348	0	Lease348(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4, Int32 arg5, Int32 arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	349	0	Lease349(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4, Int32 arg5, Int32 arg6, Boolean arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	350	0	Lease350(UnicodeString arg1, Int64 arg2, Int32 arg3, Int64 arg4, Int64 arg5, Int64 arg6, Boolean arg7)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	351	0	Lease351(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	352	0	Lease352(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4, Int32 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	353	0	Lease353(Int64 arg1)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	354	0	Lease354(Int64 arg1, Int64 arg2, Int64 arg3)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	355	0	Lease355()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	356	0	Lease356(UnicodeString arg1, Int64 arg2, Int32 arg3, Boolean arg4, Int64 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	357	0	Lease357(UnicodeString arg1, UnicodeString arg2, UInt64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	358	0	Lease358(UnicodeString arg1, Int32 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	359	0	Lease359(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4, Int32 arg5, Int32 arg6)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	360	0	Lease360(UnicodeString arg1, Int64 arg2, Int64 arg3, Int32 arg4)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	361	0	Lease361()		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	362	0	Lease362(UnicodeString arg1, Int32 arg2, Int32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	363	0	Lease363(UnicodeString arg1, Int32 arg2, Int32 arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	364	0	Lease364()		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	365	0	Lease365(Int64 arg1, Int64 arg2, Int32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	366	0	Lease366(Int64 arg1, Int64 arg2, Int32 arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	367	0	Lease367()		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	368	0	Lease368(Int64 arg1, Int64 arg2, Int32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	369	0	Lease369(Int32 arg1, Int32 arg2, Int32 arg3, Int32 arg4, Int32 arg5, Int32 arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	370	0	Lease370(Int32 arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	371	0	Lease371(Int32 arg1, UnicodeString arg2, UnicodeString arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	372	0	Lease372(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, Int64 arg5, Int64 arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	373	0	Lease373(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, Int64 arg5)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	374	0	Lease374(UnicodeString arg1, Int64 arg2, Int32 arg3, Int64 arg4, Int64 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	375	0	Lease375(UnicodeString arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	376	0	Lease376(UnicodeString arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	377	0	Lease377(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	378	0	Lease378(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, Int64 arg8)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	379	0	Lease379(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	380	0	Lease380(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UInt64 arg5, UInt64 arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	381	0	Lease381(Boolean arg1, UnicodeString arg2, UInt64 arg3, Boolean arg4, UnicodeString arg5, UInt64 arg6, UnicodeString arg7, UnicodeString arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	382	0	Lease382(UnicodeString arg1)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	383	0	Lease383(UnicodeString arg1, UInt64 arg2, UnicodeString arg3, UInt64 arg4, UnicodeString arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	384	0	Lease384(UnicodeString arg1, UInt64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, UnicodeString arg9, Int32 arg10, Int32 arg11)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	385	0	Lease385(UnicodeString arg1, UInt64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, UnicodeString arg9, Int32 arg10, Int32 arg11)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	386	0	Lease386(UnicodeString arg1, UInt64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, UnicodeString arg9, Int32 arg10, Int32 arg11)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	387	0	Lease387(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Boolean arg10)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	388	0	Lease388(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Boolean arg10)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	389	0	Lease389(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Boolean arg10)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	390	0	Lease390(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Boolean arg10)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	391	0	Lease391(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Boolean arg7, Int64 arg8, Int64 arg9, Int64 arg10, Int32 arg11)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	392	0	Lease392(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	393	0	Lease393(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Boolean arg9, Int64 arg10, Int64 arg11, Boolean arg12)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	394	0	Lease394(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, Int64 arg8)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	395	0	Lease395(UnicodeString arg1, Int64 arg2, Int32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	396	0	Lease396(UnicodeString arg1, Int64 arg2, Int32 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	397	0	Lease397(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, Int64 arg7, Int64 arg8)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	398	0	Lease398(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	399	0	Lease399(HexInt64 arg1, HexInt64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	400	0	Lease400(UnicodeString arg1, UnicodeString arg2, HexInt64 arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	401	0	Lease401(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	402	0	Lease402(UnicodeString arg1, Int64 arg2, Int32 arg3, Boolean arg4, Int64 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	403	0	Lease403(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	404	0	Lease404(UnicodeString arg1, Int64 arg2)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	405	0	Lease405(UnicodeString arg1, Int64 arg2, UnicodeString arg3)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	406	0	Lease406(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Int64 arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	407	0	Lease407(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	408	0	Lease408(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	409	0	Lease409(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Int64 arg10, UnicodeString arg11, Int64 arg12)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	410	0	Lease410(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Int64 arg10, UnicodeString arg11, Int64 arg12)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	411	0	Lease411(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Int64 arg10, Int64 arg11, UnicodeString arg12)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	412	0	Lease412(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	413	0	Lease413(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4, Int32 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	414	0	Lease414(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4, Int32 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	415	0	Lease415(UnicodeString arg1, Int64 arg2, Int32 arg3, Int32 arg4, Int32 arg5)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	416	0	Lease416(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, UnicodeString arg9, Boolean arg10, Int64 arg11, Int64 arg12, Int64 arg13, Int64 arg14)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	417	0	Lease417(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, UnicodeString arg9, Boolean arg10, Int64 arg11)		LeaseAgent	Lease	Error		
+Microsoft-ServiceFabric-Lease	418	0	Lease418(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, UnicodeString arg9, Boolean arg10)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	419	0	Lease419(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, UnicodeString arg9, Boolean arg10, Int64 arg11, Int64 arg12, Int64 arg13)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	420	0	Lease420(UnicodeString arg1, Int64 arg2, UnicodeString arg3, Int64 arg4, Int64 arg5, Int64 arg6, UnicodeString arg7, UnicodeString arg8, UnicodeString arg9, Boolean arg10, Boolean arg11, Int64 arg12, Int64 arg13, Int64 arg14)		LeaseAgent	Lease	Warning		
+Microsoft-ServiceFabric-Lease	421	0	Lease421(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Int64 arg10, Int64 arg11, Int64 arg12, Int64 arg13, Int64 arg14)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	422	0	Lease422(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Int64 arg10, Int64 arg11, Int64 arg12, Int64 arg13, Int64 arg14, Int64 arg15, Int64 arg16, Int64 arg17)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	423	0	Lease423(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, UnicodeString arg9, Int64 arg10, UnicodeString arg11, UnicodeString arg12, UnicodeString arg13, UnicodeString arg14, UnicodeString arg15, UnicodeString arg16)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	424	0	Lease424(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Int32 arg8, Int32 arg9, Boolean arg10)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	425	0	Lease425(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9)		LeaseAgent	Lease	Informational		
+Microsoft-ServiceFabric-Lease	426	0	Lease426(UnicodeString arg1, Int64 arg2, Int64 arg3, Int64 arg4, UnicodeString arg5, UnicodeString arg6, UnicodeString arg7, Boolean arg8, Int64 arg9, Int64 arg10, Int64 arg11, UnicodeString arg12)		LeaseAgent	Lease	Informational		

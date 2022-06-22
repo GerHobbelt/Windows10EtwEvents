@@ -1,0 +1,143 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-IIS-W3SVC	1001	0	task_0PCODE_128pcode_128()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1002	0	task_0PCODE_192pcode_192()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1003	0	task_0PCODE_192pcode_1921003(UnicodeString UrlPrefix, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1004	0	task_0PCODE_192pcode_1921004(UnicodeString UrlPrefix, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1005	0	task_0PCODE_192pcode_1921005(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1006	0	task_0PCODE_192pcode_1921006()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1007	0	task_0PCODE_192pcode_1921007(UnicodeString UrlPrefix, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1008	0	task_0PCODE_128pcode_1281008()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1009	0	task_0PCODE_128pcode_1281009()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1010	0	task_0PCODE_128pcode_1281010()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1011	0	task_0PCODE_128pcode_1281011()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1012	0	task_0PCODE_128pcode_1281012()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1013	0	task_0PCODE_128pcode_1281013()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1014	0	task_0PCODE_128pcode_1281014()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1015	0	task_0PCODE_192pcode_1921015()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1016	0	task_0PCODE_128pcode_1281016(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1017	0	task_0PCODE_192pcode_1921017()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1018	0	task_0PCODE_192pcode_1921018(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1019	0	task_0PCODE_128pcode_1281019()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1020	0	task_0PCODE_192pcode_1921020(UnicodeString HttpSysControlChannelProperty, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1021	0	task_0PCODE_128pcode_1281021()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1022	0	task_0PCODE_128pcode_1281022()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1023	0	task_0PCODE_192pcode_1921023()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1024	0	task_0PCODE_192pcode_1921024()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1025	0	task_0PCODE_128pcode_1281025()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1026	0	task_0PCODE_192pcode_1921026(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1027	0	task_0PCODE_192pcode_1921027(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1028	0	task_0PCODE_192pcode_1921028()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1029	0	task_0PCODE_192pcode_1921029(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1030	0	task_0PCODE_192pcode_1921030()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1031	0	task_0PCODE_192pcode_1921031()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1032	0	task_0PCODE_192pcode_1921032(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1033	0	task_0PCODE_192pcode_1921033(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1034	0	task_0PCODE_192pcode_1921034(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1035	0	task_0PCODE_192pcode_1921035(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1036	0	task_0PCODE_192pcode_1921036()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1037	0	task_0PCODE_192pcode_1921037(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1038	0	task_0PCODE_192pcode_1921038()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1039	0	task_0PCODE_128pcode_1281039()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1040	0	task_0PCODE_192pcode_1921040()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1041	0	task_0PCODE_128pcode_1281041(UnicodeString param1, UnicodeString param2, UnicodeString Property, UnicodeString Value, UnicodeString RangeLow, UnicodeString RangeHigh, UnicodeString DefaultValue)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1042	0	task_0PCODE_128pcode_1281042(UnicodeString AppPoolID, UnicodeString CmdValue)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1043	0	task_0PCODE_128pcode_1281043(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1044	0	task_0PCODE_128pcode_1281044(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1045	0	task_0PCODE_128pcode_1281045()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1046	0	task_0PCODE_128pcode_1281046()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1047	0	task_0PCODE_128pcode_1281047()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1048	0	task_0PCODE_128pcode_1281048()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1049	0	task_0PCODE_128pcode_1281049()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1050	0	task_0PCODE_128pcode_1281050()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1051	0	task_0PCODE_128pcode_1281051()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1052	0	task_0PCODE_128pcode_1281052()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1053	0	task_0PCODE_192pcode_1921053()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1054	0	task_0PCODE_192pcode_1921054()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1055	0	task_0PCODE_128pcode_1281055()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1056	0	task_0PCODE_128pcode_1281056()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1057	0	task_0PCODE_128pcode_1281057()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1058	0	task_0PCODE_128pcode_1281058()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1059	0	task_0PCODE_192pcode_1921059()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1060	0	task_0PCODE_192pcode_1921060()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1061	0	task_0PCODE_192pcode_1921061()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1062	0	task_0PCODE_192pcode_1921062(UnicodeString LogEnabled, UnicodeString LogFileDirectory, UnicodeString LogPeriod, UnicodeString LogTruncateSize, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1063	0	task_0PCODE_192pcode_1921063()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1064	0	task_0PCODE_192pcode_1921064()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1065	0	task_0PCODE_128pcode_1281065()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1066	0	task_0PCODE_192pcode_1921066()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1067	0	task_0PCODE_128pcode_1281067()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1068	0	task_0PCODE_128pcode_1281068()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1069	0	task_0PCODE_128pcode_1281069()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1070	0	task_0PCODE_128pcode_1281070()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1071	0	task_0PCODE_128pcode_1281071(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1072	0	task_0PCODE_128pcode_1281072(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1073	0	task_0PCODE_128pcode_1281073()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1074	0	task_0PCODE_64pcode_64()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1075	0	task_0PCODE_64pcode_641075()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1076	0	task_0PCODE_64pcode_641076()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1077	0	task_0PCODE_64pcode_641077()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1078	0	task_0PCODE_64pcode_641078()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1079	0	task_0PCODE_64pcode_641079()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1080	0	task_0PCODE_64pcode_641080()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1081	0	task_0PCODE_64pcode_641081()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1082	0	task_0PCODE_64pcode_641082()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1083	0	task_0PCODE_192pcode_1921083()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1084	0	task_0PCODE_192pcode_1921084(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1085	0	task_0PCODE_192pcode_1921085()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1086	0	task_0PCODE_192pcode_1921086(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1087	0	task_0PCODE_192pcode_1921087(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1088	0	task_0PCODE_192pcode_1921088()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1089	0	task_0PCODE_192pcode_1921089(UnicodeString AppPoolID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1090	0	task_0PCODE_192pcode_1921090()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1091	0	task_0PCODE_192pcode_1921091()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1092	0	task_0PCODE_192pcode_1921092()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1093	0	task_0PCODE_192pcode_1921093()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1094	0	task_0PCODE_192pcode_1921094()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1095	0	task_0PCODE_192pcode_1921095(UnicodeString Application, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1096	0	task_0PCODE_192pcode_1921096(UnicodeString Application, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1097	0	task_0PCODE_192pcode_1921097(UnicodeString Application, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1098	0	task_0PCODE_192pcode_1921098(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1099	0	task_0PCODE_192pcode_1921099(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1100	0	task_0PCODE_192pcode_1921100()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1101	0	task_0PCODE_192pcode_1921101()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1102	0	task_0PCODE_192pcode_1921102()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1103	0	task_0PCODE_192pcode_1921103()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1104	0	task_0PCODE_192pcode_1921104()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1105	0	task_0PCODE_192pcode_1921105()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1106	0	task_0PCODE_192pcode_1921106()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1107	0	task_0PCODE_192pcode_1921107()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1108	0	task_0PCODE_192pcode_1921108()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1109	0	task_0PCODE_192pcode_1921109(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1110	0	task_0PCODE_192pcode_1921110()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1111	0	task_0PCODE_192pcode_1921111()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1112	0	task_0PCODE_192pcode_1921112()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1113	0	task_0PCODE_192pcode_1921113()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1114	0	task_0PCODE_192pcode_1921114()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1115	0	task_0PCODE_192pcode_1921115()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1116	0	task_0PCODE_192pcode_1921116()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1117	0	task_0PCODE_64pcode_641117()	opcode_64		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1118	0	task_0PCODE_192pcode_1921118()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1119	0	task_0PCODE_192pcode_1921119()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1120	0	task_0PCODE_192pcode_1921120(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1121	0	task_0PCODE_192pcode_1921121(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1122	0	task_0PCODE_192pcode_1921122(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1123	0	task_0PCODE_192pcode_1921123(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1124	0	task_0PCODE_192pcode_1921124(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1125	0	task_0PCODE_192pcode_1921125(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1126	0	task_0PCODE_192pcode_1921126(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1127	0	task_0PCODE_128pcode_1281127()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1128	0	task_0PCODE_192pcode_1921128(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1129	0	task_0PCODE_192pcode_1921129(UnicodeString UrlPrefix, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1130	0	task_0PCODE_192pcode_1921130(UnicodeString UrlPrefix, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1131	0	task_0PCODE_192pcode_1921131(UnicodeString UrlPrefix, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1132	0	task_0PCODE_128pcode_1281132()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1133	0	task_0PCODE_128pcode_1281133()	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1134	0	task_0PCODE_192pcode_1921134(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1135	0	task_0PCODE_192pcode_1921135(UnicodeString LogEnabled, UnicodeString LogFileDirectory, UnicodeString LogPeriod, UnicodeString LogTruncateSize, UnicodeString LogExtFileFlags, UnicodeString LocalTimeRollover, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1168	0	task_0PCODE_192pcode_1921168(UnicodeString ProtocolID, UnicodeString Application, UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1172	0	task_0PCODE_128pcode_1281172(UnicodeString SiteID, UInt32 __binLength, Binary binary)	opcode_128		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1173	0	task_0PCODE_192pcode_1921173(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1174	0	task_0PCODE_192pcode_1921174(UnicodeString SiteID, UnicodeString BindingString, UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1175	0	task_0PCODE_192pcode_1921175(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1176	0	task_0PCODE_192pcode_1921176(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC	1177	0	task_0PCODE_192pcode_1921177(UInt32 __binLength, Binary binary)	opcode_192		task_0	Always		

@@ -129,6 +129,7 @@ Microsoft-Windows-SMBServer	1045	0	task_01045(UInt16 ServerNameLength, UnicodeSt
 Microsoft-Windows-SMBServer	1046	0	task_01046(UInt16 ShareNameLength, UnicodeString ShareName, UInt16 ClientNameLength, UnicodeString ClientName, UInt16 UserNameLength, UnicodeString UserName, UInt32 ClientAddressLength, Binary ClientAddress, HexInt64 SessionID, UInt16 Smb2Command)		Operational	task_0	Warning		
 Microsoft-Windows-SMBServer	1047	0	task_01047(UInt32 InstanceId, UInt16 Smb2Command, UInt16 Smb2PerfBlock, UInt64 Duration, UInt64 Threshold)		Operational	task_0	Warning		
 Microsoft-Windows-SMBServer	1048	0	task_01048(UInt16 Smb2Command, UInt64 AcquireLockTime, UInt64 IoTime, UInt64 TotalTime, UInt64 Threshold)		Operational	task_0	Informational		
+Microsoft-Windows-SMBServer	1050	0	task_01050(UInt32 InterfaceID, UInt32 NumberOfEndpointsFound, UInt32 NumberOfEndpointsClosed)		Nsi	task_0	Informational		
 Microsoft-Windows-SMBServer	1800	0	SSClusterCaFailure(UInt16 ServerNameLength, UnicodeString ServerName, UInt16 ShareNameLength, UnicodeString ShareName)		Operational	SSClusterCaFailure	Error		
 Microsoft-Windows-SMBServer	1801	0	SSRkfCaFailure(UInt16 ServerNameLength, UnicodeString ServerName, UInt16 ShareNameLength, UnicodeString ShareName, UInt32 Status)		Operational	SSRkfCaFailure	Error		
 Microsoft-Windows-SMBServer	1802	0	SrvNetGetNextIdFailure(UInt32 Status)		Operational	SrvNetGetNextIdFailure	Error		

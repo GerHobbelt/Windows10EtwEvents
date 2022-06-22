@@ -1,0 +1,106 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-Management-UI	257	0	CommandBase.Executehasbeencalled.Start()	Start		CommandBase.Executehasbeencalled.	Informational		
+Microsoft-Windows-Management-UI	258	0	CommandBase.Executehasbeencalled.Stop()	Stop		CommandBase.Executehasbeencalled.	Informational		
+Microsoft-Windows-Management-UI	259	0	CommandBase.CanExecutehasbeencalled.Start()	Start		CommandBase.CanExecutehasbeencalled.	Informational		
+Microsoft-Windows-Management-UI	260	0	CommandBase.CanExecutehasbeencalled.Stop()	Stop		CommandBase.CanExecutehasbeencalled.	Informational		
+Microsoft-Windows-Management-UI	261	0	task_0()			task_0	Informational		
+Microsoft-Windows-Management-UI	262	0	OnOpenedeventstarted,DismissiblePopupisinitializingStart()	Start		OnOpenedeventstarted,DismissiblePopupisinitializing	Informational		
+Microsoft-Windows-Management-UI	263	0	OnOpenedeventcompleted,DismissiblePopupisreadytoshowupStop()	Stop		OnOpenedeventcompleted,DismissiblePopupisreadytoshowup	Informational		
+Microsoft-Windows-Management-UI	264	0	DeveloperDebugInformation(UnicodeString componentName, UnicodeString message)			DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	1281	0	ActionContextMenuupdatemenuitems.Start(UInt32 actionsCount)	Start		ActionContextMenuupdatemenuitems.	Informational		
+Microsoft-Windows-Management-UI	1282	0	ActionContextMenuupdatemenuitems.(UInt32 menuItemsCount, UInt32 submenusCount, UInt32 submenuItemsCounts)			ActionContextMenuupdatemenuitems.	Informational		
+Microsoft-Windows-Management-UI	1283	0	ActionContextMenuupdatemenuitems.1283(UInt32 menuItemsCount, UInt32 submenusCount, UInt32 submenuItemsCounts)			ActionContextMenuupdatemenuitems.	Informational		
+Microsoft-Windows-Management-UI	1286	0	ActionContextMenuupdatemenuitems.Stop()	Stop		ActionContextMenuupdatemenuitems.	Informational		
+Microsoft-Windows-Management-UI	1537	0	NavigationServiceselecteditemchangedto%1.Stop(UnicodeString navItemPath)	Stop		NavigationServiceselecteditemchangedto%1.	Informational		
+Microsoft-Windows-Management-UI	1538	0	NavigationHistorynavigatingtohistoryitemfor%1.(UnicodeString navItemPath)			NavigationHistorynavigatingtohistoryitemfor%1.	Informational		
+Microsoft-Windows-Management-UI	1539	0	NavigationServiceselecteditemchangedto%1.Start(UnicodeString navItemPath)	Start		NavigationServiceselecteditemchangedto%1.	Informational		
+Microsoft-Windows-Management-UI	1540	0	ViewManagerOnShow.Start(UnicodeString navItemPath)	Start		ViewManagerOnShow.	Informational		
+Microsoft-Windows-Management-UI	1541	0	ViewManagerOnShow.Stop(UnicodeString navItemPath)	Stop		ViewManagerOnShow.	Informational		
+Microsoft-Windows-Management-UI	1542	0	ViewManagerOnHide.Start(UnicodeString navItemPath)	Start		ViewManagerOnHide.	Informational		
+Microsoft-Windows-Management-UI	1543	0	ViewManagerOnHide.Stop(UnicodeString navItemPath)	Stop		ViewManagerOnHide.	Informational		
+Microsoft-Windows-Management-UI	1544	0	ViewManagerViewCreation.Start(UnicodeString navItemPath)	Start		ViewManagerViewCreation.	Informational		
+Microsoft-Windows-Management-UI	1545	0	ViewManagerViewCreation.Stop(UnicodeString navItemPath)	Stop		ViewManagerViewCreation.	Informational		
+Microsoft-Windows-Management-UI	1546	0	ViewManagerViewUpdate.Start(UnicodeString navItemPath)	Start		ViewManagerViewUpdate.	Informational		
+Microsoft-Windows-Management-UI	1547	0	ViewManagerViewUpdate.Stop(UnicodeString navItemPath)	Stop		ViewManagerViewUpdate.	Informational		
+Microsoft-Windows-Management-UI	1548	0	NavigationServiceselecteditemchangedto%1.(UnicodeString navItemPath, UnicodeString errorString)			NavigationServiceselecteditemchangedto%1.	Error		
+Microsoft-Windows-Management-UI	1549	0	ViewManagerOnShow.(UnicodeString navItemPath, UnicodeString errorString)			ViewManagerOnShow.	Error		
+Microsoft-Windows-Management-UI	1550	0	ViewManagerOnHide.(UnicodeString navItemPath, UnicodeString errorString)			ViewManagerOnHide.	Error		
+Microsoft-Windows-Management-UI	1551	0	ViewManagerViewCreation.(UnicodeString navItemPath, UnicodeString errorString)			ViewManagerViewCreation.	Error		
+Microsoft-Windows-Management-UI	1552	0	ViewManagerViewCleanup.Start(UnicodeString navItemPath)	Start		ViewManagerViewCleanup.	Informational		
+Microsoft-Windows-Management-UI	1553	0	ViewManagerViewCleanup.Stop(UnicodeString navItemPath)	Stop		ViewManagerViewCleanup.	Informational		
+Microsoft-Windows-Management-UI	1554	0	ViewManagerViewCleanup.(UnicodeString navItemPath, UnicodeString errorString)			ViewManagerViewCleanup.	Error		
+Microsoft-Windows-Management-UI	1555	0	BookmarkConverterConvertToNavigationItem.Start(UnicodeString navItemPath)	Start		BookmarkConverterConvertToNavigationItem.	Informational		
+Microsoft-Windows-Management-UI	1556	0	BookmarkConverterConvertToNavigationItem.Stop(UnicodeString navItemPath)	Stop		BookmarkConverterConvertToNavigationItem.	Informational		
+Microsoft-Windows-Management-UI	1557	0	BookmarkConverterConvertToNavigationItem.(UnicodeString navItemPath, UnicodeString errorString)			BookmarkConverterConvertToNavigationItem.	Error		
+Microsoft-Windows-Management-UI	1558	0	BookmarkConverterConvertToBookmark.Start(UnicodeString navItemPath)	Start		BookmarkConverterConvertToBookmark.	Informational		
+Microsoft-Windows-Management-UI	1559	0	BookmarkConverterConvertToBookmark.Stop(UnicodeString navItemPath)	Stop		BookmarkConverterConvertToBookmark.	Informational		
+Microsoft-Windows-Management-UI	1560	0	BookmarkConverterConvertToBookmark.(UnicodeString navItemPath, UnicodeString errorString)			BookmarkConverterConvertToBookmark.	Error		
+Microsoft-Windows-Management-UI	1561	0	PathConverterConvertToNavigationItem.Start(UnicodeString navItemPath)	Start		PathConverterConvertToNavigationItem.	Informational		
+Microsoft-Windows-Management-UI	1562	0	PathConverterConvertToNavigationItem.Stop(UnicodeString navItemPath)	Stop		PathConverterConvertToNavigationItem.	Informational		
+Microsoft-Windows-Management-UI	1563	0	PathConverterConvertToNavigationItem.(UnicodeString navItemPath, UnicodeString errorString)			PathConverterConvertToNavigationItem.	Error		
+Microsoft-Windows-Management-UI	1564	0	PathConverterConvertToPath.Start(UnicodeString navItemPath)	Start		PathConverterConvertToPath.	Informational		
+Microsoft-Windows-Management-UI	1565	0	PathConverterConvertToPath.Stop(UnicodeString navItemPath)	Stop		PathConverterConvertToPath.	Informational		
+Microsoft-Windows-Management-UI	1566	0	PathConverterConvertToPath.(UnicodeString navItemPath, UnicodeString errorString)			PathConverterConvertToPath.	Error		
+Microsoft-Windows-Management-UI	1793	0	WizardFrameworkOnPageEnter.Start(UnicodeString pageTitle)	Start		WizardFrameworkOnPageEnter.	Informational		
+Microsoft-Windows-Management-UI	1794	0	WizardFrameworkOnPageEnter.Stop(UnicodeString pageTitle)	Stop		WizardFrameworkOnPageEnter.	Informational		
+Microsoft-Windows-Management-UI	1795	0	WizardFrameworkOnPageLeave.Start(UnicodeString pageTitle)	Start		WizardFrameworkOnPageLeave.	Informational		
+Microsoft-Windows-Management-UI	1796	0	WizardFrameworkOnPageLeave.Stop(UnicodeString pageTitle)	Stop		WizardFrameworkOnPageLeave.	Informational		
+Microsoft-Windows-Management-UI	1797	0	WizardFrameworkValidate.Start(UnicodeString pageTitle)	Start		WizardFrameworkValidate.	Informational		
+Microsoft-Windows-Management-UI	1798	0	WizardFrameworkValidate.Stop(UnicodeString pageTitle)	Stop		WizardFrameworkValidate.	Informational		
+Microsoft-Windows-Management-UI	1799	0	WizardFrameworkOnCancel.Start(UnicodeString pageTitle)	Start		WizardFrameworkOnCancel.	Informational		
+Microsoft-Windows-Management-UI	1800	0	WizardFrameworkOnCancel.Stop(UnicodeString pageTitle)	Stop		WizardFrameworkOnCancel.	Informational		
+Microsoft-Windows-Management-UI	1801	0	WizardFrameworkViewCreation.Start(UnicodeString pageTitle)	Start		WizardFrameworkViewCreation.	Informational		
+Microsoft-Windows-Management-UI	1802	0	WizardFrameworkViewCreation.Stop(UnicodeString pageTitle)	Stop		WizardFrameworkViewCreation.	Informational		
+Microsoft-Windows-Management-UI	1803	0	WizardFrameworkViewUpdate.Start(UnicodeString pageTitle)	Start		WizardFrameworkViewUpdate.	Informational		
+Microsoft-Windows-Management-UI	1804	0	WizardFrameworkViewUpdate.Stop(UnicodeString pageTitle)	Stop		WizardFrameworkViewUpdate.	Informational		
+Microsoft-Windows-Management-UI	1805	0	WizardFrameworkOnPageEnter.(UnicodeString pageTitle, UnicodeString errorString)			WizardFrameworkOnPageEnter.	Error		
+Microsoft-Windows-Management-UI	1806	0	WizardFrameworkOnPageLeave.(UnicodeString pageTitle, UnicodeString errorString)			WizardFrameworkOnPageLeave.	Error		
+Microsoft-Windows-Management-UI	1807	0	WizardFrameworkValidate.(UnicodeString pageTitle, UnicodeString errorString)			WizardFrameworkValidate.	Error		
+Microsoft-Windows-Management-UI	1808	0	WizardFrameworkOnCancel.(UnicodeString pageTitle, UnicodeString errorString)			WizardFrameworkOnCancel.	Error		
+Microsoft-Windows-Management-UI	1809	0	task_01809(UnicodeString componentName, UnicodeString message)			task_0	Informational		
+Microsoft-Windows-Management-UI	2049	0	Registeringjob.JobID:%1.(GUID jobID)			Registeringjob.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2050	0	Deregisteringjob.JobID:%1.(GUID jobID)			Deregisteringjob.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2051	0	ExecutingStopTrackingJobAction.JobID:%1.(GUID jobID)			ExecutingStopTrackingJobAction.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2052	0	Processingjobaction.JobID:%1.(GUID jobID)			Processingjobaction.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2053	0	Jobenteredactivejobslist.JobID:%1.(GUID jobID)			Jobenteredactivejobslist.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2054	0	Jobexitedactivejobslist.JobID:%1.(GUID jobID)			Jobexitedactivejobslist.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2055	0	Jobreleased.JobID:%1.(GUID jobID)			Jobreleased.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2056	0	RegisteringjobRouter.JobSourceID:%1.(GUID jobSourceID)			RegisteringjobRouter.JobSourceID:%1.	Informational		
+Microsoft-Windows-Management-UI	2057	0	DeregisteringjobRouter.JobSourceID:%1.(GUID jobSourceID)			DeregisteringjobRouter.JobSourceID:%1.	Informational		
+Microsoft-Windows-Management-UI	2058	0	Makeroomfornewjob.JobID:%1.(GUID jobID)			Makeroomfornewjob.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2059	0	Jobaddtohistory.JobID:%1.(GUID jobID)			Jobaddtohistory.JobID:%1.	Informational		
+Microsoft-Windows-Management-UI	2305	0	MachinePickerActiveDirectorySearch.Start()	Start		MachinePickerActiveDirectorySearch.	Informational		
+Microsoft-Windows-Management-UI	2306	0	MachinePickerActiveDirectorySearch.Stop(Int32 foundMachineCount, Int64 elapsedMiliseconds)	Stop		MachinePickerActiveDirectorySearch.	Informational		
+Microsoft-Windows-Management-UI	2307	0	MachinePickerActiveDirectoryInitialize.Start()	Start		MachinePickerActiveDirectoryInitialize.	Informational		
+Microsoft-Windows-Management-UI	2308	0	MachinePickerActiveDirectoryInitialize.Stop(Boolean success)	Stop		MachinePickerActiveDirectoryInitialize.	Informational		
+Microsoft-Windows-Management-UI	2309	0	MachinePickerActiveDirectoryBCBLDAPSearch.Start()	Start		MachinePickerActiveDirectoryBCBLDAPSearch.	Informational		
+Microsoft-Windows-Management-UI	2310	0	MachinePickerActiveDirectoryBCBLDAPSearch.Stop(Boolean success)	Stop		MachinePickerActiveDirectoryBCBLDAPSearch.	Informational		
+Microsoft-Windows-Management-UI	2311	0	MachinePickerNetworkSearch.Start(GUID searchId)	Start		MachinePickerNetworkSearch.	Informational		
+Microsoft-Windows-Management-UI	2312	0	MachinePickerNetworkSearch.Stop(GUID searchId)	Stop		MachinePickerNetworkSearch.	Informational		
+Microsoft-Windows-Management-UI	2313	0	MachinePickerFileImport.Start()	Start		MachinePickerFileImport.	Informational		
+Microsoft-Windows-Management-UI	2314	0	MachinePickerFileImport.Stop()	Stop		MachinePickerFileImport.	Informational		
+Microsoft-Windows-Management-UI	2315	0	MachinePickerActiveDirectorySearch.()			MachinePickerActiveDirectorySearch.	Informational		
+Microsoft-Windows-Management-UI	2316	0	MachinePickerActiveDirectoryInitialize.(UnicodeString exception)			MachinePickerActiveDirectoryInitialize.	Informational		
+Microsoft-Windows-Management-UI	2317	0	MachinePickerActiveDirectoryInitialize.2317(UnicodeString exception)			MachinePickerActiveDirectoryInitialize.	Informational		
+Microsoft-Windows-Management-UI	2318	0	MachinePickerActiveDirectorySearch.2318(UnicodeString exception)			MachinePickerActiveDirectorySearch.	Informational		
+Microsoft-Windows-Management-UI	2319	0	MachinePickerNetworkSearch.(UnicodeString exception)			MachinePickerNetworkSearch.	Informational		
+Microsoft-Windows-Management-UI	2320	0	MachinePickerFileImport.(UnicodeString exception)			MachinePickerFileImport.	Informational		
+Microsoft-Windows-Management-UI	2561	0	DataGridrefreshfinished.Stop()	Stop		DataGridrefreshfinished.	Informational		
+Microsoft-Windows-Management-UI	2817	0	DeveloperDebugInformationStart(UnicodeString componentName, UnicodeString message)	Start		DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	2818	0	DeveloperDebugInformationStop(UnicodeString componentName, UnicodeString message)	Stop		DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	2819	0	DeveloperDebugInformationStart2819(UnicodeString componentName, UnicodeString message)	Start		DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	2820	0	DeveloperDebugInformationStop2820(UnicodeString componentName, UnicodeString message)	Stop		DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	2821	0	DeveloperDebugInformationStart2821(UnicodeString componentName, UnicodeString message)	Start		DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	2822	0	DeveloperDebugInformationStop2822(UnicodeString componentName, UnicodeString message)	Stop		DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	2823	0	DeveloperDebugInformationStart2823(UnicodeString componentName, UnicodeString message)	Start		DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	2824	0	DeveloperDebugInformationStop2824(UnicodeString componentName, UnicodeString message)	Stop		DeveloperDebugInformation	Informational		
+Microsoft-Windows-Management-UI	3073	0	SplitterPanel.MakeVisibleStart(UnicodeString visualType, Double inRect_x, Double inRect_y, Double inRect_width, Double inRect_height)	Start		SplitterPanel.MakeVisible	Informational		
+Microsoft-Windows-Management-UI	3074	0	SplitterPanel.MakeVisibleStop()	Stop		SplitterPanel.MakeVisible	Informational		
+Microsoft-Windows-Management-UI	3075	0	SplitterPanel.MakeVisible(Double horizontalOffset, Double verticalOffset, Double extentWidth, Double extentHeight)			SplitterPanel.MakeVisible	Informational		
+Microsoft-Windows-Management-UI	3076	0	SplitterPanel.MakeVisible3076(Double x, Double y, Double width, Double height)			SplitterPanel.MakeVisible	Informational		
+Microsoft-Windows-Management-UI	3329	0	PropertyPageSave.Start()	Start		PropertyPageSave.	Informational		
+Microsoft-Windows-Management-UI	3330	0	PropertyPageSave.Stop()	Stop		PropertyPageSave.	Informational		
+Microsoft-Windows-Management-UI	3331	0	PropertyPageLoad.Start()	Start		PropertyPageLoad.	Informational		
+Microsoft-Windows-Management-UI	3332	0	PropertyPageLoad.Stop()	Stop		PropertyPageLoad.	Informational		
+Microsoft-Windows-Management-UI	3333	0	PropertyPageSave.()			PropertyPageSave.	Informational		
+Microsoft-Windows-Management-UI	3334	0	PropertyPageLoad.()			PropertyPageLoad.	Informational		

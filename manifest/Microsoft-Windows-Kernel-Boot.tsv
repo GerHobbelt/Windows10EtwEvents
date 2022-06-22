@@ -52,8 +52,8 @@ Microsoft-Windows-Kernel-Boot	46	0	RetrieveDriverListTime(UInt64 RetrieveDriverL
 Microsoft-Windows-Kernel-Boot	47	0	LoadDrivers(UInt64 LoadDriversTime)			LoadDrivers	Informational		
 Microsoft-Windows-Kernel-Boot	48	0	LoadHive(UnicodeString Path, UInt64 LoadHiveTime)			LoadHive	Informational		
 Microsoft-Windows-Kernel-Boot	49	0	SiPolicyFailure(UnicodeString ImageName, UInt32 SiPolicyStatus)			SiPolicyFailure	Error		
-Microsoft-Windows-Kernel-Boot	50	0	VsmLKeyProvisioningStatus(UInt32 CachedCopyStatus, UInt32 UnsealingCachedCopyStatus, UInt32 KeyGenerationAndSaveStatus, UInt32 SealingStatus, UInt32 TpmPcrMask, UInt32 ProtectorAssistedUnsealStatus, UInt32 ProtectorAssistedResealStatus, UInt32 ProtectorSealUpdateStatus, UInt32 TpmCounterOpStatus, UInt32 TpmCounterCreateStatus, UInt8 BackupSealedBlobUsed)			VsmLKeyProvisioningStatus	Error		
-Microsoft-Windows-Kernel-Boot	51	0	VsmLKeyProvisioningStatus51(UInt32 CachedCopyStatus, UInt32 UnsealingCachedCopyStatus, UInt32 KeyGenerationAndSaveStatus, UInt32 SealingStatus, UInt32 TpmPcrMask, UInt32 ProtectorAssistedUnsealStatus, UInt32 ProtectorAssistedResealStatus, UInt32 ProtectorSealUpdateStatus, UInt32 TpmCounterOpStatus, UInt32 TpmCounterCreateStatus, UInt8 BackupSealedBlobUsed)			VsmLKeyProvisioningStatus	Informational		
+Microsoft-Windows-Kernel-Boot	50	0	VsmLKeyProvisioningStatus(UInt32 CachedCopyStatus, UInt32 UnsealingCachedCopyStatus, UInt32 KeyGenerationAndSaveStatus, UInt32 SealingStatus, UInt32 TpmPcrMask, UInt32 ProtectorAssistedUnsealStatus, UInt32 ProtectorAssistedResealStatus, UInt32 ProtectorSealUpdateStatus, UInt32 TpmCounterOpStatus, UInt32 TpmCounterCreateStatus)			VsmLKeyProvisioningStatus	Error		
+Microsoft-Windows-Kernel-Boot	51	0	VsmLKeyProvisioningStatus51(UInt32 CachedCopyStatus, UInt32 UnsealingCachedCopyStatus, UInt32 KeyGenerationAndSaveStatus, UInt32 SealingStatus, UInt32 TpmPcrMask, UInt32 ProtectorAssistedUnsealStatus, UInt32 ProtectorAssistedResealStatus, UInt32 ProtectorSealUpdateStatus, UInt32 TpmCounterOpStatus, UInt32 TpmCounterCreateStatus)			VsmLKeyProvisioningStatus	Informational		
 Microsoft-Windows-Kernel-Boot	52	0	BootAppLoadTime(GUID ApplicationIdentifier, UInt64 ApplicationLoadTime)			BootAppLoadTime	Informational		
 Microsoft-Windows-Kernel-Boot	53	0	BootApplicationExecution(GUID ApplicationIdentifier, UInt64 ApplicationExecutionTime)			BootApplicationExecution	Informational		
 Microsoft-Windows-Kernel-Boot	54	0	task_054(UInt32 Status, UnicodeString FileName)			task_0	Error		
@@ -82,7 +82,6 @@ Microsoft-Windows-Kernel-Boot	76	0	BootDebuggerBdEnabled()	BdEnabled		BootDebugg
 Microsoft-Windows-Kernel-Boot	77	0	BootDebuggerBdInitFailure(UInt32 DebuggerStatus, UInt32 Status)	BdInitFailure		BootDebugger	Warning		
 Microsoft-Windows-Kernel-Boot	78	0	KernelDebuggerKdInitFailure(UInt32 DebuggerStatus, UInt32 Status)	KdInitFailure		KernelDebugger	Warning		
 Microsoft-Windows-Kernel-Boot	79	0	KernelDebuggerKdEnabled()	KdEnabled		KernelDebugger	Informational		
-Microsoft-Windows-Kernel-Boot	80	1	VsmLKeyProvisioningStatus80_V1(UInt8 IsFasrCertPresent, UInt32 ValidateFasrCertSignatureStatus, UInt32 BootmgrAuthorityEventCount, UInt8 VerifiedMicrosoftAuthority, UInt32 ValidateFasrPcrValuesStatus, Int32 PcrMismatchIndex, UInt32 FasrCertSize, Binary FasrCertWithoutSignature, UInt32 FasrSignatureSize, Binary FasrSignature)			VsmLKeyProvisioningStatus	Informational		
 Microsoft-Windows-Kernel-Boot	100	0	InitializeLibraryStart()	Start	SoftRestart	InitializeLibrary	Informational		
 Microsoft-Windows-Kernel-Boot	100	1	InitializeLibraryStart_V1(Boolean Secure)	Start	SoftRestart	InitializeLibrary	Informational		
 Microsoft-Windows-Kernel-Boot	101	0	InitializeLibraryStop(UInt32 Status)	Stop	SoftRestart	InitializeLibrary	Informational		
@@ -155,7 +154,7 @@ Microsoft-Windows-Kernel-Boot	158	0	BootDiag158(UInt32 DiagCode, UInt32 Status)	
 Microsoft-Windows-Kernel-Boot	159	0	RemoveEnclavePagesStart(UInt64 BasePage, UInt64 PageCount)	Start	MemoryPreservation	RemoveEnclavePages	Informational		
 Microsoft-Windows-Kernel-Boot	160	0	CancelNotificationStart(UInt32 Status)	Start	SoftRestart	CancelNotification	Informational		
 Microsoft-Windows-Kernel-Boot	161	0	CancelNotificationStop(UInt32 Status)	Stop	SoftRestart	CancelNotification	Informational		
-Microsoft-Windows-Kernel-Boot	162	0	GetFirmwareBootDevice(UInt32 Status)		SoftRestart	GetFirmwareBootDevice	Error		
+Microsoft-Windows-Kernel-Boot	162	0	GetSystemBootDevice(UInt32 Status)		SoftRestart	GetSystemBootDevice	Error		
 Microsoft-Windows-Kernel-Boot	163	0	NormalizeBootOptionList(UInt32 Status)		SoftRestart	NormalizeBootOptionList	Error		
 Microsoft-Windows-Kernel-Boot	164	0	CreateLibraryParameters(UInt32 Status)		SoftRestart	CreateLibraryParameters	Error		
 Microsoft-Windows-Kernel-Boot	165	0	InitializeLibrary(UInt32 Status)		SoftRestart	InitializeLibrary	Error		
@@ -200,7 +199,7 @@ Microsoft-Windows-Kernel-Boot	216	0	SoftRebootStart216()	Start	SoftRestart	SoftR
 Microsoft-Windows-Kernel-Boot	217	0	SoftRebootStop217(UInt32 Status)	Stop	SoftRestart	SoftReboot	Informational		
 Microsoft-Windows-Kernel-Boot	218	0	SoftReboot(UnicodeString Function, UInt32 Status, UInt32 Checkpoint)		SoftRestart MemoryPreservation	SoftReboot	Error		
 Microsoft-Windows-Kernel-Boot	219	0	MeasuredLaunchTxtInformation(UInt8 AcmDateDay, UInt8 AcmDateMonth, UInt16 AcmDateYear)	TxtInformation		MeasuredLaunch	Informational		
-Microsoft-Windows-Kernel-Boot	220	0	MeasuredLaunchDrtmNotSupported(UInt32 TxtStatus)	DrtmNotSupported		MeasuredLaunch	Informational		
+Microsoft-Windows-Kernel-Boot	220	0	MeasuredLaunchTxtNotSupported(UInt32 TxtStatus)	TxtNotSupported		MeasuredLaunch	Informational		
 Microsoft-Windows-Kernel-Boot	221	0	MeasuredLaunchDrtmDriversNotSupportVbs()	DrtmDriversNotSupportVbs		MeasuredLaunch	Error		
 Microsoft-Windows-Kernel-Boot	222	0	MeasuredLaunchPpamFailure(UInt32 TxtStatus, UInt64 Argument1, UInt64 Argument2)	PpamFailure		MeasuredLaunch	Error		
 Microsoft-Windows-Kernel-Boot	223	0	IoSpaceMemoryAllocationFailure(UInt32 Phase, UInt32 Status, UInt32 Tries, UInt32 RemainingNodesCount, Int16 RemainingNodes)	AllocationFailure		IoSpaceMemory	Error		
@@ -226,12 +225,4 @@ Microsoft-Windows-Kernel-Boot	241	0	FinalizeNotificationStop(UInt32 Status)	Stop
 Microsoft-Windows-Kernel-Boot	242	0	MeasuredLaunchSmmIsolation(UInt32 IsolationLevel)	SmmIsolation		MeasuredLaunch	Informational		
 Microsoft-Windows-Kernel-Boot	243	0	MemoryMirroringEnabled(UInt32 MirrorPercentage)	Enabled		MemoryMirroring	Informational		
 Microsoft-Windows-Kernel-Boot	244	0	MeasuredLaunchTxtSmmIsolationPerf(UInt64 GetCapabilityTime, UInt64 GetResourcesTime, UInt64 ResourcesValidationTime)	TxtSmmIsolationPerf		MeasuredLaunch	Informational		
-Microsoft-Windows-Kernel-Boot	245	0	UnpersistMemoryPartitionStart(GUID Identifier)	Start	SoftRestart MemoryPreservation	UnpersistMemoryPartition	Informational		
-Microsoft-Windows-Kernel-Boot	246	0	UnpersistMemoryPartitionStop(GUID Identifier, UInt32 Status)	Stop	SoftRestart MemoryPreservation	UnpersistMemoryPartition	Informational		
-Microsoft-Windows-Kernel-Boot	247	0	BootTpmHspLoadFailure(UInt32 Status, UInt32 FailureReason)	HspLoadFailure		BootTpm	Error		
-Microsoft-Windows-Kernel-Boot	248	0	MeasuredLaunchPreviousAmdSlError(UInt32 Source, UInt32 Status)	PreviousAmdSlError	keyword_80000000000	MeasuredLaunch	Error		
-Microsoft-Windows-Kernel-Boot	249	0	BindImportsFailure(AnsiString Module, AnsiString Function, UInt32 Status)		SoftRestart	BindImportsFailure	Error		
-Microsoft-Windows-Kernel-Boot	250	0	SlabAllocationFailure(UInt64 PageCount, UInt32 Status, UInt32 MemoryType, UInt32 Attributes)			SlabAllocationFailure	Error		
 Microsoft-Windows-Kernel-Boot	251	0	QuerySystemInformationFailure(UInt32 InformationClass, UInt32 Status)		SoftRestart	QuerySystemInformationFailure	Error		
-Microsoft-Windows-Kernel-Boot	252	0	BootmgrBltDisplayMenu()			BootmgrBltDisplayMenu	Informational		
-Microsoft-Windows-Kernel-Boot	253	0	HotPatchHotPatchApplyFailure(UInt32 FailurePoint, UInt32 Status, UInt16 HotPatchPathLength, UnicodeString HotPatchPath)	HotPatchApplyFailure	keyword_80000000000	HotPatch	Error		

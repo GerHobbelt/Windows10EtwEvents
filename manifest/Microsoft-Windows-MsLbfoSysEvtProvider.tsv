@@ -1,0 +1,7 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-MsLbfoSysEvtProvider	16945	0	task_0PCODE_128pcode_128(UnicodeString DriverObject, UnicodeString Member)	opcode_128		task_0	Always		
+Microsoft-Windows-MsLbfoSysEvtProvider	16946	0	task_0PCODE_128pcode_12816946(UnicodeString DriverObject, UnicodeString Member)	opcode_128		task_0	Always		
+Microsoft-Windows-MsLbfoSysEvtProvider	16947	0	task_0PCODE_128pcode_12816947(UnicodeString DriverObject, UnicodeString Member)	opcode_128		task_0	Always		
+Microsoft-Windows-MsLbfoSysEvtProvider	16948	0	task_0PCODE_64pcode_64(UnicodeString DriverObject, UnicodeString Member)	opcode_64		task_0	Always		
+Microsoft-Windows-MsLbfoSysEvtProvider	16949	0	task_0PCODE_128pcode_12816949(UnicodeString DriverObject, UnicodeString Member)	opcode_128		task_0	Always		
+Microsoft-Windows-MsLbfoSysEvtProvider	16950	0	task_0PCODE_64pcode_6416950(UnicodeString DriverObject, UnicodeString Member)	opcode_64		task_0	Always		

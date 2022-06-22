@@ -1,0 +1,12 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-EnrollmentWebService	1	0	CertificateEnrollmentServer()			CertificateEnrollmentServer	Informational		
+Microsoft-Windows-EnrollmentWebService	2	0	CertificateEnrollmentServer2(Int32 Error)			CertificateEnrollmentServer	Error		
+Microsoft-Windows-EnrollmentWebService	3	0	CertificateEnrollmentServer3(UnicodeString CAConfig)			CertificateEnrollmentServer	Error		
+Microsoft-Windows-EnrollmentWebService	4	0	CertificateEnrollmentServer4()			CertificateEnrollmentServer	Error		
+Microsoft-Windows-EnrollmentWebService	5	0	CertificateEnrollmentServer5()			CertificateEnrollmentServer	Informational		
+Microsoft-Windows-EnrollmentWebService	6	0	CertificateEnrollmentServer6(UnicodeString CAConfig)			CertificateEnrollmentServer	Warning		
+Microsoft-Windows-EnrollmentWebService	7	0	CertificateEnrollmentServer7(UnicodeString CAConfig)			CertificateEnrollmentServer	Error		
+Microsoft-Windows-EnrollmentWebService	8	0	CertificateEnrollmentServer8(UnicodeString CAConfig)			CertificateEnrollmentServer	Error		
+Microsoft-Windows-EnrollmentWebService	9	0	CertificateEnrollmentServer9(UnicodeString CAConfig)			CertificateEnrollmentServer	Error		
+Microsoft-Windows-EnrollmentWebService	10	0	CertificateEnrollmentServer10()			CertificateEnrollmentServer	Error		
+Microsoft-Windows-EnrollmentWebService	11	0	CertificateEnrollmentServer11()			CertificateEnrollmentServer	Informational		

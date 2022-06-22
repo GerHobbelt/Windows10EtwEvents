@@ -5,9 +5,9 @@ Microsoft-Windows-Dwm-Core	6	0	SCHEDULE_WFVBStart()	Start	DwmFrameRate	SCHEDULE_
 Microsoft-Windows-Dwm-Core	7	0	SCHEDULE_WFVBStop(UInt32 fUseSleep, UInt32 dwSleep)	Stop	DwmFrameRate	SCHEDULE_WFVB	Informational		
 Microsoft-Windows-Dwm-Core	8	0	SCHEDULE_WFWStart()	Start	DwmFrameRate	SCHEDULE_WFW	Informational		
 Microsoft-Windows-Dwm-Core	9	0	SCHEDULE_WFWStop(UInt32 returnedWorkType, UInt32 Work, UInt32 SurfaceManager, UInt32 DelayedComposition, UInt32 Occlusion)	Stop	DwmFrameRate	SCHEDULE_WFW	Informational		
-Microsoft-Windows-Dwm-Core	10	0	SCHEDULE_PROCESS_FRAMEStart()	Start	Scheduling	SCHEDULE_PROCESS_FRAME	Informational		
+Microsoft-Windows-Dwm-Core	10	0	SCHEDULE_PROCESS_FRAMEStart()	Start	FrameVisualization	SCHEDULE_PROCESS_FRAME	Informational		
 Microsoft-Windows-Dwm-Core	11	0	SCHEDULE_PROCESS_FRAME(UInt32 fRenderTime, UInt32 fPresented, UInt32 dwOutstandingPresents, UInt32 dwMaxOutstandingFrames)		Scheduling	SCHEDULE_PROCESS_FRAME	Informational		
-Microsoft-Windows-Dwm-Core	12	0	SCHEDULE_PROCESS_FRAMEStop()	Stop	Scheduling	SCHEDULE_PROCESS_FRAME	Informational		
+Microsoft-Windows-Dwm-Core	12	0	SCHEDULE_PROCESS_FRAMEStop()	Stop	FrameVisualization	SCHEDULE_PROCESS_FRAME	Informational		
 Microsoft-Windows-Dwm-Core	13	0	SCHEDULE_RENDERStart()	Start	Scheduling	SCHEDULE_RENDER	Informational		
 Microsoft-Windows-Dwm-Core	14	0	SCHEDULE_RENDERStop(UInt32 fPresentNeeded)	Stop	Scheduling	SCHEDULE_RENDER	Informational		
 Microsoft-Windows-Dwm-Core	15	0	SCHEDULE_PRESENTStart(UInt64 tCurrent, UInt64 tPresent, UInt64 cRefreshCurrent, UInt64 cRefreshPresent, UInt32 fForce)	Start	Scheduling	SCHEDULE_PRESENT	Informational		
@@ -80,17 +80,17 @@ Microsoft-Windows-Dwm-Core	141	0	SCHEDULE_DXGI_PRESENT_SUCCEEDED()		Scheduling	S
 Microsoft-Windows-Dwm-Core	144	0	ETWGUID_DIRECTFLIP_TRANSITIONEVENT(UInt64 hmon, UInt32 fDirectFlip)		Overlays	ETWGUID_DIRECTFLIP_TRANSITIONEVENT	Verbose		
 Microsoft-Windows-Dwm-Core	145	0	ETWGUID_DIRECTFLIP_PRESENTEVENT(UInt64 hmon)		Composition	ETWGUID_DIRECTFLIP_PRESENTEVENT	Verbose		
 Microsoft-Windows-Dwm-Core	146	0	ETWGUID_DIRECTFLIP_SUPPORTEVENT(UInt64 hCompSurf, UInt32 fSupported, UInt32 fDirectFlipEnabledSurface, UInt32 rotation, UInt32 alphaMode, UInt32 fStereoContent, UInt32 fMonitorSpecificContent, UInt32 surfaceWidth, UInt32 surfaceHeight)		Overlays	ETWGUID_DIRECTFLIP_SUPPORTEVENT	Verbose		
-Microsoft-Windows-Dwm-Core	147	0	Pinning_CompSurfInfoPin(UInt64 hCompSurf, UInt64 cBuffers)		Overlays	Pinning_CompSurfInfoPin	Verbose		
-Microsoft-Windows-Dwm-Core	148	0	Pinning_CompSurfInfoUnpin(UInt64 hCompSurf, UInt64 cBuffers)		Overlays	Pinning_CompSurfInfoUnpin	Verbose		
+Microsoft-Windows-Dwm-Core	147	0	ETWGUID_DIRECTFLIP_PINEVENT(UInt64 hCompSurf)		Overlays	ETWGUID_DIRECTFLIP_PINEVENT	Verbose		
+Microsoft-Windows-Dwm-Core	148	0	ETWGUID_DIRECTFLIP_UNPINEVENT(UInt64 hCompSurf)		Overlays	ETWGUID_DIRECTFLIP_UNPINEVENT	Verbose		
 Microsoft-Windows-Dwm-Core	151	0	ETWGUID_RENDEROPT_DISCARDRESOURCEEVENT(UInt64 pResource)		Composition	ETWGUID_RENDEROPT_DISCARDRESOURCEEVENT	Verbose		
 Microsoft-Windows-Dwm-Core	152	0	ETWGUID_RENDEROPT_TILEABLECOPYEVENT(UInt64 pSrcResource, UInt64 pDstResource, Int32 SrcLeft, Int32 SrcTop, Int32 SrcRight, Int32 SrcBottom, Int32 DstX, Int32 DstY)		Composition	ETWGUID_RENDEROPT_TILEABLECOPYEVENT	Verbose		
 Microsoft-Windows-Dwm-Core	153	0	OPEN_SHARED_TEXTURE_EVENTStart(UInt64 dxSharedHandle)	Start	Composition	OPEN_SHARED_TEXTURE_EVENT	Verbose		
 Microsoft-Windows-Dwm-Core	154	0	OPEN_SHARED_TEXTURE_EVENTStop()	Stop	Composition	OPEN_SHARED_TEXTURE_EVENT	Verbose		
 Microsoft-Windows-Dwm-Core	157	0	PROCESS_COMPOSITION_SURFACE_UPDATE_EVENTStart()	Start	Composition	PROCESS_COMPOSITION_SURFACE_UPDATE_EVENT	Verbose		
 Microsoft-Windows-Dwm-Core	158	0	PROCESS_COMPOSITION_SURFACE_UPDATE_EVENTStop()	Stop	Composition	PROCESS_COMPOSITION_SURFACE_UPDATE_EVENT	Verbose		
-Microsoft-Windows-Dwm-Core	163	0	ETWGUID_PUSH_EXTERNAL_LAYER_EVENTStart(UInt32 left, UInt32 top, UInt32 right, UInt32 bottom)	Start	Composition	ETWGUID_PUSH_EXTERNAL_LAYER_EVENT	Verbose		
+Microsoft-Windows-Dwm-Core	163	0	ETWGUID_PUSH_EXTERNAL_LAYER_EVENTStart(UInt32 left, UInt32 top, UInt32 right, UInt32 bottom)	Start	FrameVisualization	ETWGUID_PUSH_EXTERNAL_LAYER_EVENT	Verbose		
 Microsoft-Windows-Dwm-Core	164	0	ETWGUID_PUSH_EXTERNAL_LAYER_EVENTStop(UInt32 left, UInt32 top, UInt32 right, UInt32 bottom)	Stop	Composition	ETWGUID_PUSH_EXTERNAL_LAYER_EVENT	Verbose		
-Microsoft-Windows-Dwm-Core	165	0	ETWGUID_POP_EXTERNAL_LAYER_EVENTStart()	Start	Composition	ETWGUID_POP_EXTERNAL_LAYER_EVENT	Verbose		
+Microsoft-Windows-Dwm-Core	165	0	ETWGUID_POP_EXTERNAL_LAYER_EVENTStart()	Start	FrameVisualization	ETWGUID_POP_EXTERNAL_LAYER_EVENT	Verbose		
 Microsoft-Windows-Dwm-Core	166	0	ETWGUID_POP_EXTERNAL_LAYER_EVENTStop()	Stop	Composition	ETWGUID_POP_EXTERNAL_LAYER_EVENT	Verbose		
 Microsoft-Windows-Dwm-Core	168	1	ANIMATION_ANALYSIS_DEBUG_EVENT_V1(UnicodeString AnimationScenario, UInt32 ReferenceCount, UInt32 VSyncs, UInt32 GlitchesRecorded, UInt32 ScenarioIndex, UInt64 UniqueKey)		LowOverheadSmoothnessTracking	ANIMATION_ANALYSIS_DEBUG_EVENT	Verbose		
 Microsoft-Windows-Dwm-Core	169	0	SCHEDULE_RENDERTIME(UInt64 pFrame, UInt32 fRenderTime, UInt32 cFramesOutstanding, UInt32 cMaxFramesOutstanding)		FrameDrawInconsistencyInformation	SCHEDULE_RENDERTIME	Informational		
@@ -105,18 +105,18 @@ Microsoft-Windows-Dwm-Core	185	0	ETWGUID_CVI_UPDATE(Pointer CVI, Pointer SourceV
 Microsoft-Windows-Dwm-Core	186	0	ETWGUID_DIRECTFLIP_CANDIDATERECORDEVENT(UInt64 hCompSurf)		Composition	ETWGUID_DIRECTFLIP_CANDIDATERECORDEVENT	Verbose		
 Microsoft-Windows-Dwm-Core	187	0	ETWGUID_DIRECTFLIP_CANDIDATEOVERWRITEVENT(UInt64 hCompSurf, UInt32 nodeType, UInt32 nodeContentType, Int32 nodeBoundsLeft, Int32 nodeBoundsTop, Int32 nodeBoundsRight, Int32 nodeBoundsBottom)		Composition	ETWGUID_DIRECTFLIP_CANDIDATEOVERWRITEVENT	Verbose		
 Microsoft-Windows-Dwm-Core	189	0	SCHEDULE_TIMEADJUSTED_BETWEENFRAMES(UInt64 qpcDelta)		FrameDrawInconsistencyInformation	SCHEDULE_TIMEADJUSTED_BETWEENFRAMES	Informational		
-Microsoft-Windows-Dwm-Core	192	0	SCHEDULE_CLEAR_D2D_CACHESStart(UInt32 PreviousWaitTimeoutMS)	Start	DetailedFrameInformation	SCHEDULE_CLEAR_D2D_CACHES	Informational		
-Microsoft-Windows-Dwm-Core	193	0	SCHEDULE_CLEAR_D2D_CACHESStop(UInt32 fAllCachesReachMinimum)	Stop	DetailedFrameInformation	SCHEDULE_CLEAR_D2D_CACHES	Informational		
+Microsoft-Windows-Dwm-Core	192	0	SCHEDULE_CLEAR_D2D_CACHESStart(UInt32 PreviousWaitTimeoutMS)	Start	Scheduling	SCHEDULE_CLEAR_D2D_CACHES	Informational		
+Microsoft-Windows-Dwm-Core	193	0	SCHEDULE_CLEAR_D2D_CACHESStop(UInt32 fAllCachesReachMinimum)	Stop	Scheduling	SCHEDULE_CLEAR_D2D_CACHES	Informational		
 Microsoft-Windows-Dwm-Core	194	0	MILEVENT_MEDIA_UCE_PROCESSSURFACEUPDATESStart()	Start	Composition	MILEVENT_MEDIA_UCE_PROCESSSURFACEUPDATES	Verbose		
 Microsoft-Windows-Dwm-Core	195	0	MILEVENT_MEDIA_UCE_PROCESSSURFACEUPDATESStop(UInt32 cTotalTokenCount, UInt32 cIterationCount)	Stop	Composition	MILEVENT_MEDIA_UCE_PROCESSSURFACEUPDATES	Verbose		
-Microsoft-Windows-Dwm-Core	196	0	SCHEDULE_SURFACEUPDATE(FILETIME luidSurface, UInt64 bindId, UInt64 PresentCount, UInt64 fenceValue, UInt32 bDirectFlip, UInt32 DXGI_ALPHA_MODE, UInt64 hmonAssociation, UInt32 bStereoPreferRight, UInt32 bTemporaryMono, UInt32 bSwapPool, UInt32 BufferContentType, UInt32 bIndependentFlip, UInt32 uPesentDuration, UInt32 BufferRealizationType, UInt32 uRealizationIndex, Boolean bEnableScanout, UInt64 hDxSurface)		Scheduling	SCHEDULE_SURFACEUPDATE	Informational		
+Microsoft-Windows-Dwm-Core	196	0	SCHEDULE_SURFACEUPDATE(Pointer luidSurface, UInt64 bindId, UInt64 PresentCount, UInt64 fenceValue, UInt32 bDirectFlip, UInt32 DXGI_ALPHA_MODE, UInt64 hmonAssociation, UInt32 bStereoPreferRight, UInt32 bTemporaryMono, UInt32 bSwapPool, UInt32 BufferContentType, UInt32 bIndependentFlip, UInt32 uPesentDuration, UInt32 BufferRealizationType, UInt32 uRealizationIndex, UInt64 hDxSurface)		Scheduling	SCHEDULE_SURFACEUPDATE	Informational		
 Microsoft-Windows-Dwm-Core	197	0	ETWGUID_RENDEROPT_DISCARDVIEWEVENT(UInt64 pView, UInt32 NumRects, Int32 FirstRectLeft, Int32 FirstRectTop, Int32 FirstRectRight, Int32 FirstRectBottom)		Composition	ETWGUID_RENDEROPT_DISCARDVIEWEVENT	Verbose		
 Microsoft-Windows-Dwm-Core	201	0	SCHEDULE_DERIVEDISPLAYSET(UInt32 fSucceeded, UInt32 nrOfAttempts, UInt32 driverUpdateStatus)		Scheduling	SCHEDULE_DERIVEDISPLAYSET	Informational		
 Microsoft-Windows-Dwm-Core	202	0	SCHEDULE_RETIREFRAME(UInt64 cFrame, UInt32 nrOutput, UInt64 cSyncRefreshRetired, UInt64 qpcConfirmed, UInt32 fTimedOut, UInt32 fParallelMode)		Scheduling	SCHEDULE_RETIREFRAME	Informational		
 Microsoft-Windows-Dwm-Core	203	0	SCHEDULE_GETPRESENTSTATS1(UInt32 cDisplays, AnsiString rgDXPresentStats)		Scheduling	SCHEDULE_GETPRESENTSTATS1	Informational		
 Microsoft-Windows-Dwm-Core	204	0	SCHEDULE_PRESENT_STATS_DELTAS(UInt64 DisplayID, UInt64 SyncRefreshCountDelta, Float SyncTimeDeltaMS)		Scheduling	SCHEDULE_PRESENT_STATS_DELTAS	Informational		
-Microsoft-Windows-Dwm-Core	205	0	RENDER_CVIPASSStart()	Start	DetailedFrameInformation	RENDER_CVIPASS	Informational		
-Microsoft-Windows-Dwm-Core	206	0	RENDER_CVIPASSStop()	Stop	DetailedFrameInformation	RENDER_CVIPASS	Informational		
+Microsoft-Windows-Dwm-Core	205	0	RENDER_CVIPASSStart()	Start	Composition	RENDER_CVIPASS	Informational		
+Microsoft-Windows-Dwm-Core	206	0	RENDER_CVIPASSStop()	Stop	Composition	RENDER_CVIPASS	Informational		
 Microsoft-Windows-Dwm-Core	208	0	HIT_TESTStart(UInt32 X, UInt32 Y, UInt64 InputSpaceId, UInt32 WorkspaceId)	Start	DwmInput	HIT_TEST	Informational		
 Microsoft-Windows-Dwm-Core	209	0	HIT_TESTStop(UInt32 X, UInt32 Y, Pointer hWnd, Pointer inputSinkHandle, UInt64 inputSinkLuid, Float _11, Float _12, Float _13, Float _14, Float _21, Float _22, Float _23, Float _24, Float _31, Float _32, Float _33, Float _34, Float _41, Float _42, Float _43, Float _44)	Stop	DwmInput	HIT_TEST	Informational		
 Microsoft-Windows-Dwm-Core	210	0	HIT_TEST_TREE_WALKStart(UInt32 X, UInt32 Y, Pointer RootVisual)	Start	DwmInput	HIT_TEST_TREE_WALK	Informational		
@@ -144,7 +144,7 @@ Microsoft-Windows-Dwm-Core	239	0	ANIMATION_LAST_FRAME_EVENT(UInt64 cFrameStart, 
 Microsoft-Windows-Dwm-Core	240	2	TELEMETRY_AGGREGATED_VSYNC_ANALYSIS_EVENT_V2(UnicodeString AnimationScenario, UInt32 TotalHits, UInt32 metrics1, UInt32 metrics2, UInt32 metrics3, UInt32 FPS)		LowOverheadSmoothnessTracking	TELEMETRY_AGGREGATED_VSYNC_ANALYSIS_EVENT	Informational		
 Microsoft-Windows-Dwm-Core	246	1	DEBUG_FRAME_COUNTER_V1(UInt32 FramePerSecond, UInt64 CPUTimePerFrame)		Composition	DEBUG_FRAME_COUNTER	Informational		
 Microsoft-Windows-Dwm-Core	247	0	ETWGUID_SETINDEPENDENTFLIPINFO(UInt64 hCompSurf, UInt64 bindId, UInt32 uPlaneIndex, UInt32 bIndependentFlipEnabled, UInt32 bNotifySurfaceUpdates, UInt32 uPresentDuration, UInt32 bPendingIndependentFlip)		Composition	ETWGUID_SETINDEPENDENTFLIPINFO	Verbose		
-Microsoft-Windows-Dwm-Core	248	0	ETWGUID_PRIMITIVE_GROUP_SELF_OCCLUSION_INFO(Pointer PrimitiveGroup, UInt32 OccluderCommandIndex)		FrameVisualization	ETWGUID_PRIMITIVE_GROUP_SELF_OCCLUSION_INFO	Verbose		
+Microsoft-Windows-Dwm-Core	248	0	ETWGUID_PRIMITIVE_GROUP_SELF_OCCLUSION_INFO(Pointer PrimitiveGroup, UInt32 OccluderCommandIndex)		Composition	ETWGUID_PRIMITIVE_GROUP_SELF_OCCLUSION_INFO	Verbose		
 Microsoft-Windows-Dwm-Core	249	0	INPUT_SINK_TRANSFORM_UPDATE(Pointer inputSinkHandle, UInt64 inputSinkLuid, Float _11, Float _12, Float _13, Float _14, Float _21, Float _22, Float _23, Float _24, Float _31, Float _32, Float _33, Float _34, Float _41, Float _42, Float _43, Float _44)		DwmInput	INPUT_SINK_TRANSFORM_UPDATE	Informational		
 Microsoft-Windows-Dwm-Core	253	0	ETWGUID_RTCAPTUREStart()	Start	Composition	ETWGUID_RTCAPTURE	Informational		
 Microsoft-Windows-Dwm-Core	254	0	ETWGUID_RTCAPTUREStop()	Stop	Composition	ETWGUID_RTCAPTURE	Informational		
@@ -184,7 +184,7 @@ Microsoft-Windows-Dwm-Core	299	0	MIDMANIPULATION_UPDATE_CAPTURE_CONTACT(Pointer 
 Microsoft-Windows-Dwm-Core	300	0	INTERACTION_TOUCHPAD_CONFIGURATION_CHANGED(Pointer Interaction, UInt32 updateType, UInt32 configurationCount, UInt8 configurations)		DwmInput	INTERACTION_TOUCHPAD_CONFIGURATION_CHANGED	Informational		
 Microsoft-Windows-Dwm-Core	301	0	INTERACTION_PEN_CONFIGURATION_CHANGED(Pointer Interaction, UInt32 updateType, UInt32 configurationCount, UInt8 configurations)		DwmInput	INTERACTION_PEN_CONFIGURATION_CHANGED	Informational		
 Microsoft-Windows-Dwm-Core	302	0	INTERACTION_MOUSE_CONFIGURATION_CHANGED(Pointer Interaction, UInt32 updateType, UInt32 configurationCount, UInt8 configurations)		DwmInput	INTERACTION_MOUSE_CONFIGURATION_CHANGED	Informational		
-Microsoft-Windows-Dwm-Core	303	0	SCHEDULE_FRAME_VSYNCDEADLINES(UInt32 cDisplays, AnsiString rgcDXRefresh)		DetailedFrameInformation	SCHEDULE_FRAME_VSYNCDEADLINES	Informational		
+Microsoft-Windows-Dwm-Core	303	0	SCHEDULE_FRAME_VSYNCDEADLINES(UInt32 cDisplays, AnsiString rgcDXRefresh)		Scheduling	SCHEDULE_FRAME_VSYNCDEADLINES	Informational		
 Microsoft-Windows-Dwm-Core	304	0	ETWGUID_PRESENT(UInt32 vSyncTarget, UInt32 bIsFollowUpPresent, UInt32 flags)		Composition	ETWGUID_PRESENT	Informational		
 Microsoft-Windows-Dwm-Core	309	0	SCHEDULE_NEW_NOMINAL_REFRESH_PERIOD(UInt32 DisplayID, Float OldPeriodMS, Float NewPeriodMS)		Scheduling	SCHEDULE_NEW_NOMINAL_REFRESH_PERIOD	Informational		
 Microsoft-Windows-Dwm-Core	310	0	ETWGUID_HW_PROTECTION_TEMPDISABLE(UInt32 fTemporaryDisable)		Composition	ETWGUID_HW_PROTECTION_TEMPDISABLE	Verbose		
@@ -216,10 +216,10 @@ Microsoft-Windows-Dwm-Core	349	0	SHADERS_EFFECT_COMPILEStart(Pointer pCompilatio
 Microsoft-Windows-Dwm-Core	350	0	SHADERS_EFFECT_COMPILEStop(Pointer pCompilationTask)	Stop	Composition	SHADERS_EFFECT_COMPILE	Verbose		
 Microsoft-Windows-Dwm-Core	351	0	SHADERS_D3DSHADER_LINKStart()	Start	Composition	SHADERS_D3DSHADER_LINK	Verbose		
 Microsoft-Windows-Dwm-Core	352	0	SHADERS_D3DSHADER_LINKStop()	Stop	Composition	SHADERS_D3DSHADER_LINK	Verbose		
-Microsoft-Windows-Dwm-Core	353	0	SHADERS_D3DSHADER_LINK(AnsiString Info)		Composition	SHADERS_D3DSHADER_LINK	Verbose		
+Microsoft-Windows-Dwm-Core	353	0	SHADERS_D3DSHADER_LINK_INFO(AnsiString Info)		Composition	SHADERS_D3DSHADER_LINK_INFO	Verbose		
 Microsoft-Windows-Dwm-Core	354	0	SHADERS_D3DSHADER_CREATEStart(UInt32 Type)	Start	Composition	SHADERS_D3DSHADER_CREATE	Verbose		
 Microsoft-Windows-Dwm-Core	355	0	SHADERS_D3DSHADER_CREATEStop(UInt32 Type)	Stop	Composition	SHADERS_D3DSHADER_CREATE	Verbose		
-Microsoft-Windows-Dwm-Core	356	0	SHADERS_EFFECT_COMPILE(Pointer pCompilationTask, Int32 SubmitterID, AnsiString GraphNodes, Int32 NodeCount, Int32 SubgraphCount, Boolean FoundInCache)		Composition	SHADERS_EFFECT_COMPILE	Verbose		
+Microsoft-Windows-Dwm-Core	356	0	SHADERS_EFFECT_COMPILE_INFO(Pointer pCompilationTask, Int32 SubmitterID, AnsiString GraphNodes, Int32 NodeCount, Int32 SubgraphCount, Boolean FoundInCache)		Composition	SHADERS_EFFECT_COMPILE_INFO	Verbose		
 Microsoft-Windows-Dwm-Core	363	0	COMPUTESCRIBBLE_FRAMESCHEDULED(UInt64 FrameID, UInt32 Framebuffer, Float TimeBeforeVBlank)		ComputeScribble	COMPUTESCRIBBLE_FRAMESCHEDULED	Informational		
 Microsoft-Windows-Dwm-Core	364	0	COMPUTESCRIBBLE_FRAMECOMPLETED(UInt64 FrameID, UInt32 Framebuffer)		ComputeScribble	COMPUTESCRIBBLE_FRAMECOMPLETED	Informational		
 Microsoft-Windows-Dwm-Core	365	0	COMPUTESCRIBBLE_FRAMEDISPATCHStart(UInt64 FrameID, UInt32 Framebuffer)	Start	ComputeScribble	COMPUTESCRIBBLE_FRAMEDISPATCH	Informational		
@@ -279,12 +279,12 @@ Microsoft-Windows-Dwm-Core	424	0	SYNCHRONOUSSUPERWETINK_LOOKUPPERFRAMEDATA_CLEAN
 Microsoft-Windows-Dwm-Core	425	0	SYNCHRONOUSSUPERWETINK_CREATED(Pointer StrokeId)		ComputeScribble	SYNCHRONOUSSUPERWETINK_CREATED	Informational		
 Microsoft-Windows-Dwm-Core	426	0	SYNCHRONOUSSUPERWETINK_SUCCESSFULLY_REGISTERED(Pointer StrokeId, Pointer CompositionSurfaceBitmapId)		ComputeScribble	SYNCHRONOUSSUPERWETINK_SUCCESSFULLY_REGISTERED	Informational		
 Microsoft-Windows-Dwm-Core	427	0	SYNCHRONOUSSUPERWETINK_DESTROYED(Pointer StrokeId)		ComputeScribble	SYNCHRONOUSSUPERWETINK_DESTROYED	Informational		
-Microsoft-Windows-Dwm-Core	428	0	SYNCHRONOUSSUPERWETINK_LOOKUPPERFRAMEDATA_DROPED_FROM_GUEST(Pointer StrokeId, UInt64 PresentCallCount, Boolean IsCurrentOrIncomming, Boolean IsBeginStroke, Boolean IsValid)		ComputeScribble	SYNCHRONOUSSUPERWETINK_LOOKUPPERFRAMEDATA_DROPED_FROM_GUEST	Informational		
-Microsoft-Windows-Dwm-Core	429	0	CustomDurationRejectMonitorConfiguration(Boolean SingleMonitor, UInt8 OverlayPlaneCount)		Overlays	CustomDurationRejectMonitorConfiguration	Informational		
-Microsoft-Windows-Dwm-Core	430	0	CustomDurationRejectPlaneFullscreenTest(UInt32 planeClipLeft, UInt32 planeClipTop, UInt32 planeClipRight, UInt32 planeClipBottom)		Overlays	CustomDurationRejectPlaneFullscreenTest	Informational		
-Microsoft-Windows-Dwm-Core	431	0	CustomDurationRejectDesktopPlaneEnabledTest()		Overlays	CustomDurationRejectDesktopPlaneEnabledTest	Informational		
-Microsoft-Windows-Dwm-Core	432	0	CustomDurationComputeSupportedDuration(UInt32 requestedDuration, UInt32 durationTolerance, UInt32 approvedDuration)		Overlays	CustomDurationComputeSupportedDuration	Informational		
-Microsoft-Windows-Dwm-Core	433	0	CustomDurationUseCachedDuration(UInt32 requestedDuration, UInt32 durationTolerance, UInt32 approvedDuration)		Overlays	CustomDurationUseCachedDuration	Informational		
+Microsoft-Windows-Dwm-Core	428	0	SYNCHRONOUSSUPERWETINK_LOOKUPPERFRAMEDATA_DROPED_FROM_GUEST(Pointer StrokeId, UInt64 PresentCallCount, Boolean IsCurrentOrIncomming, Boolean IsValid)		ComputeScribble	SYNCHRONOUSSUPERWETINK_LOOKUPPERFRAMEDATA_DROPED_FROM_GUEST	Informational		
+Microsoft-Windows-Dwm-Core	429	0	CUSTOMDURATION_REJECT_MONITORCONFIGURATION(Boolean SingleMonitor, UInt8 OverlayPlaneCount)		Overlays	CUSTOMDURATION_REJECT_MONITORCONFIGURATION	Informational		
+Microsoft-Windows-Dwm-Core	430	0	CUSTOMDURATION_REJECT_PLANEFULLSCREENTEST(UInt32 planeClipLeft, UInt32 planeClipTop, UInt32 planeClipRight, UInt32 planeClipBottom)		Overlays	CUSTOMDURATION_REJECT_PLANEFULLSCREENTEST	Informational		
+Microsoft-Windows-Dwm-Core	431	0	CUSTOMDURATION_REJECT_DESKTOPPLANEENABLEDTEST()		Overlays	CUSTOMDURATION_REJECT_DESKTOPPLANEENABLEDTEST	Informational		
+Microsoft-Windows-Dwm-Core	432	0	CUSTOMDURATION_PERIOD_CHECKDRIVERSUPPORT(UInt32 requestedDuration, UInt32 approvedDuration)		Overlays	CUSTOMDURATION_PERIOD_CHECKDRIVERSUPPORT	Informational		
+Microsoft-Windows-Dwm-Core	433	0	CUSTOMDURATION_PERIOD_UTILIZECACHEDDURATION(UInt32 requestedDuration, UInt32 approvedDuration)		Overlays	CUSTOMDURATION_PERIOD_UTILIZECACHEDDURATION	Informational		
 Microsoft-Windows-Dwm-Core	434	0	COMPUTESCRIBBLE_FENCEWAIT(UInt32 BufferId, UInt64 Value)		ComputeScribble	COMPUTESCRIBBLE_FENCEWAIT	Informational		
 Microsoft-Windows-Dwm-Core	435	0	COMPUTESCRIBBLE_FENCESIGNAL(UInt32 BufferId, UInt64 Value)		ComputeScribble	COMPUTESCRIBBLE_FENCESIGNAL	Informational		
 Microsoft-Windows-Dwm-Core	436	0	COMPUTESCRIBBLE_POSTRENDER(UInt64 FrameID, UInt32 Framebuffer)		ComputeScribble	COMPUTESCRIBBLE_POSTRENDER	Informational		
@@ -297,22 +297,6 @@ Microsoft-Windows-Dwm-Core	442	0	SYNCHRONOUSSUPERWETINK_LOOKUPPERFRAMEDATA_FILLE
 Microsoft-Windows-Dwm-Core	443	0	COMPUTESCRIBBLE_THREADWAKEUP_RAW()		ComputeScribble	COMPUTESCRIBBLE_THREADWAKEUP_RAW	Informational		
 Microsoft-Windows-Dwm-Core	444	0	COMPUTESCRIBBLE_DRAWSKIPPED(Pointer SuperWetSource)		ComputeScribble	COMPUTESCRIBBLE_DRAWSKIPPED	Informational		
 Microsoft-Windows-Dwm-Core	445	0	COMPUTESCRIBBLE_DRAWASWETINKStart()	Start	ComputeScribble	COMPUTESCRIBBLE_DRAWASWETINK	Informational		
-Microsoft-Windows-Dwm-Core	446	0	COMPUTESCRIBBLE_DRAWASWETINKStop(Float DirtyRectLeft, Float DirtyRectTop, Float DirtyRectRight, Float DirtyRectBottom)	Stop	ComputeScribble	COMPUTESCRIBBLE_DRAWASWETINK	Informational		
-Microsoft-Windows-Dwm-Core	447	0	SCHEDULE_VSYNC_QPC_SMOOTHING(UInt64 refreshCount, UInt64 reportedTimeHns, UInt64 smoothedTimeHns, Int64 differenceTimeHns, Int64 averageTimeHns, Int32 numDataPoints)		DetailedFrameInformation	SCHEDULE_VSYNC_QPC_SMOOTHING	Informational		
-Microsoft-Windows-Dwm-Core	448	0	SCHEDULE_VSYNC_QPC_SMOOTHING_RESET()		DetailedFrameInformation	SCHEDULE_VSYNC_QPC_SMOOTHING_RESET	Informational		
-Microsoft-Windows-Dwm-Core	449	0	SCHEDULE_VSYNC_QPC_SMOOTHING_UPDATE(UInt64 refreshCount, UInt64 qpcTime)		DetailedFrameInformation	SCHEDULE_VSYNC_QPC_SMOOTHING_UPDATE	Informational		
-Microsoft-Windows-Dwm-Core	450	0	RENDERTARGET_RENDERSKIPPED(UInt32 outstandingPresents)		Composition ComputeScribble	RENDERTARGET_RENDERSKIPPED	Informational		
-Microsoft-Windows-Dwm-Core	451	0	CurrentFrameId(UInt64 FrameId)		Composition DwmFrameRate	CurrentFrameId	Informational		
-Microsoft-Windows-Dwm-Core	452	0	Pinning_AdvanceUnpin(UInt64 displayAdapterLuid, UInt32 VidPnSourceId, Boolean ForceUnpin)		Composition Overlays	Pinning_AdvanceUnpin	Informational		
-Microsoft-Windows-Dwm-Core	453	0	Pinning_D3DPinStart(UInt32 BufferCount)	Start	Composition Overlays	Pinning_D3DPin	Informational		
-Microsoft-Windows-Dwm-Core	454	0	Pinning_D3DPinStop(UInt32 hr)	Stop	Composition Overlays	Pinning_D3DPin	Informational		
-Microsoft-Windows-Dwm-Core	455	0	Pinning_D3DUnpinStart(UInt32 BufferCount)	Start	Composition Overlays	Pinning_D3DUnpin	Informational		
-Microsoft-Windows-Dwm-Core	456	0	Pinning_D3DUnpinStop(UInt32 hr)	Stop	Composition Overlays	Pinning_D3DUnpin	Informational		
-Microsoft-Windows-Dwm-Core	457	0	Pinning_OutstandingUnpinCount(UInt64 surfaceLuid, UInt32 count)		Composition Overlays	Pinning_OutstandingUnpinCount	Informational		
-Microsoft-Windows-Dwm-Core	458	0	CompSurfInfo_BindingStart(UInt64 surfaceLuid, UInt64 bindId)	Start	Composition Overlays	CompSurfInfo_Binding	Informational		
-Microsoft-Windows-Dwm-Core	459	0	CompSurfInfo_BindingStop(UInt32 BindingType, UInt32 BufferCount, Boolean homogeneous)	Stop	Composition Overlays	CompSurfInfo_Binding	Informational		
-Microsoft-Windows-Dwm-Core	460	0	CompSurfInfo_ForceUpdateRealizationStart(UInt64 surfaceLuid, UInt64 bindId, UInt32 flipIndex)	Start	Composition Overlays	CompSurfInfo_ForceUpdateRealization	Informational		
-Microsoft-Windows-Dwm-Core	461	0	CompSurfInfo_ForceUpdateRealizationStop(Boolean applied)	Stop	Composition Overlays	CompSurfInfo_ForceUpdateRealization	Informational		
-Microsoft-Windows-Dwm-Core	462	0	CustomDurationIterationResultStop(UInt32 IterationDuration, UInt32 AcceptableError, UInt32 ClosestSmallerDuration, UInt32 ClosestLargerDuration)	Stop	Composition Overlays	CustomDurationIterationResult	Informational		
-Microsoft-Windows-Dwm-Core	464	0	CompSurfInfo_ScanoutIncompatible(UInt32 Reason)		Composition Overlays	CompSurfInfo_ScanoutIncompatible	Informational		
-Microsoft-Windows-Dwm-Core	465	0	CompSurfInfo_ReuseRealization(UInt64 UniqueId)		Composition Overlays	CompSurfInfo_ReuseRealization	Informational		
+Microsoft-Windows-Dwm-Core	446	0	COMPUTESCRIBBLE_DRAWASWETINKStop(Int32 DirtyRectLeft, Int32 DirtyRectTop, Int32 DirtyRectRight, Int32 DirtyRectBottom)	Stop	ComputeScribble	COMPUTESCRIBBLE_DRAWASWETINK	Informational		
+Microsoft-Windows-Dwm-Core	447	0	SCHEDULE_VSYNC_QPC_SMOOTHING(UInt32 presentRefreshCount, UInt64 reportedTimeHns, UInt64 smoothedTimeHns, Int64 differenceTimeHns)		Composition DwmFrameRate	SCHEDULE_VSYNC_QPC_SMOOTHING	Informational		
+Microsoft-Windows-Dwm-Core	448	0	SCHEDULE_VSYNC_QPC_SMOOTHING_RESET()		Composition DwmFrameRate	SCHEDULE_VSYNC_QPC_SMOOTHING_RESET	Informational		

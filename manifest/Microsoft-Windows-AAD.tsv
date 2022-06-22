@@ -175,4 +175,3 @@ Microsoft-Windows-AAD	1253	0	AadCloudAPPluginOperation1253(UInt32 Result, Unicod
 Microsoft-Windows-AAD	1254	0	AadCloudAPPluginOperation1254(UnicodeString value)		Analytic	AadCloudAPPluginOperation	Informational		
 Microsoft-Windows-AAD	1255	0	AadCloudAPPluginOperation1255(UInt32 NoOfTargets, UInt32 RequestType)		Analytic	AadCloudAPPluginOperation	Informational		
 Microsoft-Windows-AAD	1256	0	AadCloudAPPluginOperation1256(Int32 Result, UnicodeString Target)		Operational Warning	AadCloudAPPluginOperation	Warning		
-Microsoft-Windows-AAD	1257	0	AadCloudAPPluginOperationStart1257(UnicodeString value1, UnicodeString value2)	Start	Analytic	AadCloudAPPluginOperation	Informational		

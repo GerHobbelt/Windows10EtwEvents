@@ -1,0 +1,334 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-ServerManager-MultiMachine	0	0	Servermanagerrefreshtask.()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	1	0	Servermanagerrefreshtask.1()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2	0	Servermanagerrefreshtask.2(UnicodeString Category, UnicodeString Machines)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	3	0	Servermanagerrefreshtask.3(UnicodeString Category, UnicodeString Machines)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4	0	Servermanagerrefreshtask.4()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	5	0	Servermanagerrefreshtask.5(UnicodeString MachineName, UnicodeString JobName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	6	0	Servermanagerrefreshtask.6(UnicodeString MachineName, UnicodeString JobName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	7	0	Servermanagerrefreshtask.7(UnicodeString MachineName, UnicodeString Error)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	8	0	Automationjobexecution.Start(GUID ID, UnicodeString Command, UnicodeString Target, UnicodeString State)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9	0	Automationjobexecution.Start9(GUID ID, UnicodeString Command, UnicodeString Target, UnicodeString State)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	10	0	Servermanagerrefreshtask.10(UnicodeString RefreshTriggerSource, UnicodeString Category, UnicodeString Machines, GUID ID)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	11	0	Servermanagerrefreshtask.11(UnicodeString RefreshTriggerSource, UnicodeString Category, UnicodeString Machines, GUID ID)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	12	0	Servermanagerrefreshtask.12(UnicodeString TaskName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	13	0	Servermanagerrefreshtask.13(UnicodeString TaskName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	14	0	Servermanagerrefreshtask.14(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	15	0	Servermanagerrefreshtask.15()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	16	0	Servermanagerrefreshtask.16()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	17	0	Servermanagerrefreshtask.17(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	18	0	Servermanagerrefreshtask.18()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	19	0	Servermanagerrefreshtask.19()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	20	0	Servermanagerrefreshtask.20()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	21	0	Servermanagerrefreshtask.21(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	22	0	Servermanagerrefreshtask.22(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	23	0	Servermanagerrefreshtask.23()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	24	0	Servermanagerrefreshtask.24()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	25	0	Servermanagerrefreshtask.25(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	26	0	Servermanagerrefreshtask.26()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	27	0	Servermanagerrefreshtask.27()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	28	0	Servermanagerrefreshtask.28()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	29	0	Servermanagerrefreshtask.29(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	30	0	Servermanagerrefreshtask.30(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	31	0	Therolepluginloadtask.Start(Int32 roleId)	Start		Therolepluginloadtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	32	0	Therolepluginloadtask.Stop(Int32 roleId)	Stop		Therolepluginloadtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	33	0	Therolepluginloadtask.(Int32 roleId, UnicodeString Message)			Therolepluginloadtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	34	0	Therolepluginunloadtask.Start(Int32 roleId)	Start		Therolepluginunloadtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	35	0	Therolepluginunloadtask.Start35(Int32 roleId)	Start		Therolepluginunloadtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	36	0	Therolepluginunloadtask.(Int32 roleId, UnicodeString Message)			Therolepluginunloadtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	37	0	TherolepluginRegistrationinformationloadtask.()			TherolepluginRegistrationinformationloadtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	38	0	TherolepluginRegistrationinformationloadtask.38(UnicodeString message)			TherolepluginRegistrationinformationloadtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	39	0	Thecommandexecutiontask.Start()	Start		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	40	0	Thecommandexecutiontask.Stop()	Stop		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	41	0	Thecommandexecutiontask.Start41()	Start		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	42	0	Thecommandexecutiontask.Stop42()	Stop		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	43	0	Thecommandexecutiontask.(UnicodeString machineName, UnicodeString errorMessage)			Thecommandexecutiontask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	44	0	Thecommandexecutiontask.44(UnicodeString machineName, UnicodeString errorMessage)			Thecommandexecutiontask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	45	0	Thecommandexecutiontask.Start45()	Start		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	46	0	Thecommandexecutiontask.Stop46()	Stop		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	47	0	Servermanagerstartuptask.Start()	Start		Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	48	0	Servermanagerstartuptask.Stop()	Stop		Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	49	0	Servermanagerstartuptask.Start49()	Start		Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	50	0	Servermanagerstartuptask.Stop50()	Stop		Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	51	0	Servermanagerstartuptask.(UnicodeString errorMessage)			Servermanagerstartuptask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	52	0	Loadsettingstask.Stop(UnicodeString errorMessage)	Stop		Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	53	0	Servermanagerinitializationtask.()			Servermanagerinitializationtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	54	0	Servermanagerinitializationtask.54(UnicodeString errorMessage)			Servermanagerinitializationtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	55	0	Navigationtask.(UnicodeString navigationItemName, UnicodeString navigationItemType, UnicodeString associatedViewDescriptorType)			Navigationtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	56	0	Navigationtask.56(UnicodeString newNavigationItem)			Navigationtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	57	0	Servermanagerstartuptask.57()			Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	58	0	Servermanagershutdowntask()			Servermanagershutdowntask	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	59	0	Servermanagershutdowntask59(UnicodeString errorMessage)			Servermanagershutdowntask	Error		
+Microsoft-Windows-ServerManager-MultiMachine	60	0	Loadsettingstask.(UnicodeString errorMessage)			Loadsettingstask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	61	0	Servermanagershutdowntask61(UnicodeString errorMessage)			Servermanagershutdowntask	Error		
+Microsoft-Windows-ServerManager-MultiMachine	62	0	Servermanagershutdowntask62(UnicodeString errorMessage)			Servermanagershutdowntask	Error		
+Microsoft-Windows-ServerManager-MultiMachine	63	0	Servermanagerexceptiontask.(UnicodeString source, UnicodeString exception)			Servermanagerexceptiontask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	64	0	Servermanagerrefreshtask.Start()	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	65	0	Servermanagerrefreshtask.Stop()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	66	0	Servermanagerrefreshtask.66(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	67	0	Servermanagerrefreshtask.Start67()	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	68	0	Servermanagerrefreshtask.Stop68()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	69	0	Servermanagerrefreshtask.69(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	70	0	Servermanagerrefreshtask.70(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	71	0	Servermanagerrefreshtask.Start71()	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	72	0	Servermanagerrefreshtask.Stop72()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	73	0	Servermanagerrefreshtask.73(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	74	0	Servermanagerrefreshtask.Start74()	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	75	0	Servermanagerrefreshtask.Stop75()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	76	0	Servermanagerrefreshtask.76(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	77	0	Servermanagerrefreshtask.77(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	78	0	Servermanagerrefreshtask.Start78(UnicodeString MachineName)	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	79	0	Servermanagerrefreshtask.Stop79()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	80	0	Servermanagerrefreshtask.80(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	81	0	Servermanagerrefreshtask.Start81()	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	82	0	Servermanagerrefreshtask.Stop82()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	83	0	Servermanagerrefreshtask.83(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	84	0	Servermanagerrefreshtask.Start84(UnicodeString MachineName)	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	85	0	Servermanagerrefreshtask.Stop85()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	86	0	Servermanagerrefreshtask.86(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	87	0	Servermanagerrefreshtask.Start87(UnicodeString MachineName)	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	88	0	Servermanagerrefreshtask.Stop88()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	89	0	Servermanagerrefreshtask.89(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	90	0	Servermanagerrefreshtask.Start90()	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	91	0	Servermanagerrefreshtask.Stop91()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	92	0	Servermanagerrefreshtask.92(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	93	0	Servermanagerrefreshtask.93(UnicodeString server, UnicodeString job, UnicodeString exception)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	94	0	Servermanagerinitializationtask.Start()	Start		Servermanagerinitializationtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	95	0	Servermanagerinitializationtask.Stop()	Stop		Servermanagerinitializationtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	96	0	Loadsettingstask.Stop96()	Stop		Loadsettingstask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	97	0	Servermanagershutdowntask97()			Servermanagershutdowntask	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	98	0	Loadsettingstask.Start()	Start		Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	99	0	Loadsettingstask.Stop99()	Stop		Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	100	0	Automationjobexecution.(UnicodeString Target, GUID JobID, UnicodeString JobName, UnicodeString TimeElapsed, UnicodeString History)			Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	101	0	Automationjobexecution.101(UnicodeString Target, GUID JobID, UnicodeString JobName, UnicodeString TimeElapsed, UnicodeString History, UnicodeString Exception)			Automationjobexecution.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	102	0	Servermanagerrefreshtask.102(UnicodeString RefreshTriggerSource, UnicodeString Category, UnicodeString Machines, GUID ID)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	103	0	Servermanagerstartuptask.103(UnicodeString ErrorMessage)			Servermanagerstartuptask.	Warning		
+Microsoft-Windows-ServerManager-MultiMachine	104	0	Servermanagerstartuptask.104()			Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	105	0	Servermanagerstartuptask.105(UnicodeString ErrorMessage)			Servermanagerstartuptask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	106	0	Servermanagerstartuptask.106()			Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	107	0	Servermanagershutdowntask107()			Servermanagershutdowntask	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	108	0	Servermanagerstartuptask.108(UnicodeString ErrorMessage)			Servermanagerstartuptask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	109	0	Servermanagerstartuptask.109()			Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	110	0	Servermanagerrefreshtask.110(UnicodeString MachineName, UnicodeString Error)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	111	0	Automationjobexecution.111(UnicodeString MachineName, UnicodeString JobName)			Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	112	0	Automationjobexecution.112(UnicodeString MachineName, UnicodeString Error)			Automationjobexecution.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	113	0	Servermanagerrefreshtask.Start113()	Start		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	114	0	Servermanagerrefreshtask.Stop114()	Stop		Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	115	0	Servermanagerrefreshtask.115(UnicodeString ErrorMessage)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	116	0	Automationjobexecution.116(UnicodeString MachineName, UnicodeString Error)			Automationjobexecution.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	117	0	Thecommandexecutiontask.117(UnicodeString MachineName, UnicodeString Error)			Thecommandexecutiontask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	118	0	Postdeploymentconfigurationtask.(UnicodeString Task, UnicodeString Error)			Postdeploymentconfigurationtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	119	0	Postdeploymentconfigurationtask.119(UnicodeString Description, UnicodeString Source)			Postdeploymentconfigurationtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	120	0	Postdeploymentconfigurationtask.120(UnicodeString Description, UnicodeString Source)			Postdeploymentconfigurationtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	121	0	Postdeploymentconfigurationtask.121(Int32 RoleId, UnicodeString Server, UnicodeString Source, UnicodeString Message)			Postdeploymentconfigurationtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	122	0	Servermanagerrefreshtask.122(UnicodeString MachineName, UnicodeString MessageId, UnicodeString Message)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	123	0	Servermanagerrefreshtask.123(UnicodeString ServerName, UnicodeString Features)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	124	0	Servermanagerrefreshtask.124(UnicodeString ServerName, UnicodeString Features)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	125	0	Servermanagerrefreshtask.125()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	126	0	Therolepluginloadtask.126(Int32 roleId, UnicodeString Status)			Therolepluginloadtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	127	0	Therolepluginloadtask.127(Int32 roleId, UnicodeString Icon)			Therolepluginloadtask.	Warning		
+Microsoft-Windows-ServerManager-MultiMachine	128	0	Servermanagerrefreshtask.128(UnicodeString serverName, Int32 currentRoleId, Int32 parentRoleId)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	129	0	Servermanagerrefreshtask.129(Int32 totalCount, Int32 removedCount, UnicodeString elapsedTime)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	130	0	Loadpersistedautomationjobs.(UnicodeString Owner)			Loadpersistedautomationjobs.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	131	0	Loadpersistedautomationjobs.131(UnicodeString Owner, Int32 Count)			Loadpersistedautomationjobs.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	132	0	Loadpersistedautomationjobs.132(UnicodeString Owner, UnicodeString Error)			Loadpersistedautomationjobs.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	133	0	Automationjobexecution.133(UnicodeString Owner, UnicodeString Command, UnicodeString Target, Boolean Tracked, Boolean Rehydrated)			Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	134	0	Automationjobexecution.134(UnicodeString ErrorMessage)			Automationjobexecution.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	135	0	Servermanagerrefreshtask.135(UnicodeString MachineName, UnicodeString MessageId, UnicodeString Message)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	136	0	Servermanagerrefreshtask.136(UnicodeString MachineName, UnicodeString OperationName, UnicodeString MessageId, UnicodeString Message)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	150	0	Automationjobexecution.Start150(GUID ID, UnicodeString Command, UnicodeString Target)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	151	0	Automationjobexecution.Start151(GUID ID, UnicodeString Command, UnicodeString Target, UnicodeString State)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	152	0	Automationjobexecution.Start152(GUID ID, GUID ParentID, UnicodeString Command, UnicodeString Target, UnicodeString ErrorId, UnicodeString Message, UnicodeString Action, UnicodeString Exception)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	153	0	Automationjobexecution.Start153(GUID ID, GUID ParentID, UnicodeString Command, UnicodeString Target)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	154	0	Automationjobexecution.Start154(GUID ID, GUID ParentID, UnicodeString Command, UnicodeString Target, Int32 PercentComplete)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	155	0	Automationjobexecution.Start155(GUID ID, GUID ParentID, UnicodeString Command, UnicodeString Target, UnicodeString Message)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	156	0	Automationjobexecution.Start156(GUID ID, GUID ParentID, UnicodeString Command, UnicodeString Target, Int32 Milliseconds)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	157	0	Automationjobexecution.Start157(GUID ID, GUID ParentID, UnicodeString Command, UnicodeString Target, Int32 Milliseconds)	Start		Automationjobexecution.	Warning		
+Microsoft-Windows-ServerManager-MultiMachine	160	0	Servermanagerstartuptask.160(UnicodeString exception)			Servermanagerstartuptask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	161	0	Servermanagerstartuptask.161(UnicodeString exception)			Servermanagerstartuptask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	162	0	Servermanagerstartuptask.162(Int32 errorCode)			Servermanagerstartuptask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	163	0	Servermanagershutdowntask163(UnicodeString exception)			Servermanagershutdowntask	Error		
+Microsoft-Windows-ServerManager-MultiMachine	164	0	Thecommandexecutiontask.Start164()	Start		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	165	0	Thecommandexecutiontask.Stop165()	Stop		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	166	0	Thecommandexecutiontask.Start166()	Start		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	167	0	Thecommandexecutiontask.Stop167()	Stop		Thecommandexecutiontask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	168	0	Servermanagerstartuptask.Stop168()	Stop		Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	169	0	Servermanagerstartuptask.Stop169()	Stop		Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	170	0	Loadsettingstask.170(UnicodeString Targets, UnicodeString UserName)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	171	0	Servermanagerrefreshtask.171(UnicodeString RefreshTriggerSource, UnicodeString Category, UnicodeString Machines, GUID ID)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	172	0	Servermanagerrefreshtask.172(GUID ID)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	173	0	Loadsettingstask.173(UnicodeString UserName)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	174	0	Loadsettingstask.174(UnicodeString UserName, Int32 Error)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	175	0	Loadsettingstask.175(UnicodeString UserName)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	176	0	Loadsettingstask.176(UnicodeString UserName, Int32 Error)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	177	0	Loadsettingstask.177(UnicodeString UserName)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	178	0	Loadsettingstask.178(UnicodeString UserName, Int32 Error)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	179	0	Servermanagerrefreshtask.179()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	180	0	Servermanagerrefreshtask.180()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	181	0	Servermanagerrefreshtask.181(UnicodeString exception)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	182	0	Servermanagerrefreshtask.182()			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	183	0	Loadpersistedautomationjobs.183(UnicodeString Command)			Loadpersistedautomationjobs.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	184	0	Loadpersistedautomationjobs.184(UnicodeString Command)			Loadpersistedautomationjobs.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	190	0	Automationjobexecution.190(UnicodeString serviceStatus, UnicodeString exception)			Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	191	0	Automationjobexecution.191(UnicodeString serviceStatus, UnicodeString exception)			Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	192	0	Servermanagerrefreshtask.192(UnicodeString MachineName, Int32 Count)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	193	0	Loadsettingstask.193(Int32 errorCode)			Loadsettingstask.	Warning		
+Microsoft-Windows-ServerManager-MultiMachine	194	0	Servermanagerrefreshtask.194(UnicodeString MachineName, UnicodeString ClusterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	195	0	Servermanagerrefreshtask.195(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	196	0	Servermanagerrefreshtask.196(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	197	0	Servermanagerrefreshtask.197(UnicodeString MachineName, Int32 Count)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	200	0	Servermanagerrefreshtask.200(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	201	0	Servermanagerrefreshtask.201(UnicodeString MachineName, UnicodeString Error)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	202	0	Servermanagerrefreshtask.202(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	203	0	Servermanagerrefreshtask.203(UnicodeString MachineName, UnicodeString Error)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	204	0	Servermanagerrefreshtask.204(UnicodeString MachineName, UnicodeString OperationName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	205	0	Servermanagerrefreshtask.205(UnicodeString MachineName, UnicodeString OperationName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	206	0	Servermanagerrefreshtask.206(UnicodeString MachineName, UnicodeString OperationName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	207	0	Servermanagerrefreshtask.207(UnicodeString MachineName, UnicodeString OperationName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	208	0	Servermanagerrefreshtask.208(UnicodeString MachineName, UnicodeString OperationName, UnicodeString Error)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	209	0	Nodeaccess.(UnicodeString serverName, UnicodeString protocol, UnicodeString userName)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	210	0	Nodeaccess.210(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString protocol)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	211	0	Nodeaccess.211(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString protocol)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	212	0	Nodeaccess.212(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString protocol, UnicodeString error)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	213	0	Nodeaccess.213(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString protocol)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	214	0	Nodeaccess.214(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString methodName, UnicodeString protocol)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	215	0	Nodeaccess.215(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString methodName, UnicodeString protocol)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	216	0	Nodeaccess.216(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString methodName, UnicodeString protocol, UnicodeString error)			Nodeaccess.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	217	0	Nodeaccess.217(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString methodName, UnicodeString protocol)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	218	0	Nodeaccess.218(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString methodName, UnicodeString protocol, UInt32 errorCode, UnicodeString errorMessage)			Nodeaccess.	Warning		
+Microsoft-Windows-ServerManager-MultiMachine	219	0	Nodeaccess.219(UnicodeString serverName, UnicodeString namespaceName, UnicodeString wmiClassName, UnicodeString methodName, UnicodeString protocol, UInt32 channel, UnicodeString message)			Nodeaccess.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	220	0	Servermanagerstartuptask.Stop220()	Stop		Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	221	0	Servermanagerstartuptask.Stop221()	Stop		Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	300	0	Servermanagerrefreshtask.300(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	301	0	Servermanagerrefreshtask.301(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	302	0	Servermanagerrefreshtask.302(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	303	0	Servermanagerrefreshtask.303(UnicodeString serverName, UnicodeString parameterName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	304	0	Servermanagerrefreshtask.304(UnicodeString serverName, UnicodeString parameterName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	305	0	Servermanagerrefreshtask.305(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	306	0	Servermanagerrefreshtask.306(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	307	0	Servermanagerrefreshtask.307(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	308	0	Servermanagerrefreshtask.308(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	309	0	Servermanagerrefreshtask.309(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	310	0	Servermanagerrefreshtask.310(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	311	0	Servermanagerrefreshtask.311(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	312	0	Servermanagerrefreshtask.312(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	313	0	Servermanagerrefreshtask.313(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	314	0	Servermanagerrefreshtask.314(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	315	0	Servermanagerrefreshtask.315(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	316	0	Servermanagerrefreshtask.316(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	317	0	Servermanagerrefreshtask.317(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	318	0	Servermanagerrefreshtask.318(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	319	0	Servermanagerrefreshtask.319(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	320	0	Servermanagerrefreshtask.320(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	321	0	Servermanagerrefreshtask.321(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	322	0	Servermanagerrefreshtask.322(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	323	0	Servermanagerrefreshtask.323(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	324	0	Servermanagerrefreshtask.324(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	325	0	Servermanagerrefreshtask.325(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	326	0	Servermanagerrefreshtask.326(UnicodeString MachineName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	327	0	Servermanagerrefreshtask.327(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	328	0	Servermanagerrefreshtask.328(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	329	0	Servermanagerrefreshtask.329(UnicodeString serverName, UnicodeString parameterName)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	330	0	Servermanagerrefreshtask.330(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	331	0	Servermanagerrefreshtask.331(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	332	0	Servermanagerrefreshtask.332(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	333	0	Servermanagerrefreshtask.333(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	334	0	Servermanagerrefreshtask.334(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	335	0	Servermanagerrefreshtask.335(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	336	0	Servermanagerrefreshtask.336(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	337	0	Servermanagerrefreshtask.337(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	338	0	Servermanagerrefreshtask.338(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	339	0	Servermanagerrefreshtask.339(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	340	0	Servermanagerrefreshtask.340(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	341	0	Servermanagerrefreshtask.341(UnicodeString tileName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	342	0	Servermanagerrefreshtask.342(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	343	0	Servermanagerrefreshtask.343(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	344	0	Servermanagerrefreshtask.344(UnicodeString thumbnailName, UnicodeString timestamp)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	345	0	Servermanagerrefreshtask.345(UnicodeString thumbnailName, UnicodeString timestamp)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	346	0	Servermanagerrefreshtask.346(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	347	0	Servermanagerrefreshtask.347(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	348	0	Servermanagerrefreshtask.348(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	349	0	Servermanagerrefreshtask.349(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	350	0	Servermanagerrefreshtask.350(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	351	0	Servermanagerrefreshtask.351(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	352	0	Servermanagerrefreshtask.352(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	353	0	Servermanagerrefreshtask.353(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	354	0	Servermanagerrefreshtask.354(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	355	0	Servermanagerrefreshtask.355(UnicodeString thumbnailName, Int32 categories)			Servermanagerrefreshtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	356	0	Automationjobexecution.Start356(GUID ID, UnicodeString Command, UnicodeString Target, UnicodeString State)	Start		Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2000	0	Servermanagerstartuptask.2000(UnicodeString serverName)			Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2001	0	Servermanagershutdowntask2001(UnicodeString serverName)			Servermanagershutdowntask	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2002	0	Servermanagerinitializationtask.2002(UnicodeString serverName)			Servermanagerinitializationtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2003	0	Servermanagerinitializationtask.2003(UnicodeString targetServer, UnicodeString Message)			Servermanagerinitializationtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2004	0	Servermanagerinitializationtask.2004(UnicodeString serverName)			Servermanagerinitializationtask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	2005	0	Theuserinteractionwiththewizard.(UnicodeString Category)			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2006	0	Theuserinteractionwiththewizard.2006(Int32 componentId, UnicodeString displayName)			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2007	0	Theuserinteractionwiththewizard.2007(Int32 componentId, UnicodeString displayName)			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2008	0	Theuserinteractionwiththewizard.2008()			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2009	0	Theuserinteractionwiththewizard.2009()			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2010	0	Theuserinteractionwiththewizard.2010(UnicodeString pageTitle)			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2011	0	Theuserinteractionwiththewizard.2011(UnicodeString pageTitle)			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2012	0	Servermanagerstartuptask.2012(UnicodeString serverName)			Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2013	0	Automationjobexecution.2013(UnicodeString MachineName, UnicodeString JobName)			Automationjobexecution.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2014	0	Servermanagerstartuptask.2014(UnicodeString MachineName, UnicodeString JobName, UnicodeString Status, UnicodeString Reason)			Servermanagerstartuptask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2015	0	Theuserinteractionwiththewizard.2015(Int32 componentId, UnicodeString displayName)			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2016	0	Theuserinteractionwiththewizard.2016(Int32 componentId, UnicodeString displayName)			Theuserinteractionwiththewizard.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2100	0	Therolepluginloadtask.2100(Int32 roleId)			Therolepluginloadtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2101	0	Therolepluginloadtask.2101(Int32 roleId, UnicodeString Status, UnicodeString Message)			Therolepluginloadtask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2102	0	Loadsettingstask.2102(Int32 componentId)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2103	0	Loadsettingstask.2103(Int32 componentId)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2105	0	Loadsettingstask.2105(UnicodeString fileLocation)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2106	0	Loadsettingstask.2106(UnicodeString fileLocation)			Loadsettingstask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2107	0	Thecallintodeploymentpluginfunctionality.(Int32 componentId)			Thecallintodeploymentpluginfunctionality.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2108	0	Thecallintodeploymentpluginfunctionality.2108(Int32 roleId, UnicodeString Status)			Thecallintodeploymentpluginfunctionality.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2109	0	Thecallintodeploymentpluginfunctionality.2109(Int32 componentId)			Thecallintodeploymentpluginfunctionality.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	2110	0	Thecallintodeploymentpluginfunctionality.2110(Int32 roleId, UnicodeString Status)			Thecallintodeploymentpluginfunctionality.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4000	0	Add__InternalWindowsRoletask.(UnicodeString targetComputer, UnicodeString serverComponentNames, Boolean remove, UnicodeString pathToVhdFile, Boolean permitReboot, UnicodeString source, Boolean deleteComponents)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4001	0	Add__InternalWindowsRoletask.4001(UnicodeString targetComputer, Int32 requestState, Boolean restartRequired, UnicodeString errorMessage, UnicodeString errorId, Int32 errorCategory, UnicodeString warnings)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4002	0	Add__InternalWindowsRoletask.4002(UnicodeString targetComputer, Int32 requestState, Boolean restartRequired, UnicodeString errorMessage, UnicodeString errorId, Int32 errorCategory, UnicodeString warnings)			Add__InternalWindowsRoletask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	4010	0	Add__InternalWindowsRoletask.4010(UnicodeString targetComputer, GUID requestGuid)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4011	0	Add__InternalWindowsRoletask.4011(UnicodeString targetComputer, GUID requestGuid, Int32 requestState, Boolean restartRequired, Int32 progressTicks, Int32 totalTicks, UnicodeString errorMessage, UnicodeString errorId, Int32 errorCategory, UnicodeString warnings)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4012	0	Add__InternalWindowsRoletask.4012(UnicodeString targetComputer, GUID requestGuid)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4013	0	Add__InternalWindowsRoletask.4013(UnicodeString targetComputer, GUID requestGuid, Int32 requestState, Boolean restartRequired, Int32 progressTicks, Int32 totalTicks, UnicodeString errorMessage, UnicodeString errorId, Int32 errorCategory, UnicodeString warnings)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4020	0	Add__InternalWindowsRoletask.4020(UnicodeString targetComputer, FILETIME initialLastBootTime)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4021	0	Add__InternalWindowsRoletask.4021(UnicodeString targetComputer, FILETIME initialLastBootTime, FILETIME currentLastBootTime, Boolean alreadyRebooted)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4022	0	Add__InternalWindowsRoletask.4022(UnicodeString targetComputer)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4023	0	Add__InternalWindowsRoletask.4023(UnicodeString targetComputer)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	4024	0	Add__InternalWindowsRoletask.4024(UnicodeString targetComputer)			Add__InternalWindowsRoletask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9000	0	Get_WindowsFeaturetask.(GUID requestGuid, UnicodeString serverComponentNames)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9001	0	Get_WindowsFeaturetask.9001(GUID requestGuid, UnicodeString serverComponentNames)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9002	0	Get_WindowsFeaturetask.9002(GUID requestGuid, UnicodeString serverComponentNames)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9003	0	Get_WindowsFeaturetask.9003(GUID requestGuid, Boolean restartRequired)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9004	0	Get_WindowsFeaturetask.9004(GUID requestGuid, UInt32 ticks, UInt32 totalTicks)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9005	0	Get_WindowsFeaturetask.9005(GUID requestGuid, UnicodeString message)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9006	0	Get_WindowsFeaturetask.9006()			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9007	0	Get_WindowsFeaturetask.9007(GUID requestGuid, Boolean restartRequired)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9008	0	Get_WindowsFeaturetask.9008(GUID requestGuid, UInt32 ticks, UInt32 totalTicks)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9009	0	Get_WindowsFeaturetask.9009(GUID requestGuid, UnicodeString message)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9010	0	Get_WindowsFeaturetask.9010(UnicodeString message)			Get_WindowsFeaturetask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	9011	0	Get_WindowsFeaturetask.9011(UnicodeString message1, Int32 currentRoleId)			Get_WindowsFeaturetask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	9012	0	Get_WindowsFeaturetask.9012(UnicodeString message1, Int32 currentRoleId)			Get_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9100	0	Add_WindowsFeaturetask.(GUID requestGuid, UnicodeString serverComponentNames)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9101	0	Add_WindowsFeaturetask.9101(GUID requestGuid, UnicodeString serverComponentNames)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9102	0	Add_WindowsFeaturetask.9102(GUID requestGuid, UnicodeString serverComponentNames)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9103	0	Add_WindowsFeaturetask.9103(GUID requestGuid, Boolean restartRequired)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9104	0	Add_WindowsFeaturetask.9104(GUID requestGuid, UInt32 ticks, UInt32 totalTicks)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9105	0	Add_WindowsFeaturetask.9105(GUID requestGuid, UnicodeString message)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9106	0	Add_WindowsFeaturetask.9106(GUID requestGuid)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9107	0	Add_WindowsFeaturetask.9107(GUID requestGuid, Boolean restartRequired)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9108	0	Add_WindowsFeaturetask.9108(GUID requestGuid, UInt32 ticks, UInt32 totalTicks)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9109	0	Add_WindowsFeaturetask.9109(GUID requestGuid, UnicodeString message)			Add_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9110	0	Add_WindowsFeaturetask.9110(GUID requestGuid, UnicodeString message)			Add_WindowsFeaturetask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	9200	0	Remove_WindowsFeaturetask.(GUID requestGuid, UnicodeString serverComponentNames)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9201	0	Remove_WindowsFeaturetask.9201(GUID requestGuid, UnicodeString serverComponentNames)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9202	0	Remove_WindowsFeaturetask.9202(GUID requestGuid, UnicodeString serverComponentNames)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9203	0	Remove_WindowsFeaturetask.9203(GUID requestGuid, Boolean restartRequired)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9204	0	Remove_WindowsFeaturetask.9204(GUID requestGuid, UInt32 ticks, UInt32 totalTicks)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9205	0	Remove_WindowsFeaturetask.9205(GUID requestGuid, UnicodeString message)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9206	0	Remove_WindowsFeaturetask.9206(GUID requestGuid)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9207	0	Remove_WindowsFeaturetask.9207(GUID requestGuid, Boolean restartRequired)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9208	0	Remove_WindowsFeaturetask.9208(GUID requestGuid, UInt32 ticks, UInt32 totalTicks)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9209	0	Remove_WindowsFeaturetask.9209(GUID requestGuid, UnicodeString message)			Remove_WindowsFeaturetask.	Informational		
+Microsoft-Windows-ServerManager-MultiMachine	9210	0	Remove_WindowsFeaturetask.9210(UnicodeString message)			Remove_WindowsFeaturetask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	9211	0	Add_WindowsFeaturetask.9211(UnicodeString message)			Add_WindowsFeaturetask.	Error		
+Microsoft-Windows-ServerManager-MultiMachine	9301	0	Initializelogfiletask.(UnicodeString message)			Initializelogfiletask.	Informational		

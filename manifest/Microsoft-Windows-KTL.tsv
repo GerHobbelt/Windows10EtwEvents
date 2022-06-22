@@ -1,0 +1,24 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-KTL	101	0	task_0(AnsiString Value)		Debug	task_0	Verbose		
+Microsoft-Windows-KTL	102	0	task_0102(AnsiString Function, UInt32 Line, AnsiString File)		Debug	task_0	Verbose		
+Microsoft-Windows-KTL	103	0	task_0103(Int32 CheckpointId, AnsiString Message, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Verbose		
+Microsoft-Windows-KTL	104	0	task_0104(AnsiString Function, HexInt32 Status, AnsiString Message)			task_0	Verbose		
+Microsoft-Windows-KTL	105	0	task_0105(UInt32 CheckpointId, HexInt32 Status, AnsiString Message)			task_0	Verbose		
+Microsoft-Windows-KTL	106	0	task_0106(Int32 CheckpointId, AnsiString Message, HexInt32 Status, HexInt64 D1, HexInt64 D2, HexInt64 D3, HexInt64 D4, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Verbose		
+Microsoft-Windows-KTL	107	0	task_0107(Int32 CheckpointId, AnsiString Message, HexInt32 Status, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Verbose		
+Microsoft-Windows-KTL	108	0	task_0108(HexInt64 ActivityId, AnsiString Message, HexInt32 Status, HexInt64 D1, HexInt64 D2, HexInt64 D3, HexInt64 D4, AnsiString Function, UInt32 Line, AnsiString File)		Error	task_0	Error		
+Microsoft-Windows-KTL	109	0	task_0109(HexInt64 ActivityId, AnsiString Message, HexInt32 Status, HexInt64 D1, HexInt64 D2, HexInt64 D3, HexInt64 D4, AnsiString Function, UInt32 Line, AnsiString File)		Error	task_0	Error		
+Microsoft-Windows-KTL	110	0	task_0110(Int64 Value)		Debug	task_0	Error		
+Microsoft-Windows-KTL	111	0	task_0111(HexInt64 traceId, Boolean inbound, UnicodeString packageName, HexInt32 capabilities)		Debug	task_0	Informational		
+Microsoft-Windows-KTL	112	0	task_0112(HexInt64 traceId, Boolean inbound, HexInt32 error)		Debug	task_0	Warning		
+Microsoft-Windows-KTL	113	0	task_0113(HexInt64 ActivityId, AnsiString Message, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Verbose		
+Microsoft-Windows-KTL	114	0	task_0114(HexInt64 ActivityId, AnsiString Message, HexInt32 Status, HexInt64 D1, HexInt64 D2, HexInt64 D3, HexInt64 D4, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Verbose		
+Microsoft-Windows-KTL	115	0	task_0115(HexInt64 ActivityId, AnsiString Message, HexInt32 Status, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Verbose		
+Microsoft-Windows-KTL	116	0	task_0116(AnsiString Value)		Debug	task_0	Informational		
+Microsoft-Windows-KTL	117	0	task_0117(HexInt64 ActivityId, AnsiString Message, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Informational		
+Microsoft-Windows-KTL	118	0	task_0118(HexInt64 ActivityId, AnsiString Message, HexInt32 Status, HexInt64 D1, HexInt64 D2, HexInt64 D3, HexInt64 D4, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Informational		
+Microsoft-Windows-KTL	119	0	task_0119(HexInt64 ActivityId, AnsiString Message, HexInt32 Status, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Informational		
+Microsoft-Windows-KTL	301	0	task_0301(HexInt64 ActivityId, HexInt32 Status, Pointer ContextPointer, HexInt64 D1, HexInt64 D2, AnsiString Function, UInt32 Line, AnsiString File)		Error	task_0	Warning		
+Microsoft-Windows-KTL	302	0	task_0302(HexInt64 ActivityId, HexInt32 Status, Pointer ContextPointer, HexInt64 D1, HexInt64 D2, AnsiString Function, UInt32 Line, AnsiString File)		Error	task_0	Warning		
+Microsoft-Windows-KTL	303	0	task_0303(HexInt64 ActivityId, Pointer ContextPointer, Boolean Cancelable, Boolean Completed, HexInt64 D1, AnsiString Function, UInt32 Line, AnsiString File)			task_0	Informational		
+Microsoft-Windows-KTL	304	0	task_0304(AnsiString ClassName, Pointer ContextPointer, AnsiString ParameterName, HexInt64 OldValue, HexInt64 NewValue)		Configuration	task_0	Informational		

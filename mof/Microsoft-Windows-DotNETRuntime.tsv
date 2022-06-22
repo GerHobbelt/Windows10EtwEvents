@@ -1,0 +1,46 @@
+provider	category	event_id	version	event(fields)	event_type	description
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	1	0	GCStart(UInt32 Count, UInt32 Type)	GCStart	Start GC Collection
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	2	0	GCEnd(UInt32 Count, UInt32 Depth)	GCEnd	End GC Collection
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	4	0	GCRestartEEEnd()	GCRestartEE End	GCRestartEEEnd
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	5	0	HeapStats(UInt64 GenerationSize0, UInt64 TotalPromotedSize0, UInt64 GenerationSize1, UInt64 TotalPromotedSize1, UInt64 GenerationSize2, UInt64 TotalPromotedSize2, UInt64 GenerationSize3, UInt64 TotalPromotedSize3, UInt64 FinalizationPromotedSize, UInt64 FinalizationPromotedCount, UInt32 PinnedObjectCount, UInt32 SinkBlockCount, UInt32 GCHandleCount)	GCHeapStats	GC Heap Statistics
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	6	0	AllocateSegment(UInt64 Address, UInt64 Size, UInt32 Type)	CreateSegment	Segment allocation
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	7	0	FreeSegment(UInt64 Address)	FreeSegment	Segment free
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	8	0	RestartEEBegin()	RestartEE Begin	GCRestartEEBegin
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	9	0	GCSuspendEEEnd()	GCSuspendEE End	GCSuspendEEEnd
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	10	0	SuspendEEBegin(UInt32 Reason, UInt32 GcCount)	SuspendEE Begin	Suspend EE
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	11	0	AllocationTick(UInt32 Allocation, UInt32 AllocationKind)	AllocationTick	Allocation Tick
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	15	0	GCFinalizersEnd(UInt32 Count)	GCFinalizers End	GCFinalizersEnd
+Microsoft-Windows-DotNETRuntime	{044973cd-251f-4dff-a3e9-9d6307286b05}	19	0	GCFinalizersBegin()	GCFinalizers Begin	GCFinalizersBegin
+Microsoft-Windows-DotNETRuntime	{15447A14-B523-46ae-B75B-023F900B4393}	1	0	StrongNameVerification(UInt32 VerificationFlags, UInt32 ErrorCode, String FullyQualifiedAssemblyName)		StrongNameVerification Start/End
+Microsoft-Windows-DotNETRuntime	{15447A14-B523-46ae-B75B-023F900B4393}	2	0	StrongNameVerification(UInt32 VerificationFlags, UInt32 ErrorCode, String FullyQualifiedAssemblyName)		StrongNameVerification Start/End
+Microsoft-Windows-DotNETRuntime	{300ce105-86d1-41f8-b9d2-83fcbff32d99}	1	0	ExceptionThrown()	Exception	Exception
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	14	0	RundownComplete()		Rundown Complete Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	15	0	RundownComplete()		Rundown Complete Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	33	0	MethodLoadUnLoad(UInt64 MethodIdentifier, UInt64 ModuleID, UInt64 MethodStartAddress, UInt32 MethodSize, UInt32 MethodToken, UInt32 MethodFlags)		Method Load/UnLoad Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	34	0	MethodLoadUnLoad(UInt64 MethodIdentifier, UInt64 ModuleID, UInt64 MethodStartAddress, UInt32 MethodSize, UInt32 MethodToken, UInt32 MethodFlags)		Method Load/UnLoad Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	35	0	MethodLoadUnLoad(UInt64 MethodIdentifier, UInt64 ModuleID, UInt64 MethodStartAddress, UInt32 MethodSize, UInt32 MethodToken, UInt32 MethodFlags)		Method Load/UnLoad Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	36	0	MethodLoadUnLoad(UInt64 MethodIdentifier, UInt64 ModuleID, UInt64 MethodStartAddress, UInt32 MethodSize, UInt32 MethodToken, UInt32 MethodFlags)		Method Load/UnLoad Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	37	0	MethodLoadUnLoadVerbose(UInt64 MethodIdentifier, UInt64 ModuleID, UInt64 MethodStartAddress, UInt32 MethodSize, UInt32 MethodToken, UInt32 MethodFlags, String MethodNameSpace, String Methodname, String MethodSig)		Method Load/UnLoad Verbose Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	38	0	MethodLoadUnLoadVerbose(UInt64 MethodIdentifier, UInt64 ModuleID, UInt64 MethodStartAddress, UInt32 MethodSize, UInt32 MethodToken, UInt32 MethodFlags, String MethodNameSpace, String Methodname, String MethodSig)		Method Load/UnLoad Verbose Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	39	0	MethodLoadUnLoadVerbose(UInt64 MethodIdentifier, UInt64 ModuleID, UInt64 MethodStartAddress, UInt32 MethodSize, UInt32 MethodToken, UInt32 MethodFlags, String MethodNameSpace, String Methodname, String MethodSig)		Method Load/UnLoad Verbose Info
+Microsoft-Windows-DotNETRuntime	{3044F61A-99B0-4c21-B203-D39423C73B00}	40	0	MethodLoadUnLoadVerbose(UInt64 MethodIdentifier, UInt64 ModuleID, UInt64 MethodStartAddress, UInt32 MethodSize, UInt32 MethodToken, UInt32 MethodFlags, String MethodNameSpace, String Methodname, String MethodSig)		Method Load/UnLoad Verbose Info
+Microsoft-Windows-DotNETRuntime	{561410f5-a138-4ab3-945e-516483cddfbc}	1	0	Contention()	Contention	Contention
+Microsoft-Windows-DotNETRuntime	{840c8456-6457-4eb7-9cd0-d28f01c64f5e}	1	0	RetireIOThread(UInt32 IOThreadCount, UInt32 RetiredIOs)	RetireIOThread	Retire IO thread
+Microsoft-Windows-DotNETRuntime	{840c8456-6457-4eb7-9cd0-d28f01c64f5e}	2	0	UnretireIOThread(UInt32 IOThreadCount, UInt32 RetiredIOs)	UnretireIOThread	Unretire IO thread
+Microsoft-Windows-DotNETRuntime	{861f5339-19d6-4873-b350-7b03228bda7c}	1	0	NgenBindRejectInfo(UInt32 RejectReason)		NGEN Reject Info
+Microsoft-Windows-DotNETRuntime	{861f5339-19d6-4873-b350-7b03228bda7c}	2	0	ModuleNgenBindRejectInfo(UInt32 RejectReason, String ModuleNameOrFilePath)		Module NGEN Reject Info
+Microsoft-Windows-DotNETRuntime	{861f5339-19d6-4873-b350-7b03228bda7c}	3	0	RefDefNgenBindRejectInfo(UInt32 RejectReason, String RefModuleName, String DefModuleName)		Ref/Def NGEN Reject Info
+Microsoft-Windows-DotNETRuntime	{B17304D9-5AFA-4da6-9F7B-5A4FA73129B6}	1	0	AuthenticodeVerification(UInt32 VerificationFlags, UInt32 ErrorCode, String ModulePath)		AuthenticodeVerification Start/End
+Microsoft-Windows-DotNETRuntime	{B17304D9-5AFA-4da6-9F7B-5A4FA73129B6}	2	0	AuthenticodeVerification(UInt32 VerificationFlags, UInt32 ErrorCode, String ModulePath)		AuthenticodeVerification Start/End
+Microsoft-Windows-DotNETRuntime	{c424b3e3-2ae0-416e-a039-410c5d8e5f14}	1	0	SuspendThread(UInt32 TID, UInt32 CPUUtil)	SuspendThread	Suspend thread processing
+Microsoft-Windows-DotNETRuntime	{c424b3e3-2ae0-416e-a039-410c5d8e5f14}	2	0	ResumeThread(UInt32 TID, UInt32 CPUUtil)	ResumeThread	Resume thread processing
+Microsoft-Windows-DotNETRuntime	{c71408de-42cc-4f81-9c93-b8912abf2a0f}	1	0	CreateIOThread(UInt32 IOThreadCount, UInt32 RetiredIOs)	CreateIOThread	Create IO thread
+Microsoft-Windows-DotNETRuntime	{c71408de-42cc-4f81-9c93-b8912abf2a0f}	2	0	TerminateIOThread(UInt32 IOThreadCount, UInt32 RetiredIOs)	TerminateIOThread	Terminate IO thread
+Microsoft-Windows-DotNETRuntime	{cfc4ba53-fb42-4757-8b70-5f5d51fee2f4}	1	0	CreateWorkerThread(UInt32 WorkerThreadCount, UInt32 RetiredWorkers)	CreateWorkerThread	Create worker thread
+Microsoft-Windows-DotNETRuntime	{cfc4ba53-fb42-4757-8b70-5f5d51fee2f4}	2	0	TerminateWorkerThread(UInt32 WorkerThreadCount, UInt32 RetiredWorkers)	TerminateWorkerThread	Terminate worker thread
+Microsoft-Windows-DotNETRuntime	{D00792DA-07B7-40f5-97EB-5D974E054740}	33	0	ModuleLoadUnLoad(UInt64 ModuleId, UInt64 AssemblyId, UInt64 ModuleFlags, String ModuleILPath, String ModuleNativePath)		Module Load/UnLoad
+Microsoft-Windows-DotNETRuntime	{D00792DA-07B7-40f5-97EB-5D974E054740}	34	0	ModuleLoadUnLoad(UInt64 ModuleId, UInt64 AssemblyId, UInt64 ModuleFlags, String ModuleILPath, String ModuleNativePath)		Module Load/UnLoad
+Microsoft-Windows-DotNETRuntime	{D00792DA-07B7-40f5-97EB-5D974E054740}	35	0	ModuleLoadUnLoad(UInt64 ModuleId, UInt64 AssemblyId, UInt64 ModuleFlags, String ModuleILPath, String ModuleNativePath)		Module Load/UnLoad
+Microsoft-Windows-DotNETRuntime	{D00792DA-07B7-40f5-97EB-5D974E054740}	36	0	ModuleLoadUnLoad(UInt64 ModuleId, UInt64 AssemblyId, UInt64 ModuleFlags, String ModuleILPath, String ModuleNativePath)		Module Load/UnLoad
+Microsoft-Windows-DotNETRuntime	{efdf1eac-1d5d-4e84-893a-19b80f692176}	1	0	RetireWorkerThread(UInt32 WorkerThreadCount, UInt32 RetiredWorkers)	RetireWorkerThread	Retire worker thread
+Microsoft-Windows-DotNETRuntime	{efdf1eac-1d5d-4e84-893a-19b80f692176}	2	0	UnretireWorkerThread(UInt32 WorkerThreadCount, UInt32 RetiredWorkers)	UnretireWorkerThread	Unretire worker thread

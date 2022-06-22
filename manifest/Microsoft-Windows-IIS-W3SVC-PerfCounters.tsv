@@ -1,0 +1,5 @@
+provider	event_id	version	event(fields)	opcode	keywords	task	level	evtlog_channel	evtlog_message
+Microsoft-Windows-IIS-W3SVC-PerfCounters	2000	0	task_0PCODE_192pcode_192()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-PerfCounters	2001	0	task_0PCODE_192pcode_1922001()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-PerfCounters	2002	0	task_0PCODE_192pcode_1922002()	opcode_192		task_0	Always		
+Microsoft-Windows-IIS-W3SVC-PerfCounters	2003	0	task_0PCODE_192pcode_1922003(UnicodeString timePeriod)	opcode_192		task_0	Always		
