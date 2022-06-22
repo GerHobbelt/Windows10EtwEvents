@@ -8,7 +8,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  run:
+  - run:
+    name: Build
     runs-on: windows-2019
     steps:
       - name: Checkout code
@@ -19,20 +20,39 @@ jobs:
       - name: Install msbuild
         uses: microsoft/setup-msbuild@v1.1
 
+      - name: Build src
+        run: msbuild -restore _src\DumpRegisteredEtwProviders.sln -verbosity:diag -property:RestorePackagesConfig=true -property:Configuration=Release
+
+      - name: Upload build artefacts
+        uses: actions/upload-artifact@master
+        with:
+          name: build
+          path: |
+            _src\bin\Release\DumpRegisteredEtwProviders.exe
+            _src\bin\Release\*.dll
+
+  - run:
+    name: Run
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v3
+
       - name: Set WINDOWS_VERSION env variable
         run: Echo ("WINDOWS_VERSION="+([System.Environment]::OSVersion.Version).ToString()) | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
         shell: powershell
 
-      - name: Build src
-        run: msbuild -restore _src\DumpRegisteredEtwProviders.sln -verbosity:diag -property:RestorePackagesConfig=true -property:Configuration=Release
-
       - name: Generate List
         run: logman query providers | Out-File -FilePath .\list\logman_providers.txt -Encoding ascii
         shell: powershell
+
       - name: Generate Details
         run: |
-          Copy-Item .\_src\bin\Release\DumpRegisteredEtwProviders.exe .
-          Copy-Item .\_src\bin\Release\*.dll .
           .\DumpRegisteredEtwProviders.exe
           Copy-Item -Recurse -Force .\output\* .
         shell: powershell
