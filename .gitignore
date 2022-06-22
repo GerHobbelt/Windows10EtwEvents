@@ -10,3 +10,4 @@ _src/*/packages
 DumpRegisteredEtwProviders.exe
 *.dll
 output
+build

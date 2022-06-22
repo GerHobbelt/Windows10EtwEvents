@@ -43,6 +43,8 @@ jobs:
 
       - name: Download artifacts
         uses: actions/download-artifact@v3
+        with:
+          name: build
 
       - name: Set WINDOWS_VERSION env variable
         run: Echo ("WINDOWS_VERSION="+([System.Environment]::OSVersion.Version).ToString()) | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
