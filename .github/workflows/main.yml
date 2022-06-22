@@ -33,6 +33,7 @@ jobs:
 
   job_run:
     name: Run
+    needs: job_build
     runs-on: windows-latest
     steps:
       - name: Checkout code
