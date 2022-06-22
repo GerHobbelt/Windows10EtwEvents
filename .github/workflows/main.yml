@@ -1,0 +1,34 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * *'  # every day at midnight
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          submodules: recursive
+
+      - name: Set WINDOWS_VERSION env variable
+        run: Echo ("WINDOWS_VERSION="+([System.Environment]::OSVersion.Version).ToString()) | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+        shell: powershell
+
+      - name: Generate List
+        run: logman query providers | Out-File -FilePath .\list\logman_providers.txt -Encoding ascii
+        shell: powershell
+
+      - name: Add new commit if needed
+        uses: EndBug/add-and-commit@v5
+        with:
+          add: "manifest mof unknown list --force"
+          message: "Updated to ${{ env.WINDOWS_VERSION }}"
+          tag: "${{ env.WINDOWS_VERSION }} --force"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
